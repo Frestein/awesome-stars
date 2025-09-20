@@ -7,8 +7,8 @@
 ## Lists
 
 - [By Language](by-language.md)
-- [By Topic](by-topic.md)
 - [By List](by-list.md)
+- [By Topic](by-topic.md)
 
 ## License
 
