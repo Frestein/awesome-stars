@@ -185,10 +185,11 @@
 - [meribold/dotfiles](https://github.com/meribold/dotfiles) - Personal dotfiles make using computers tolerable
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
-- [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] Some goatshit.
+- [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit.
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - [MIRROR] The path to GNUrvana
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [qtile/qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
+- [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
 
 ## emacs
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
@@ -537,6 +538,9 @@
 - [tanrax/lobsters.el](https://github.com/tanrax/lobsters.el) - Lobsters client for Emacs
 - [rainstormstudio/treemacs-nerd-icons](https://github.com/rainstormstudio/treemacs-nerd-icons) - 
 - [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
+- [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
+- [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) - An Emacs plugin that hides (or masks) the current buffer's mode-line
+- [yantar92/org](https://github.com/yantar92/org) - Speed-up org-mode
 
 ## fmt
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
