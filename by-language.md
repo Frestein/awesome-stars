@@ -40,6 +40,7 @@
 - [Nim](#nim)
 - [Nix](#nix)
 - [Odin](#odin)
+- [Org](#org)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -352,6 +353,9 @@
 
 ## Emacs Lisp 
 
+- [yantar92/org](https://github.com/yantar92/org) - Speed-up org-mode
+- [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) - An Emacs plugin that hides (or masks) the current buffer's mode-line
+- [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
 - [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
 - [rainstormstudio/treemacs-nerd-icons](https://github.com/rainstormstudio/treemacs-nerd-icons) - 
 - [tanrax/lobsters.el](https://github.com/tanrax/lobsters.el) - Lobsters client for Emacs
@@ -1013,7 +1017,7 @@
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [hamidi-dev/org-list.nvim](https://github.com/hamidi-dev/org-list.nvim) - Neovim plugin to toggle between different kinds of lists.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
-- [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] Some goatshit.
+- [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit.
 - [Chaitanyabsprip/fastaction.nvim](https://github.com/Chaitanyabsprip/fastaction.nvim) - Efficiency plugin designed to optimize code actions in Neovim
 - [altermo/nwm](https://github.com/altermo/nwm) - A graphical display window manager in neovim
 - [Saghen/blink.compat](https://github.com/Saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
@@ -1288,6 +1292,10 @@
 - [odin-lang/examples](https://github.com/odin-lang/examples) - Examples of idiomatic Odin code
 - [DanielGavin/ols](https://github.com/DanielGavin/ols) - Language server for Odin
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
+
+## Org 
+
+- [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
 
 ## Others 
 
