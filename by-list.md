@@ -568,7 +568,6 @@
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [fontsource/font-files](https://github.com/fontsource/font-files) - 1800+ open-source fonts bundled into neat packages.
-- [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [TypeTogether/Playpen-Sans](https://github.com/TypeTogether/Playpen-Sans) - TypeTogether Playpen Sans font.
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
@@ -1321,11 +1320,7 @@
 
 ## pass
 - [dyne/tomb](https://github.com/dyne/tomb) - the Crypto Undertaker
-- [roddhjav/pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
-- [roddhjav/pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords.
-- [WhyNotHugo/totp-cli](https://github.com/WhyNotHugo/totp-cli) - A cli-based pass-backed TOTP app.
-- [mdellweg/pass_secret_service](https://github.com/mdellweg/pass_secret_service) - dbus-service to serve secret-service api with pass backend
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
