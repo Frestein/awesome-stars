@@ -533,7 +533,6 @@
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -803,6 +802,7 @@
 
 ## emacs 
 
+- [doppelc/org-notifications](https://github.com/doppelc/org-notifications) - Desktop notifications for your org-agenda/org-mode items
 - [SqrtMinusOne/pomm.el](https://github.com/SqrtMinusOne/pomm.el) - Implementation of Pomodoro and Third Time techniques for Emacs
 - [isamert/orgmdb.el](https://github.com/isamert/orgmdb.el) - An Emacs/org-mode watchlist manager and OMDb API client
 - [unhammer/org-rich-yank](https://github.com/unhammer/org-rich-yank) - 📋 Rich text clipboard for org-mode: Paste as a #+BEGIN_SRC block of correct mode, with link to where it came from
@@ -1108,7 +1108,6 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -2145,6 +2144,8 @@
 
 ## others 
 
+- [spegoraro/org-alert](https://github.com/spegoraro/org-alert) - System notifications of org agenda items
+- [seagle0128/grip-mode](https://github.com/seagle0128/grip-mode) - Instant Github-flavored Markdown/Org preview using grip
 - [lorniu/org-expose-emphasis-markers](https://github.com/lorniu/org-expose-emphasis-markers) - Automatically show hidden emphasis markers at point in org mode.
 - [telotortium/org-pomodoro-third-time](https://github.com/telotortium/org-pomodoro-third-time) - Adapt org-pomodoro to implement the Third Time system
 - [SqrtMinusOne/reverso.el](https://github.com/SqrtMinusOne/reverso.el) - Emacs client for https://www.reverso.net/: translation, grammar check, context and synonyms search
@@ -3284,7 +3285,6 @@
 - [Achno/gocheat](https://github.com/Achno/gocheat) - A beautiful customizable TUI Cheatsheet for keybindings,hotkeys and more in the terminal
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ttys3/oh-my-kitty](https://github.com/ttys3/oh-my-kitty) - Oh my kitty!  (the kitty config for tmux users)
