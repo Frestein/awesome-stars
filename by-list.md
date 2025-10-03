@@ -46,11 +46,6 @@
 - [natsukagami/mpd-mpris](https://github.com/natsukagami/mpd-mpris) - An implementation of the MPRIS protocol for MPD.
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
-- [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
-- [mopidy/mopidy-mpd](https://github.com/mopidy/mopidy-mpd) - Mopidy extension for controlling playback from MPD clients
-- [mopidy/mopidy-spotify](https://github.com/mopidy/mopidy-spotify) - Mopidy extension for playing music from Spotify
-- [mopidy/mopidy-mpris](https://github.com/mopidy/mopidy-mpris) - Mopidy extension for controlling Mopidy through the MPRIS D-Bus interface
-- [mopidy/mopidy-local](https://github.com/mopidy/mopidy-local) - Mopidy extension for playing music from your local music archive
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
@@ -60,6 +55,7 @@
 - [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
+- [emacsmirror/emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
 
 ## books
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -552,6 +548,11 @@
 - [doppelc/org-notifications](https://github.com/doppelc/org-notifications) - Desktop notifications for your org-agenda/org-mode items
 - [Elilif/org-heatmap](https://github.com/Elilif/org-heatmap) - Show heatmap in org-mode.
 - [minad/affe](https://github.com/minad/affe) - :monkey: affe.el - Asynchronous Fuzzy Finder for Emacs
+- [alphapapa/snow.el](https://github.com/alphapapa/snow.el) - Let it snow in Emacs!
+- [bkaestner/redacted.el](https://github.com/bkaestner/redacted.el) - 
+- [larsmagne/meme](https://github.com/larsmagne/meme) - An Emacs meme generator
+- [larsmagne/eplot](https://github.com/larsmagne/eplot) - Emacs library for creating charts
+- [emacsmirror/emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
 
 ## fmt
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
@@ -1292,7 +1293,7 @@
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Manage Gitlab resources in Neovim
 - [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) - URL previews in Neovim 🔗💫
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
-- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - Not a plugin manager, but plugin magazine 💅
+- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
 - [saccarosium/netrw.vim](https://github.com/saccarosium/netrw.vim) - Network oriented reading, writing, and browsing
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
 - [kungfusheep/snipe-lsp.nvim](https://github.com/kungfusheep/snipe-lsp.nvim) - A neovim plugin which uses snipe to navigate lsp symbols
