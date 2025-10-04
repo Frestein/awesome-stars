@@ -354,6 +354,11 @@
 
 ## Emacs Lisp 
 
+- [emacsmirror/emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
+- [larsmagne/eplot](https://github.com/larsmagne/eplot) - Emacs library for creating charts
+- [larsmagne/meme](https://github.com/larsmagne/meme) - An Emacs meme generator
+- [bkaestner/redacted.el](https://github.com/bkaestner/redacted.el) - 
+- [alphapapa/snow.el](https://github.com/alphapapa/snow.el) - Let it snow in Emacs!
 - [minad/affe](https://github.com/minad/affe) - :monkey: affe.el - Asynchronous Fuzzy Finder for Emacs
 - [Elilif/org-heatmap](https://github.com/Elilif/org-heatmap) - Show heatmap in org-mode.
 - [doppelc/org-notifications](https://github.com/doppelc/org-notifications) - Desktop notifications for your org-agenda/org-mode items
@@ -1000,7 +1005,7 @@
 - [kungfusheep/snipe-spell.nvim](https://github.com/kungfusheep/snipe-spell.nvim) - A neovim plugin which uses snipe to drive the built in spellchecker.
 - [kungfusheep/snipe-lsp.nvim](https://github.com/kungfusheep/snipe-lsp.nvim) - A neovim plugin which uses snipe to navigate lsp symbols
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
-- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - Not a plugin manager, but plugin magazine 💅
+- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) - URL previews in Neovim 🔗💫
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Manage Gitlab resources in Neovim
@@ -1400,7 +1405,7 @@
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) - Немного о ядре Linux
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [MarkHedleyJones/dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
+- [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
 - [scross01/searxngr](https://github.com/scross01/searxngr) - SearXNG from the command line, inspired by `ddgr` and `googler`.
@@ -1462,11 +1467,6 @@
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
-- [mopidy/mopidy-local](https://github.com/mopidy/mopidy-local) - Mopidy extension for playing music from your local music archive
-- [mopidy/mopidy-mpris](https://github.com/mopidy/mopidy-mpris) - Mopidy extension for controlling Mopidy through the MPRIS D-Bus interface
-- [mopidy/mopidy-spotify](https://github.com/mopidy/mopidy-spotify) - Mopidy extension for playing music from Spotify
-- [mopidy/mopidy-mpd](https://github.com/mopidy/mopidy-mpd) - Mopidy extension for controlling playback from MPD clients
-- [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
