@@ -102,7 +102,7 @@
 - [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
 - [tijn/awesome-password-store](https://github.com/tijn/awesome-password-store) - A collection of awesome pass extensions and interfaces (for zx2c4's pass)
-- [tanrax/awesome-org-social](https://github.com/tanrax/awesome-org-social) - 
+- [tanrax/awesome-org-social](https://github.com/tanrax/awesome-org-social) - Set of tools and resources for Social Org
 - [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
 - [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 
@@ -184,7 +184,7 @@
 - [meribold/dotfiles](https://github.com/meribold/dotfiles) - Personal dotfiles make using computers tolerable
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
-- [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit.
+- [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - [MIRROR] The path to GNUrvana
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [qtile/qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
@@ -508,7 +508,7 @@
 - [wwwjfy/emacs-fish](https://github.com/wwwjfy/emacs-fish) - fish-mode for emacs
 - [bohonghuang/org-srs](https://github.com/bohonghuang/org-srs) - A feature-rich and flexible spaced repetition system inside Org-mode
 - [7696122/smart-cursor-color](https://github.com/7696122/smart-cursor-color) - :droplet: Change cursor-color dynamically on Emacs.
-- [tanrax/awesome-org-social](https://github.com/tanrax/awesome-org-social) - 
+- [tanrax/awesome-org-social](https://github.com/tanrax/awesome-org-social) - Set of tools and resources for Social Org
 - [andreasjansson/language-detection.el](https://github.com/andreasjansson/language-detection.el) - Automatic programming language detection of code snippets, in Emacs Lisp
 - [Kinneyzhang/ETML](https://github.com/Kinneyzhang/ETML) - Emacs Text Markup Language: text block rendering and flexible layout in Emacs buffers.
 - [agzam/browser-hist.el](https://github.com/agzam/browser-hist.el) - Search through browser history, in Emacs
@@ -553,6 +553,8 @@
 - [larsmagne/meme](https://github.com/larsmagne/meme) - An Emacs meme generator
 - [larsmagne/eplot](https://github.com/larsmagne/eplot) - Emacs library for creating charts
 - [emacsmirror/emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
+- [Artawower/turbo-log](https://github.com/Artawower/turbo-log) - Fast log message inserting for quick debug.
+- [Artawower/file-info.el](https://github.com/Artawower/file-info.el) - All necessary information about current file in hydra + posframe
 
 ## fmt
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
@@ -749,7 +751,7 @@
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland
-- [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
+- [max-baz/wluma](https://github.com/max-baz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager 
@@ -1494,7 +1496,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Mirror of https://codeberg.org/Limine/Limine)
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
