@@ -877,6 +877,7 @@
 - [coderonline/base16-vtrgb](https://github.com/coderonline/base16-vtrgb) - virtual terminal color schemes to be used with setvtrgb
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
+- [hyprwm/hyprpwcenter](https://github.com/hyprwm/hyprpwcenter) - A GUI Pipewire control center
 
 ## lsp
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -917,7 +918,7 @@
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
 - [docker/docker-language-server](https://github.com/docker/docker-language-server) - Language server for Dockerfiles, Compose files, and Bake files
 - [alesbrelih/gitlab-ci-ls](https://github.com/alesbrelih/gitlab-ci-ls) - 
-- [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker
+- [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 
 ## mpv
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
@@ -999,6 +1000,7 @@
 - [hufrea/byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
+- [bol-van/rulist](https://github.com/bol-van/rulist) - blocked ip/host lists in Russia
 
 ## nix
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
@@ -1118,7 +1120,7 @@
 - [lumen-oss/rocks-git.nvim](https://github.com/lumen-oss/rocks-git.nvim) - Use rocks.nvim to install plugins from git!
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [nvimdev/template.nvim](https://github.com/nvimdev/template.nvim) - Quickly insert templates into file
-- [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
+- [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - VS Code–style pictograms for Neovim completion items
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
@@ -1568,7 +1570,7 @@
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
