@@ -83,6 +83,9 @@
 
 ## C 
 
+- [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
+- [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
+- [marlam/msmtp](https://github.com/marlam/msmtp) - SMTP client with sendmail compatible interface
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [facebook/openzl](https://github.com/facebook/openzl) - A novel data compression framework
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
@@ -358,6 +361,8 @@
 
 ## Emacs Lisp 
 
+- [emacsmirror/org-contacts](https://github.com/emacsmirror/org-contacts) - Contacts management system for Org mode
+- [andykuszyk/osawm.el](https://github.com/andykuszyk/osawm.el) - An Emacs window manager for Mac OS
 - [xzz53/mu4e-alert](https://github.com/xzz53/mu4e-alert) - Desktop notifications and modeline display for mu4e
 - [Artawower/file-info.el](https://github.com/Artawower/file-info.el) - All necessary information about current file in hydra + posframe
 - [Artawower/turbo-log](https://github.com/Artawower/turbo-log) - Fast log message inserting for quick debug.
@@ -1390,6 +1395,7 @@
 
 ## PHP 
 
+- [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin) - PostfixAdmin - web based virtual user administration interface for Postfix mail servers
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
@@ -1516,7 +1522,7 @@
 
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [nacho/servo-gtk](https://github.com/nacho/servo-gtk) - GTK integration for Servo
-- [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix - Reddit, refined for the terminal.
+- [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
@@ -1851,7 +1857,7 @@
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Linter, Formatter, LSP, and Templating Language Library
+- [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 
