@@ -559,6 +559,7 @@
 - [Artawower/file-info.el](https://github.com/Artawower/file-info.el) - All necessary information about current file in hydra + posframe
 - [xzz53/mu4e-alert](https://github.com/xzz53/mu4e-alert) - Desktop notifications and modeline display for mu4e
 - [andykuszyk/osawm.el](https://github.com/andykuszyk/osawm.el) - An Emacs window manager for Mac OS
+- [emacsmirror/org-contacts](https://github.com/emacsmirror/org-contacts) - Contacts management system for Org mode
 
 ## fmt
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
@@ -907,7 +908,7 @@
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [hashicorp/terraform-ls](https://github.com/hashicorp/terraform-ls) - Terraform Language Server
-- [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Linter, Formatter, LSP, and Templating Language Library
+- [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [ufo5260987423/scheme-langserver](https://github.com/ufo5260987423/scheme-langserver) - Scheme language server
 - [rydesun/fennel-language-server](https://github.com/rydesun/fennel-language-server) - Fennel language server protocol (LSP) support.
@@ -1673,8 +1674,12 @@
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
-- [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix - Reddit, refined for the terminal.
+- [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
 - [marlam/msmtp](https://github.com/marlam/msmtp) - SMTP client with sendmail compatible interface
+- [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
+- [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
+- [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
+- [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin) - PostfixAdmin - web based virtual user administration interface for Postfix mail servers
 
 ## web
 - [Metastem/Wikiless](https://github.com/Metastem/Wikiless) - Wikiless is a free, open-source Wikipedia alternative, focused on privacy. The project aims to deliver a more secure, anonymous browsing experience by minimizing data collection and tracking, ensuring users can explore knowledge with enhanced privacy.
