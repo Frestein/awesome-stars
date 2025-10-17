@@ -207,6 +207,7 @@
 - [ui-design](#ui-design)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
@@ -520,6 +521,7 @@
 - [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) - Launcher-driven Bluetooth manager for Linux
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
 - [scross01/searxngr](https://github.com/scross01/searxngr) - SearXNG from the command line, inspired by `ddgr` and `googler`.
@@ -589,6 +591,7 @@
 
 ## code 
 
+- [Dherse/codly](https://github.com/Dherse/codly) - A Typst package for even better code blocks
 - [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
@@ -673,6 +676,7 @@
 
 ## data-science 
 
+- [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 
@@ -1108,6 +1112,7 @@
 
 ## git 
 
+- [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
 - [dandavison/magit-delta](https://github.com/dandavison/magit-delta) - Use delta (https://github.com/dandavison/delta) when viewing diffs in Magit
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [11111000000/magpt](https://github.com/11111000000/magpt) - Universal, safe Git Assistant
@@ -1569,6 +1574,7 @@
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
+- [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) - Launcher-driven Bluetooth manager for Linux
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
@@ -1672,6 +1678,7 @@
 
 ## lua 
 
+- [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
 - [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [andersevenrud/nvim_context_vt](https://github.com/andersevenrud/nvim_context_vt) - Virtual text context for neovim treesitter
@@ -1897,6 +1904,7 @@
 
 ## neovim 
 
+- [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
 - [nvim-mini/MiniMax](https://github.com/nvim-mini/MiniMax) - Neovim config examples based on MINI
 - [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) - Customizable agenda view for orgmode
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
@@ -2170,6 +2178,16 @@
 
 ## others 
 
+- [yibie/org-luhmann](https://github.com/yibie/org-luhmann) - Luhmann's numbering system for org-mode
+- [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
+- [stuxf/basic-typst-resume-template](https://github.com/stuxf/basic-typst-resume-template) - A basic resume for typst, designed to work well with ATS systems.
+- [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
+- [skyzh/chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template for Typst.
+- [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
+- [polylux-typ/polylux](https://github.com/polylux-typ/polylux) - A package for creating slides in Typst
+- [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+- [touying-typ/touying](https://github.com/touying-typ/touying) - Touying is a powerful package for creating presentation slides in Typst.
+- [D4lj337/Emacs-performance](https://github.com/D4lj337/Emacs-performance) - Few of the settings for speeding up the Emacs.
 - [opentofu/tofu-ls](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [kidd/org-gcal.el](https://github.com/kidd/org-gcal.el) - Org sync with Google Calendar.  (active maintained project as of 2019-11-06)
@@ -2372,7 +2390,6 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [archie-judd/blink-cmp-words](https://github.com/archie-judd/blink-cmp-words) - A fast and offline word and synonym completion provider for Neovim
 - [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS
-- [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [fosskers/clfmt](https://github.com/fosskers/clfmt) - Lightly reformat your Common Lisp code.
 - [disrupted/blink-cmp-conventional-commits](https://github.com/disrupted/blink-cmp-conventional-commits) - Conventional Commits source for blink.cmp
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
@@ -2404,7 +2421,7 @@
 - [purcell/emacs-nixfmt](https://github.com/purcell/emacs-nixfmt) - Emacs package for reformatting Nix code using nixfmt
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [optiscaler/fakenvapi](https://github.com/optiscaler/fakenvapi) - NVAPI library for spoofing an Nvidia GPU. With support for AntiLag 2, XeLL and LatencyFlex
-- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
 - [saumyajyoti/omp.yazi](https://github.com/saumyajyoti/omp.yazi) - oh-my-posh prompt plugin for Yazi file manager
 - [mgmarlow/helix-mode](https://github.com/mgmarlow/helix-mode) - Helix keybindings in Emacs
@@ -3460,6 +3477,10 @@
 ## visual-studio-code 
 
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
+
+## visualization 
+
+- [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
 
 ## vpn 
 
