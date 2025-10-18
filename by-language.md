@@ -364,6 +364,8 @@
 
 ## Emacs Lisp 
 
+- [yibie/org-luhmann](https://github.com/yibie/org-luhmann) - Luhmann's numbering system for org-mode
+- [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
 - [kidd/org-gcal.el](https://github.com/kidd/org-gcal.el) - Org sync with Google Calendar.  (active maintained project as of 2019-11-06)
 - [emacsmirror/org-contacts](https://github.com/emacsmirror/org-contacts) - Contacts management system for Org mode
 - [andykuszyk/osawm.el](https://github.com/andykuszyk/osawm.el) - An Emacs window manager for Mac OS
@@ -864,6 +866,7 @@
 
 ## Java 
 
+- [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
@@ -994,6 +997,8 @@
 
 ## Lua 
 
+- [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
+- [nvim-mini/MiniMax](https://github.com/nvim-mini/MiniMax) - Neovim config examples based on MINI
 - [XYenon/clipboard.yazi](https://github.com/XYenon/clipboard.yazi) - Clipboard sync plugin for Yazi that copies yanked file paths to the system clipboard.
 - [peterfication/mux.yazi](https://github.com/peterfication/mux.yazi) - Yazi previewer multiplexer
 - [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) - Customizable agenda view for orgmode
@@ -1349,6 +1354,7 @@
 
 ## Others 
 
+- [D4lj337/Emacs-performance](https://github.com/D4lj337/Emacs-performance) - Few of the settings for speeding up the Emacs.
 - [vinegarhq/sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 - [bol-van/rulist](https://github.com/bol-van/rulist) - blocked ip/host lists in Russia
 - [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
@@ -1419,7 +1425,7 @@
 
 ## Pascal 
 
-- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
 
 ## Pony 
 
@@ -1833,6 +1839,15 @@
 
 ## Typst 
 
+- [stuxf/basic-typst-resume-template](https://github.com/stuxf/basic-typst-resume-template) - A basic resume for typst, designed to work well with ATS systems.
+- [Dherse/codly](https://github.com/Dherse/codly) - A Typst package for even better code blocks
+- [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
+- [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
+- [skyzh/chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template for Typst.
+- [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
+- [polylux-typ/polylux](https://github.com/polylux-typ/polylux) - A package for creating slides in Typst
+- [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+- [touying-typ/touying](https://github.com/touying-typ/touying) - Touying is a powerful package for creating presentation slides in Typst.
 - [marc-thieme/frame-it](https://github.com/marc-thieme/frame-it) - Beautiful, flexible, and integrated. Display custom frames for theorems, environments, and more. Attractive visuals with syntax that blends seamlessly into the source.
 - [DeveloperPaul123/modern-cv](https://github.com/DeveloperPaul123/modern-cv) - A modern resume template written in Typst, inspired by Awesome-CV
 
