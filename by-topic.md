@@ -505,7 +505,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
+- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager with multi device sync and archiving
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -821,6 +821,8 @@
 
 ## emacs 
 
+- [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
+- [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [Artawower/file-info.el](https://github.com/Artawower/file-info.el) - All necessary information about current file in hydra + posframe
 - [Artawower/turbo-log](https://github.com/Artawower/turbo-log) - Fast log message inserting for quick debug.
 - [doppelc/org-notifications](https://github.com/doppelc/org-notifications) - Desktop notifications for your org-agenda/org-mode items
@@ -1224,7 +1226,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
-- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
+- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager with multi device sync and archiving
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -1921,7 +1923,7 @@
 - [LionyxML/emacs-kick](https://github.com/LionyxML/emacs-kick) - A feature rich Emacs (kickstarter) config for (neo)vi(m)mers
 - [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) - 🌈 Add animated glow/highlight effects to your neovim operation (undo, redo, yank, paste and more) with simple APIs. Alternatives to highlight-undo.nvim and tiny-glimmer.nvim.
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
-- [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) - 🕛 ZERO-overhead Fennel JIT compiler for nvim config
+- [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) - 🕛 Zero-overhead Fennel JIT compiler at runtime of Neovim with safety rollbacks
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
@@ -2653,7 +2655,7 @@
 - [Fanael/rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters) - Emacs rainbow delimiters mode
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
 - [rrthomas/enchant](https://github.com/rrthomas/enchant) - enchant spellchecking library
-- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of macros for nvim, simpler than in Lua, more flexible than in Vim script
+- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of Fennel macros cherry-picking the finest syntax from Vim script and Lua, compiled into the native Neovim API functions.
 - [aileot/ex-colors.nvim](https://github.com/aileot/ex-colors.nvim) - 🌈 Optimize your favorite colorscheme!
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [rainstormstudio/nerd-icons.el](https://github.com/rainstormstudio/nerd-icons.el) - 
@@ -2932,7 +2934,7 @@
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [privau/searxng](https://github.com/privau/searxng) - Builds a custom SearXNG image, a privacy-respecting metasearch engine.
-- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
+- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager with multi device sync and archiving
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
@@ -3238,7 +3240,7 @@
 
 ## self-hosted 
 
-- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
+- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager with multi device sync and archiving
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
