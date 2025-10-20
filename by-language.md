@@ -47,6 +47,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [Perl](#perl)
 - [Pony](#pony)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -92,7 +93,6 @@
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [facebook/openzl](https://github.com/facebook/openzl) - A novel data compression framework
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
-- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [evanpurkhiser/linux-vt-setcolors](https://github.com/evanpurkhiser/linux-vt-setcolors) - Utility tool to set the linux VT default color palette
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
@@ -364,6 +364,10 @@
 
 ## Emacs Lisp 
 
+- [alphapapa/org-protocol-capture-html](https://github.com/alphapapa/org-protocol-capture-html) - Capture HTML from the browser selection into Emacs as org-mode content
+- [yantar92/org-capture-ref](https://github.com/yantar92/org-capture-ref) - Extract metadata/bibtex info from websites for org-capture
+- [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
+- [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [yibie/org-luhmann](https://github.com/yibie/org-luhmann) - Luhmann's numbering system for org-mode
 - [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
 - [kidd/org-gcal.el](https://github.com/kidd/org-gcal.el) - Org sync with Google Calendar.  (active maintained project as of 2019-11-06)
@@ -717,12 +721,12 @@
 ## Fennel 
 
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
-- [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) - 🕛 ZERO-overhead Fennel JIT compiler for nvim config
+- [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) - 🕛 Zero-overhead Fennel JIT compiler at runtime of Neovim with safety rollbacks
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of macros for nvim, simpler than in Lua, more flexible than in Vim script
+- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of Fennel macros cherry-picking the finest syntax from Vim script and Lua, compiled into the native Neovim API functions.
 - [aileot/emission.nvim](https://github.com/aileot/emission.nvim) - ✨ Highlight arbitrary text changes by undo, redo, :substitute, etc.
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
@@ -737,7 +741,7 @@
 
 - [opentofu/tofu-ls](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's ,Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image pr
+- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image pro
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
@@ -746,7 +750,7 @@
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
+- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager with multi device sync and archiving
 - [docker/docker-language-server](https://github.com/docker/docker-language-server) - Language server for Dockerfiles, Compose files, and Bake files
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -997,6 +1001,7 @@
 
 ## Lua 
 
+- [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
 - [nvim-mini/MiniMax](https://github.com/nvim-mini/MiniMax) - Neovim config examples based on MINI
 - [XYenon/clipboard.yazi](https://github.com/XYenon/clipboard.yazi) - Clipboard sync plugin for Yazi that copies yanked file paths to the system clipboard.
@@ -1427,6 +1432,10 @@
 
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
 
+## Perl 
+
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
+
 ## Pony 
 
 - [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
@@ -1700,6 +1709,7 @@
 
 ## Scheme 
 
+- [NalaGinrut/artanis](https://github.com/NalaGinrut/artanis) - Mirror only, please visit https://gitlab.com/NalaGinrut/artanis
 - [johnlepikhin/guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) - Tiny guix channel which provides latest version of telegram-desktop
 - [aconchillo/guile-json](https://github.com/aconchillo/guile-json) - JSON module for Guile
 - [polychromatist/tree-sitter-luau](https://github.com/polychromatist/tree-sitter-luau) - tree-sitter for luau
