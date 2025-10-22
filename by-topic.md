@@ -505,7 +505,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager with multi device sync and archiving
+- [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -1227,7 +1227,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
-- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager with multi device sync and archiving
+- [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -1943,7 +1943,6 @@
 - [benoror/gpg.nvim](https://github.com/benoror/gpg.nvim) - Edit GPG encrypted files symmetrically in NeoVIM
 - [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) - Play DOOM in Neovim v0.11+ on Linux & macOS
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -2181,6 +2180,11 @@
 
 ## others 
 
+- [tarsius/keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
+- [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
+- [hyprwm/hyprlauncher](https://github.com/hyprwm/hyprlauncher) - A multipurpose and versatile launcher / picker for Hyprland
+- [xenodium/time-zones](https://github.com/xenodium/time-zones) - An Emacs major mode to view the time at any city across the world
 - [alphapapa/org-protocol-capture-html](https://github.com/alphapapa/org-protocol-capture-html) - Capture HTML from the browser selection into Emacs as org-mode content
 - [NalaGinrut/artanis](https://github.com/NalaGinrut/artanis) - Mirror only, please visit https://gitlab.com/NalaGinrut/artanis
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
@@ -2449,6 +2453,7 @@
 - [Hyprhook/Hyprhook](https://github.com/Hyprhook/Hyprhook) - A plugin for Hyprland that can call a script when an event occurs
 - [shingo256/trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
+- [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
 - [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer) - Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 - [DreamMaoMao/easyjump.yazi](https://github.com/DreamMaoMao/easyjump.yazi) - mirror of https://gitee.com/DreamMaoMao
@@ -2888,6 +2893,7 @@
 
 ## package-manager 
 
+- [fukamachi/qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
 - [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [gentoo/portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
@@ -2938,7 +2944,7 @@
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [privau/searxng](https://github.com/privau/searxng) - Builds a custom SearXNG image, a privacy-respecting metasearch engine.
-- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager with multi device sync and archiving
+- [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
@@ -3244,7 +3250,7 @@
 
 ## self-hosted 
 
-- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager with multi device sync and archiving
+- [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -3440,7 +3446,6 @@
 - [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management for Neovim
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
-- [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
