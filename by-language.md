@@ -343,6 +343,10 @@
 
 ## Common Lisp 
 
+- [coalton-lang/coalton](https://github.com/coalton-lang/coalton) - Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
+- [fukamachi/mallet](https://github.com/fukamachi/mallet) - A sensible Common Lisp linter that catches real mistakes, not style
+- [fukamachi/dexador](https://github.com/fukamachi/dexador) - A fast HTTP client for Common Lisp
+- [fukamachi/mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
 - [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [fukamachi/qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
 - [stumpwm/mahogany](https://github.com/stumpwm/mahogany) - A stumpwm like Wayland compositor
@@ -1282,6 +1286,7 @@
 
 ## Makefile 
 
+- [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) - Automatic conversion of the NetBSD pkgsrc CVS module, use with care
 - [freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
