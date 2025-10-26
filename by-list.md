@@ -1229,7 +1229,7 @@
 - [nvim-mini/mini-git](https://github.com/nvim-mini/mini-git) - Git integration. Part of 'mini.nvim' library. 
 - [gregorias/coop.nvim](https://github.com/gregorias/coop.nvim) - A Neovim plugin for readable concurrency with coroutines.
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf, LuaJIT, or other profilers.
-- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display diagnostic messages where the cursor is, with icons and colors.
+- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & YAML previewer for Neovim
 - [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim) - Neovim plugin to quickly insert log statements and capture log output
 - [nick-skriabin/commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) - Never forget to commit ever again.
