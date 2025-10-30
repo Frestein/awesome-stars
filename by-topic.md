@@ -221,11 +221,13 @@
 
 ## 3d 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 
 ## ai 
 
+- [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [11111000000/magpt](https://github.com/11111000000/magpt) - Universal, safe Git Assistant
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -450,6 +452,7 @@
 
 ## c-plus-plus 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
@@ -616,6 +619,7 @@
 
 ## compiler 
 
+- [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [sbcl/sbcl](https://github.com/sbcl/sbcl) - Mirror of Steel Bank Common Lisp (SBCL)'s official repository
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
@@ -822,6 +826,9 @@
 
 ## emacs 
 
+- [openscad/emacs-scad-mode](https://github.com/openscad/emacs-scad-mode) - OpenSCAD Emacs mode
+- [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
+- [open-spaced-repetition/lisp-fsrs](https://github.com/open-spaced-repetition/lisp-fsrs) - Common/Emacs Lisp implementation for FSRS
 - [jamescherti/lightemacs](https://github.com/jamescherti/lightemacs) - Lightemacs - Fast and Lightweight Emacs Framework
 - [xiongtx/eros](https://github.com/xiongtx/eros) - Evaluation Result OverlayS for Emacs Lisp.
 - [yantar92/org-capture-ref](https://github.com/yantar92/org-capture-ref) - Extract metadata/bibtex info from websites for org-capture
@@ -962,7 +969,6 @@
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
 - [meain/evil-textobj-tree-sitter](https://github.com/meain/evil-textobj-tree-sitter) - Tree-sitter powered textobjects for evil mode in Emacs
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
-- [anki-editor/anki-editor](https://github.com/anki-editor/anki-editor) - Emacs minor mode for making Anki cards with Org Mode
 - [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Speed up Emacs: Auto Byte/Native-Compile all Elisp files (Alternative to: auto-compile)
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Folding text based on indentation (Supersedes legacy packages such as origami.el and yafolding.el)
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
@@ -1559,6 +1565,7 @@
 
 ## linux 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
 - [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle) - zapret and blockcheck binary bundle for windows
@@ -1667,6 +1674,7 @@
 
 ## llm 
 
+- [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1808,6 +1816,7 @@
 
 ## macos 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -1955,7 +1964,7 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [Chaitanyabsprip/fastaction.nvim](https://github.com/Chaitanyabsprip/fastaction.nvim) - Efficiency plugin designed to optimize code actions in Neovim
 - [altermo/nwm](https://github.com/altermo/nwm) - A graphical display window manager in neovim
-- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
+- [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [PaterJason/cmp-conjure](https://github.com/PaterJason/cmp-conjure) - nvim-cmp source for conjure.
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
@@ -2017,7 +2026,7 @@
 - [Wansmer/nvim-config](https://github.com/Wansmer/nvim-config) - Neovim 0.10+ configuration
 - [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) - Helping you find free keybinds in vim
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) - Highlight changed text after any text changing operation
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) - Screensaver plugin for neovim.
@@ -2161,6 +2170,7 @@
 
 ## opengl 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
@@ -2181,6 +2191,14 @@
 
 ## others 
 
+- [bohonghuang/cl-gtk4](https://github.com/bohonghuang/cl-gtk4) - GTK4/Libadwaita/WebKit2 bindings for Common Lisp.
+- [fukamachi/woo](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev
+- [norvig/paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+- [kaiwk/leetcode.el](https://github.com/kaiwk/leetcode.el) - An Emacs LeetCode client.
+- [ginqi7/leetcode-emacs](https://github.com/ginqi7/leetcode-emacs) - an emacs plugin to write leetcode programs
+- [chenyanming/paw](https://github.com/chenyanming/paw) - Emacs Annotation and Language Learning tool.
+- [sachac/subed](https://github.com/sachac/subed) - subed is a subtitle editor for Emacs
+- [bohonghuang/org-inc](https://github.com/bohonghuang/org-inc) - Perform incremental learning inside Org-mode
 - [enzuru/lispy](https://github.com/enzuru/lispy) - Temporary fork of Lispy, for short and sweet LISP editing
 - [lrustand/qutebrowser.el](https://github.com/lrustand/qutebrowser.el) - Qutebrowser + EXWM
 - [coalton-lang/coalton](https://github.com/coalton-lang/coalton) - Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
@@ -2319,7 +2337,7 @@
 - [6cdh/tree-sitter-scheme](https://github.com/6cdh/tree-sitter-scheme) - Scheme parser for tree-sitter
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
 - [TravonteD/tree-sitter-fennel](https://github.com/TravonteD/tree-sitter-fennel) - Treesitter grammar for the Fennel programming language
-- [the-mikedavis/tree-sitter-diff](https://github.com/the-mikedavis/tree-sitter-diff) - A tree-sitter grammar for `diff` output
+- [tree-sitter-grammars/tree-sitter-diff](https://github.com/tree-sitter-grammars/tree-sitter-diff) - A tree-sitter grammar for `diff` output
 - [tree-sitter-grammars/tree-sitter-luap](https://github.com/tree-sitter-grammars/tree-sitter-luap) - Lua patterns grammar for tree-sitter
 - [tree-sitter-grammars/tree-sitter-make](https://github.com/tree-sitter-grammars/tree-sitter-make) - Makefile grammar for tree-sitter
 - [tree-sitter-grammars/tree-sitter-luau](https://github.com/tree-sitter-grammars/tree-sitter-luau) - luau grammar for tree-sitter
@@ -2566,8 +2584,8 @@
 - [SqrtMinusOne/elfeed-summary](https://github.com/SqrtMinusOne/elfeed-summary) - Feed summary interface for elfeed
 - [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
 - [anticomputer/age.el](https://github.com/anticomputer/age.el) - Transparent age encryption support for Emacs modeled after EPG/EPA
-- [Saghen/blink.compat](https://github.com/Saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
-- [Saghen/blink.pick](https://github.com/Saghen/blink.pick) - Performant, modular picker plugin for Neovim
+- [saghen/blink.compat](https://github.com/saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
+- [saghen/blink.pick](https://github.com/saghen/blink.pick) - Performant, modular picker plugin for Neovim
 - [qt/qtwebengine](https://github.com/qt/qtwebengine) - Qt WebEngine
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
@@ -2623,7 +2641,7 @@
 - [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [pwmt/zathura-pdf-mupdf](https://github.com/pwmt/zathura-pdf-mupdf) - PDF support (mupdf backend) for zathura
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
-- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
+- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [bashonly/yt-dlp-YTNSigDeno](https://github.com/bashonly/yt-dlp-YTNSigDeno) - A yt-dlp extractor plugin to decrypt YouTube nsig using Deno https://deno.land
 - [magit/transient](https://github.com/magit/transient) - Transient commands
@@ -2755,7 +2773,7 @@
 - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [glfs-book/glfs](https://github.com/glfs-book/glfs) - Gaming Linux From Scratch is a book that covers how to install packages like Steam and Wine after the Linux From Scratch book.
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
-- [Saghen/frizbee](https://github.com/Saghen/frizbee) - Fast fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
+- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
@@ -3515,6 +3533,7 @@
 
 ## web 
 
+- [fukamachi/clack](https://github.com/fukamachi/clack) - Web server abstraction layer for Common Lisp
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
@@ -3536,6 +3555,7 @@
 
 ## windows 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle) - zapret and blockcheck binary bundle for windows
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
