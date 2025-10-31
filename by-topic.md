@@ -2191,6 +2191,7 @@
 
 ## others 
 
+- [OpenStarbound/OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - 
 - [bohonghuang/cl-gtk4](https://github.com/bohonghuang/cl-gtk4) - GTK4/Libadwaita/WebKit2 bindings for Common Lisp.
 - [fukamachi/woo](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev
 - [norvig/paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
