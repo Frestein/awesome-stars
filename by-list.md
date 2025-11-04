@@ -601,6 +601,7 @@
 - [holomorph/systemd-mode](https://github.com/holomorph/systemd-mode) - Major mode for editing systemd units
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
+- [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
 
 ## fmt
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
