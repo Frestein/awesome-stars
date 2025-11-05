@@ -873,6 +873,7 @@
 - [skissue/meow-tree-sitter](https://github.com/skissue/meow-tree-sitter) - Tree-sitter powered :deciduous_tree: motions for Meow :cat:
 - [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [tanrax/org-social.el](https://github.com/tanrax/org-social.el) - Emacs client for Org Social
+- [tanrax/org-social](https://github.com/tanrax/org-social) - Org Social is a decentralized social network that runs on an Org Mode file over HTTP.
 - [hron/dock.el](https://github.com/hron/dock.el) - Integrate desktop environment's taskbar/dock with Emacs
 - [hron/org-agenda-dock](https://github.com/hron/org-agenda-dock) - Integrate org-mode with Gnome's Dock or KDE's taskbar
 - [ml729/org-habit-stats](https://github.com/ml729/org-habit-stats) - Stats and visuals for Emacs org-mode habits
@@ -2210,6 +2211,7 @@
 
 ## others 
 
+- [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
 - [gicrisf/swapforqute](https://github.com/gicrisf/swapforqute) - Redirect and clean URLs in qutebrowser.
 - [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - A tui greeter (not built in rust)
@@ -2381,7 +2383,6 @@
 - [yuja/tree-sitter-qmljs](https://github.com/yuja/tree-sitter-qmljs) - QML grammar for the tree-sitter parsing library
 - [xhcoding/qml-ts-mode](https://github.com/xhcoding/qml-ts-mode) - Emacs major mode for editing Qt Declarative (QML) code.
 - [ThatOneCalculator/deltatune-linux](https://github.com/ThatOneCalculator/deltatune-linux) - DeltaTune ported to Linux
-- [tanrax/org-social](https://github.com/tanrax/org-social) - Org Social is a decentralized social network that runs on an Org Mode file over HTTP.
 - [daanblom/dmenu-inlineprompt](https://github.com/daanblom/dmenu-inlineprompt) - Shows dmenu prompt text as a placeholder
 - [XX-J/Direct-links-out](https://github.com/XX-J/Direct-links-out) - Userscript that removes all this "You are leaving our site..." and other redirection trash from links.
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
@@ -2989,6 +2990,7 @@
 
 ## privacy 
 
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [privau/searxng](https://github.com/privau/searxng) - Builds a custom SearXNG image, a privacy-respecting metasearch engine.
@@ -3262,6 +3264,7 @@
 
 ## security 
 
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
