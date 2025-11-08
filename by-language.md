@@ -33,7 +33,6 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
-- [Less](#less)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -240,6 +239,7 @@
 
 ## C++ 
 
+- [MikiDevLog/wallpaperengine-gui](https://github.com/MikiDevLog/wallpaperengine-gui) - Simple GUI for linux-wallpaperengine on C++.
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [hyprwm/hyprlauncher](https://github.com/hyprwm/hyprlauncher) - A multipurpose and versatile launcher / picker for Hyprland
@@ -385,6 +385,9 @@
 
 ## Emacs Lisp 
 
+- [galdor/rfc-mode](https://github.com/galdor/rfc-mode) - An Emacs major mode to read and browse RFC documents.
+- [doomelpa/evil-org-mode](https://github.com/doomelpa/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
+- [egregius313/gfm-alerts.el](https://github.com/egregius313/gfm-alerts.el) - 
 - [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [holomorph/systemd-mode](https://github.com/holomorph/systemd-mode) - Major mode for editing systemd units
@@ -1036,10 +1039,6 @@
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
-## Less 
-
-- [privau/searxng](https://github.com/privau/searxng) - Builds a custom SearXNG image, a privacy-respecting metasearch engine.
-
 ## Lua 
 
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
@@ -1492,6 +1491,7 @@
 
 ## Python 
 
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [gicrisf/swapforqute](https://github.com/gicrisf/swapforqute) - Redirect and clean URLs in qutebrowser.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
@@ -1660,7 +1660,7 @@
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) - Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
+- [helix-community/helix-golf](https://github.com/helix-community/helix-golf) - Powerful text refactoring with the Helix Editor
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
