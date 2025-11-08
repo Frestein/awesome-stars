@@ -228,6 +228,7 @@
 
 ## ai 
 
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - A native Emacs buffer to interact with LLM agents powered by ACP
 - [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [11111000000/magpt](https://github.com/11111000000/magpt) - Universal, safe Git Assistant
@@ -709,6 +710,7 @@
 
 ## deep-learning 
 
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 
 ## dependency-management 
@@ -830,6 +832,7 @@
 
 ## emacs 
 
+- [galdor/rfc-mode](https://github.com/galdor/rfc-mode) - An Emacs major mode to read and browse RFC documents.
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [cbowdon/daemons.el](https://github.com/cbowdon/daemons.el) - An Emacs UI for managing init system services
@@ -1581,6 +1584,7 @@
 
 ## linux 
 
+- [MikiDevLog/wallpaperengine-gui](https://github.com/MikiDevLog/wallpaperengine-gui) - Simple GUI for linux-wallpaperengine on C++.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
@@ -2213,6 +2217,7 @@
 
 ## others 
 
+- [doomelpa/evil-org-mode](https://github.com/doomelpa/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
 - [egregius313/gfm-alerts.el](https://github.com/egregius313/gfm-alerts.el) - 
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
