@@ -260,7 +260,7 @@
 - [minad/consult](https://github.com/minad/consult) - :mag: consult.el - Consulting completing-read
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
 - [oantolin/orderless](https://github.com/oantolin/orderless) - Emacs completion style that matches multiple regexps in any order
-- [minad/tempel](https://github.com/minad/tempel) - :classical_building: TempEl - Simple templates for Emacs
+- [minad/tempel](https://github.com/minad/tempel) - :classical_building: Tempel - Simple templates for Emacs
 - [Crandel/tempel-collection](https://github.com/Crandel/tempel-collection) - Collection tempel templates
 - [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
 - [emacs-evil/evil-collection](https://github.com/emacs-evil/evil-collection) - A set of keybindings for evil-mode
@@ -518,7 +518,6 @@
 - [isamert/corg.el](https://github.com/isamert/corg.el) - 🍾 Auto complete org-mode source/dynamic block headers seamlessly
 - [karthink/popper](https://github.com/karthink/popper) - Emacs minor-mode to summon and dismiss buffers easily.
 - [dolmens/gptel-aibo](https://github.com/dolmens/gptel-aibo) - An AI Writing Assistant for Emacs 
-- [11111000000/magpt](https://github.com/11111000000/magpt) - Universal, safe Git Assistant
 - [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in emacs
 - [rjekker/password-store-menu](https://github.com/rjekker/password-store-menu) - A better, more complete user interface for password-store
 - [wwwjfy/emacs-fish](https://github.com/wwwjfy/emacs-fish) - fish-mode for emacs
@@ -1324,7 +1323,7 @@
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
-- [helix-community/helix-golf](https://github.com/helix-community/helix-golf) - Powerful text refactoring with the Helix Editor
+- [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) - Play DOOM in Neovim v0.11+ on Linux & macOS
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
