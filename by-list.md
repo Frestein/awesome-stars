@@ -1004,7 +1004,7 @@
 - [Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN) - Simple SISR CNNs aimed at anime content
 - [ferreum/mpv-skipsilence](https://github.com/ferreum/mpv-skipsilence) - Increase playback speed during silence - a revolution in attention-deficit induction technology.
 - [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) - Proof-of-origin token provider plugin for yt-dlp
-- [bashonly/yt-dlp-YTNSigDeno](https://github.com/bashonly/yt-dlp-YTNSigDeno) - A yt-dlp extractor plugin to decrypt YouTube nsig using Deno https://deno.land
+- [bashonly/yt-dlp-YTNSigDeno](https://github.com/bashonly/yt-dlp-YTNSigDeno) - An OBSOLETE yt-dlp extractor plugin that used to solve YouTube JS challenges using Deno
 - [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
 - [EmperorPenguin18/mpv-jellyfin](https://github.com/EmperorPenguin18/mpv-jellyfin) - mpv plugin that turns it into a Jellyfin client
 - [Kayizoku/mpv-rename](https://github.com/Kayizoku/mpv-rename) - 
@@ -1767,7 +1767,7 @@
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 
 ## windows
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 
