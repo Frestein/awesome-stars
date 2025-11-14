@@ -635,7 +635,6 @@
 ## games
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                           
-- [Grokitach/Stalker_GAMMA](https://github.com/Grokitach/Stalker_GAMMA) - S.T.A.L.K.E.R. Anomaly G.A.M.M.A. modpack definition files.
 - [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
