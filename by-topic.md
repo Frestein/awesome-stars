@@ -622,6 +622,7 @@
 
 ## compiler 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
@@ -650,6 +651,7 @@
 
 ## cpp 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -831,6 +833,8 @@
 
 ## emacs 
 
+- [konrad1977/spotlight-mode](https://github.com/konrad1977/spotlight-mode) - Emacs package for automagically highlight buffers.
+- [konrad1977/knockknock](https://github.com/konrad1977/knockknock) - Unobtrusive notifications with icons and SVG support
 - [galdor/rfc-mode](https://github.com/galdor/rfc-mode) - An Emacs major mode to read and browse RFC documents.
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
@@ -1545,6 +1549,7 @@
 
 ## language 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
@@ -2213,6 +2218,8 @@
 
 ## others 
 
+- [iliana/emojos.in](https://github.com/iliana/emojos.in) - Shows custom emoji for Mastodon/Pleroma instances
+- [HenryLoM/CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi) - CLI ASCII avatar for entertainment and motivational purposes
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [hyperion-cs/dpi-checkers](https://github.com/hyperion-cs/dpi-checkers) - Checkers to test your internet provider for censorship.
@@ -3054,6 +3061,7 @@
 
 ## programming-language 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [Jamesbarford/holyc-lang](https://github.com/Jamesbarford/holyc-lang) - HolyC compiler & transpiler
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
