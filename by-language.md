@@ -567,7 +567,7 @@
 - [polymode/poly-org](https://github.com/polymode/poly-org) - Polymode for org-mode
 - [polymode/polymode](https://github.com/polymode/polymode) - Framework for Multiple Major Modes in Emacs (core library)
 - [lizqwerscott/mcp.el](https://github.com/lizqwerscott/mcp.el) - An Mcp client inside Emacs
-- [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
+- [karthink/gptel](https://github.com/karthink/gptel) - A simple, extensible LLM client for Emacs
 - [xuchunyang/elisp-demos](https://github.com/xuchunyang/elisp-demos) - Demonstrate Emacs Lisp APIs
 - [spotify/dockerfile-mode](https://github.com/spotify/dockerfile-mode) - An emacs mode for handling Dockerfiles
 - [emacs-pe/docker-tramp.el](https://github.com/emacs-pe/docker-tramp.el) - TRAMP integration for docker containers
