@@ -328,6 +328,7 @@
 ## CMake 
 
 - [postsolar/tree-sitter-kanata](https://github.com/postsolar/tree-sitter-kanata) - Kanata grammar for Tree-sitter
+- [justinmk/tree-sitter-ini](https://github.com/justinmk/tree-sitter-ini) - tree-sitter grammar/parser for INI files
 - [tree-sitter-grammars/tree-sitter-diff](https://github.com/tree-sitter-grammars/tree-sitter-diff) - A tree-sitter grammar for `diff` output
 
 ## CSS 
@@ -938,7 +939,6 @@
 - [the-mikedavis/tree-sitter-git-commit](https://github.com/the-mikedavis/tree-sitter-git-commit) - A tree-sitter grammar for git commit messages
 - [alexmozaidze/tree-sitter-fennel](https://github.com/alexmozaidze/tree-sitter-fennel) - Tree-sitter grammar for the Fennel programming language
 - [Beaglefoot/tree-sitter-awk](https://github.com/Beaglefoot/tree-sitter-awk) - GNU AWK grammar for tree-sitter
-- [justinmk/tree-sitter-ini](https://github.com/justinmk/tree-sitter-ini) - tree-sitter grammar/parser for INI files
 - [6cdh/tree-sitter-scheme](https://github.com/6cdh/tree-sitter-scheme) - Scheme parser for tree-sitter
 - [TravonteD/tree-sitter-fennel](https://github.com/TravonteD/tree-sitter-fennel) - Treesitter grammar for the Fennel programming language
 - [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
@@ -1314,6 +1314,7 @@
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv
+- [Grokitach/Stalker_GAMMA](https://github.com/Grokitach/Stalker_GAMMA) - S.T.A.L.K.E.R. Anomaly G.A.M.M.A. modpack definition files.
 
 ## MDX 
 
@@ -1480,7 +1481,7 @@
 
 ## Pascal 
 
-- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 
 ## Perl 
 
