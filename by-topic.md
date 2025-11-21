@@ -2229,6 +2229,7 @@
 
 ## others 
 
+- [jwiegley/ecard](https://github.com/jwiegley/ecard) - Library for representing vCard data using EIEIO classes
 - [jkitchin/org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
 - [chenyanming/nov-xwidget](https://github.com/chenyanming/nov-xwidget) - The best epub reader in Emacs
 - [iliana/emojos.in](https://github.com/iliana/emojos.in) - Shows custom emoji for Mastodon/Pleroma instances
@@ -2540,7 +2541,7 @@
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
-- [codelif/pawbar](https://github.com/codelif/pawbar) - A kitten-panel based desktop panel for your desktop
+- [nekorg/pawbar](https://github.com/nekorg/pawbar) - A kitten-panel based desktop panel for your desktop
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [Bad-ptr/persp-mode.el](https://github.com/Bad-ptr/persp-mode.el) - named perspectives(set of buffers/window configs) for emacs
