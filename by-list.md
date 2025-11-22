@@ -16,7 +16,6 @@
 - [fonts](#fonts)
 - [games](#games)
 - [go](#go)
-- [guix](#guix)
 - [home](#home)
 - [keyboard](#keyboard)
 - [linters](#linters)
@@ -35,7 +34,6 @@
 - [tools-a](#tools-a)
 - [tools-pc](#tools-pc)
 - [web](#web)
-- [windows](#windows)
 - [yazi](#yazi)
 
 ## audio
@@ -225,7 +223,7 @@
 - [redguardtoo/evil-nerd-commenter](https://github.com/redguardtoo/evil-nerd-commenter) - Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
 - [PythonNut/evil-easymotion](https://github.com/PythonNut/evil-easymotion) - :fast_forward: A port of vim easymotion to Emacs' evil-mode
 - [nordtheme/emacs](https://github.com/nordtheme/emacs) - An arctic, north-bluish clean and elegant Emacs theme.
-- [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - everforest for emacs!
+- [theorytoe/everforest-emacs](https://github.com/theorytoe/everforest-emacs) - everforest for emacs!
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
 - [snosov1/toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
@@ -518,7 +516,7 @@
 - [isamert/corg.el](https://github.com/isamert/corg.el) - 🍾 Auto complete org-mode source/dynamic block headers seamlessly
 - [karthink/popper](https://github.com/karthink/popper) - Emacs minor-mode to summon and dismiss buffers easily.
 - [dolmens/gptel-aibo](https://github.com/dolmens/gptel-aibo) - An AI Writing Assistant for Emacs 
-- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in emacs
+- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in Emacs
 - [rjekker/password-store-menu](https://github.com/rjekker/password-store-menu) - A better, more complete user interface for password-store
 - [wwwjfy/emacs-fish](https://github.com/wwwjfy/emacs-fish) - fish-mode for emacs
 - [bohonghuang/org-srs](https://github.com/bohonghuang/org-srs) - A feature-rich and flexible spaced repetition system inside Org-mode
@@ -611,6 +609,7 @@
 - [jamescherti/elispcomp](https://github.com/jamescherti/elispcomp) - Elispcomp: Compile Elisp code from the command-line (Emacs Lisp code)
 - [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - A unified method to fold and unfold text in Emacs
 - [jwiegley/ecard](https://github.com/jwiegley/ecard) - Library for representing vCard data using EIEIO classes
+- [huangfeiyu/eldoc-mouse](https://github.com/huangfeiyu/eldoc-mouse) - Show document for mouse hover utilizing eldoc and posframe
 
 ## fmt
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
@@ -711,14 +710,6 @@
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
-
-## guix
-- [abcdw/rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments. Mirror of https://sr.ht/~abcdw/rde/
-- [nonguix/nonguix](https://github.com/nonguix/nonguix) - Nonguix mirror – pull requests ignored, please use upstream for that
-- [fishinthecalculator/sops-guix](https://github.com/fishinthecalculator/sops-guix) - Secure secret provisioning with Guix and SOPS
-- [fishinthecalculator/gocix](https://github.com/fishinthecalculator/gocix) - This project aims at implementing a Guix native experience for services that are not yet guixable 
-- [gs-101/emacs-master](https://github.com/gs-101/emacs-master) - Guix channel for the latest Emacs from the master branch.
-- [johnlepikhin/guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) - Tiny guix channel which provides latest version of telegram-desktop
 
 ## home
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
@@ -1781,11 +1772,6 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
-
-## windows
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 
 ## yazi
 - [yazi-rs/plugins](https://github.com/yazi-rs/plugins) - Place code snippets from docs into this monorepo, so that users can update more easily via package manager.
