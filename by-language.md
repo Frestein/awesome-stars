@@ -937,6 +937,7 @@
 
 ## JavaScript 
 
+- [alaviss/tree-sitter-nim](https://github.com/alaviss/tree-sitter-nim) - tree-sitter grammar for Nim
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [the-mikedavis/tree-sitter-git-commit](https://github.com/the-mikedavis/tree-sitter-git-commit) - A tree-sitter grammar for git commit messages
@@ -1350,6 +1351,10 @@
 
 ## Nim 
 
+- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+- [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
+- [inim-repl/INim](https://github.com/inim-repl/INim) - Interactive Nim shell / REPL / Playground
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [tridactyl/native_messenger](https://github.com/tridactyl/native_messenger) - Native messenger for Tridactyl, a vim-like web-extension.
 
