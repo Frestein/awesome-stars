@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -40,6 +41,7 @@
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -243,6 +245,10 @@
 ## algorithm 
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+
+## algorithms 
+
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 ## analytics 
 
@@ -626,6 +632,33 @@
 ## coding 
 
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
+
+## command-line 
+
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [scross01/searxngr](https://github.com/scross01/searxngr) - SearXNG from the command line, inspired by `ddgr` and `googler`.
+- [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
+- [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
+- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
+- [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 
 ## compiler 
 
@@ -1963,6 +1996,7 @@
 
 ## neovim 
 
+- [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
 - [nvim-mini/MiniMax](https://github.com/nvim-mini/MiniMax) - Neovim config examples based on MINI
 - [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) - Customizable agenda view for orgmode
@@ -2246,6 +2280,9 @@
 
 ## others 
 
+- [LemonBreezes/emacs-fish-completion](https://github.com/LemonBreezes/emacs-fish-completion) - Fish completion for Emacs and Eshell
+- [dieggsy/esh-autosuggest](https://github.com/dieggsy/esh-autosuggest) - Fish-like autosuggestions in eshell.
+- [tanrax/org-social-rss-bridge](https://github.com/tanrax/org-social-rss-bridge) - A simple bridge that converts RSS/Atom feeds into Org Social format.
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -2353,7 +2390,6 @@
 - [k-talo/volatile-highlights.el](https://github.com/k-talo/volatile-highlights.el) - Transient visual feedback for edits in Emacs. STATUS: *STABLE*
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [yibie/superchat](https://github.com/yibie/superchat) - Provide a simpler and more user-friendly GPTel conversation interface.
-- [cherryramatisdev/org-social.nvim](https://github.com/cherryramatisdev/org-social.nvim) - An neovim client for org-social
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
 - [magit/ghub](https://github.com/magit/ghub) - Client libraries for the APIs of various Git forges
 - [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
@@ -3213,6 +3249,7 @@
 
 ## rust 
 
+- [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television
 - [coffebar/hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) - Per window keyboard layout (language) for Hyprland wayland compositor
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
@@ -3546,6 +3583,7 @@
 
 ## vim 
 
+- [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television
 - [jamescherti/lightemacs](https://github.com/jamescherti/lightemacs) - Lightemacs - Fast and Lightweight Emacs Framework
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [tree-sitter-grammars/tree-sitter-vim](https://github.com/tree-sitter-grammars/tree-sitter-vim) - Vimscript grammar for tree-sitter
