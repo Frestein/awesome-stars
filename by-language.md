@@ -388,6 +388,8 @@
 
 ## Emacs Lisp 
 
+- [LemonBreezes/emacs-fish-completion](https://github.com/LemonBreezes/emacs-fish-completion) - Fish completion for Emacs and Eshell
+- [dieggsy/esh-autosuggest](https://github.com/dieggsy/esh-autosuggest) - Fish-like autosuggestions in eshell.
 - [huangfeiyu/eldoc-mouse](https://github.com/huangfeiyu/eldoc-mouse) - Show document for mouse hover utilizing eldoc and posframe
 - [jwiegley/ecard](https://github.com/jwiegley/ecard) - Library for representing vCard data using EIEIO classes
 - [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - A unified method to fold and unfold text in Emacs
@@ -1052,6 +1054,7 @@
 
 ## Lua 
 
+- [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
 - [nvim-mini/MiniMax](https://github.com/nvim-mini/MiniMax) - Neovim config examples based on MINI
@@ -1059,7 +1062,6 @@
 - [XYenon/clipboard.yazi](https://github.com/XYenon/clipboard.yazi) - Clipboard sync plugin for Yazi that copies yanked file paths to the system clipboard.
 - [peterfication/mux.yazi](https://github.com/peterfication/mux.yazi) - Yazi previewer multiplexer
 - [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) - Customizable agenda view for orgmode
-- [cherryramatisdev/org-social.nvim](https://github.com/cherryramatisdev/org-social.nvim) - An neovim client for org-social
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [adriankarlen/plugin-view.nvim](https://github.com/adriankarlen/plugin-view.nvim) - A neovim plugin to see your installed plugins
 - [DreamMaoMao/searchjump.yazi](https://github.com/DreamMaoMao/searchjump.yazi) - A Yazi plugin whose behavior is consistent with flash.nvim in Neovim: from a search string it generates labels to jump to.mirror of https://gitee.com/DreamMaoMao
@@ -1511,6 +1513,7 @@
 
 ## Python 
 
+- [tanrax/org-social-rss-bridge](https://github.com/tanrax/org-social-rss-bridge) - A simple bridge that converts RSS/Atom feeds into Org Social format.
 - [jamescherti/elispcomp](https://github.com/jamescherti/elispcomp) - Elispcomp: Compile Elisp code from the command-line (Emacs Lisp code)
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [gicrisf/swapforqute](https://github.com/gicrisf/swapforqute) - Redirect and clean URLs in qutebrowser.
