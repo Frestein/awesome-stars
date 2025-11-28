@@ -90,6 +90,7 @@
 
 ## C 
 
+- [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [tytso/e2fsprogs](https://github.com/tytso/e2fsprogs) - Ext2/3/4 file system utilities
 - [roehling/postsrsd](https://github.com/roehling/postsrsd) - Postfix Sender Rewriting Scheme daemon
 - [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
@@ -388,6 +389,7 @@
 
 ## Emacs Lisp 
 
+- [xenodium/wasabi](https://github.com/xenodium/wasabi) - A WhatsApp Emacs client powered by wuzapi and whatsmeow.
 - [LemonBreezes/emacs-fish-completion](https://github.com/LemonBreezes/emacs-fish-completion) - Fish completion for Emacs and Eshell
 - [dieggsy/esh-autosuggest](https://github.com/dieggsy/esh-autosuggest) - Fish-like autosuggestions in eshell.
 - [huangfeiyu/eldoc-mouse](https://github.com/huangfeiyu/eldoc-mouse) - Show document for mouse hover utilizing eldoc and posframe
@@ -1054,6 +1056,8 @@
 
 ## Lua 
 
+- [macydnah/office.yazi](https://github.com/macydnah/office.yazi) - Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards
+- [jake-stewart/lazier.nvim](https://github.com/jake-stewart/lazier.nvim) - 
 - [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
@@ -1513,6 +1517,7 @@
 
 ## Python 
 
+- [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [tanrax/org-social-rss-bridge](https://github.com/tanrax/org-social-rss-bridge) - A simple bridge that converts RSS/Atom feeds into Org Social format.
 - [jamescherti/elispcomp](https://github.com/jamescherti/elispcomp) - Elispcomp: Compile Elisp code from the command-line (Emacs Lisp code)
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
@@ -1797,6 +1802,7 @@
 
 ## Shell 
 
+- [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [coderonline/base16-vtrgb](https://github.com/coderonline/base16-vtrgb) - virtual terminal color schemes to be used with setvtrgb
 - [dracut-ng/dracut-ng](https://github.com/dracut-ng/dracut-ng) - dracut - the event driven initramfs infrastructure
@@ -1970,7 +1976,7 @@
 
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
