@@ -17,6 +17,7 @@
 - [games](#games)
 - [go](#go)
 - [home](#home)
+- [hx](#hx)
 - [keyboard](#keyboard)
 - [linters](#linters)
 - [linux/bsd](#linux/bsd)
@@ -737,6 +738,15 @@
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
 
+## hx
+- [chuwy/notify.hx](https://github.com/chuwy/notify.hx) - A notification engine for Helix
+- [thomasschafer/smooth-scroll.hx](https://github.com/thomasschafer/smooth-scroll.hx) - Smooth scrolling Helix plugin
+- [thomasschafer/scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace Helix plugin
+- [gerblesh/modeline.hx](https://github.com/gerblesh/modeline.hx) - Helix Plugin for modeline
+- [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
+- [shybovycha/flash.hx](https://github.com/shybovycha/flash.hx) - Helix plugin to jump around like with flash.nvim
+- [npupko/awesome-helix](https://github.com/npupko/awesome-helix) - A curated list of awesome Helix editor resources, plugins, themes, and tools.
+
 ## keyboard
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
@@ -1339,7 +1349,6 @@
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
-- [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) - Play DOOM in Neovim v0.11+ on Linux & macOS
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
