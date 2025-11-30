@@ -1628,6 +1628,7 @@
 
 ## Rust 
 
+- [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [coffebar/hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) - Per window keyboard layout (language) for Hyprland wayland compositor
