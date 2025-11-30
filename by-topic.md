@@ -2279,6 +2279,7 @@
 
 ## others 
 
+- [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel
 - [shybovycha/flash.hx](https://github.com/shybovycha/flash.hx) - Helix plugin to jump around like with flash.nvim
 - [gerblesh/modeline.hx](https://github.com/gerblesh/modeline.hx) - Helix Plugin for modeline
 - [thomasschafer/scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace Helix plugin
