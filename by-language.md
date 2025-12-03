@@ -269,7 +269,6 @@
 - [openSUSE/snapper](https://github.com/openSUSE/snapper) - Manage filesystem snapshots and allow undo of system modifications
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [Hyprhook/Hyprhook](https://github.com/Hyprhook/Hyprhook) - A plugin for Hyprland that can call a script when an event occurs
-- [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer) - Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 - [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
@@ -827,7 +826,7 @@
 - [hashicorp/terraform-ls](https://github.com/hashicorp/terraform-ls) - Terraform Language Server
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosys
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -1429,6 +1428,7 @@
 
 ## Others 
 
+- [thebigcicca/awesome-lem](https://github.com/thebigcicca/awesome-lem) - A curated list of lem editor resources.
 - [npupko/awesome-helix](https://github.com/npupko/awesome-helix) - A curated list of awesome Helix editor resources, plugins, themes, and tools.
 - [terryds/awesome-strudel](https://github.com/terryds/awesome-strudel) - A curated collection of awesome Strudel resources including tracks (popular song covers and remixes), tutorials, and repositories
 - [D4lj337/Emacs-performance](https://github.com/D4lj337/Emacs-performance) - Few of the settings for speeding up the Emacs.
