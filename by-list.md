@@ -6,11 +6,13 @@
 
 ## Contents
 - [📱 android](#📱-android)
+- [🎨 art](#🎨-art)
 - [audio](#audio)
 - [books](#books)
 - [browser](#browser)
 - [dotfiles](#dotfiles)
 - [🧙🏽‍♀️ emacs](#🧙🏽‍♀️-emacs)
+- [🔠 fonts](#🔠-fonts)
 - [🎮 games](#🎮-games)
 - [go](#go)
 - [🧬 helix](#🧬-helix)
@@ -20,7 +22,7 @@
 - [linters](#linters)
 - [🐧 linux](#🐧-linux)
 - [lsp](#lsp)
-- [⏯️ mpv](#⏯️-mpv)
+- [🎞 mpv](#🎞-mpv)
 - [🧩 neovim](#🧩-neovim)
 - [network](#network)
 - [❄️ nix](#❄️-nix)
@@ -33,7 +35,6 @@
 - [📄 typst](#📄-typst)
 - [web](#web)
 - [🦆 yazi](#🦆-yazi)
-- [🅰️ fonts](#🅰️-fonts)
 
 ## 📱 android
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
@@ -83,6 +84,12 @@
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
+
+## 🎨 art
+- [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
+- [lepisma/org-krita](https://github.com/lepisma/org-krita) - Krita sketches in Org
+- [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 
 ## audio
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -643,6 +650,12 @@
 - [aglet/sparkweather](https://github.com/aglet/sparkweather) - Sparkline weather forecasts in Emacs
 - [altermo/nelisp](https://github.com/altermo/nelisp) - Emacs LISP interpreter inside Neovim
 
+## 🔠 fonts
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
+
 ## 🎮 games
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                           
@@ -976,7 +989,7 @@
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [opentofu/tofu-ls](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server
 
-## ⏯️ mpv
+## 🎞 mpv
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
@@ -1764,12 +1777,6 @@
 - [peterfication/mux.yazi](https://github.com/peterfication/mux.yazi) - Yazi previewer multiplexer
 - [XYenon/clipboard.yazi](https://github.com/XYenon/clipboard.yazi) - Clipboard sync plugin for Yazi that copies yanked file paths to the system clipboard.
 - [macydnah/office.yazi](https://github.com/macydnah/office.yazi) - Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards)
-
-## 🅰️ fonts
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 
 ## License
 
