@@ -405,7 +405,6 @@
 - [huangfeiyu/eldoc-mouse](https://github.com/huangfeiyu/eldoc-mouse) - Show document for mouse hover utilizing eldoc and posframe
 - [jwiegley/ecard](https://github.com/jwiegley/ecard) - Library for representing vCard data using EIEIO classes
 - [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - A unified method to fold and unfold text in Emacs
-- [org-roam/org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Org Roam integration with bibliography management software
 - [jkitchin/org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
 - [chenyanming/nov-xwidget](https://github.com/chenyanming/nov-xwidget) - The best epub reader in Emacs
 - [konrad1977/spotlight-mode](https://github.com/konrad1977/spotlight-mode) - Emacs package for automagically highlight buffers.
@@ -694,7 +693,6 @@
 - [cask/cask](https://github.com/cask/cask) - Project management tool for Emacs
 - [emacs-elsa/flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
 - [emacs-elsa/Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyzer and gradual type system.
-- [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
 - [Fuco1/dired-hacks](https://github.com/Fuco1/dired-hacks) - Collection of useful dired additions
 - [LuigiPiucco/nerd-icons-corfu](https://github.com/LuigiPiucco/nerd-icons-corfu) - Icons for corfu via nerd-icons
@@ -831,7 +829,7 @@
 - [hashicorp/terraform-ls](https://github.com/hashicorp/terraform-ls) - Terraform Language Server
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosys
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -1387,7 +1385,6 @@
 - [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
-- [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@GaetanLepage, @willruggiano]
@@ -1790,7 +1787,6 @@
 - [NalaGinrut/artanis](https://github.com/NalaGinrut/artanis) - Mirror only, please visit https://gitlab.com/NalaGinrut/artanis
 - [johnlepikhin/guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) - Tiny guix channel which provides latest version of telegram-desktop
 - [aconchillo/guile-json](https://github.com/aconchillo/guile-json) - JSON module for Guile
-- [polychromatist/tree-sitter-luau](https://github.com/polychromatist/tree-sitter-luau) - tree-sitter for luau
 - [fishinthecalculator/gocix](https://github.com/fishinthecalculator/gocix) - This project aims at implementing a Guix native experience for services that are not yet guixable
 - [fishinthecalculator/sops-guix](https://github.com/fishinthecalculator/sops-guix) - Secure secret provisioning with Guix and SOPS
 - [nonguix/nonguix](https://github.com/nonguix/nonguix) - Nonguix mirror – pull requests ignored, please use upstream for that
@@ -1865,6 +1861,7 @@
 
 ## Tree-sitter Query 
 
+- [polychromatist/tree-sitter-luau](https://github.com/polychromatist/tree-sitter-luau) - tree-sitter for luau
 - [skissue/meow-tree-sitter](https://github.com/skissue/meow-tree-sitter) - Tree-sitter powered :deciduous_tree: motions for Meow :cat:
 - [meain/evil-textobj-tree-sitter](https://github.com/meain/evil-textobj-tree-sitter) - Tree-sitter powered textobjects for evil mode in Emacs
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
