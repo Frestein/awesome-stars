@@ -10,7 +10,6 @@
 - [audio](#audio)
 - [books](#books)
 - [browser](#browser)
-- [dotfiles](#dotfiles)
 - [🧙🏽‍♀️ emacs](#🧙🏽‍♀️-emacs)
 - [🔠 fonts](#🔠-fonts)
 - [🎮 games](#🎮-games)
@@ -27,6 +26,7 @@
 - [network](#network)
 - [❄️ nix](#❄️-nix)
 - [🔒 pass](#🔒-pass)
+- [🐍 python](#🐍-python)
 - [ricing](#ricing)
 - [security](#security)
 - [sh](#sh)
@@ -224,20 +224,6 @@
 - [gicrisf/swapforqute](https://github.com/gicrisf/swapforqute) - Redirect and clean URLs in qutebrowser.
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 
-## dotfiles
-- [logandonley/dotfiles](https://github.com/logandonley/dotfiles) - 
-- [Wansmer/nvim-config](https://github.com/Wansmer/nvim-config) - Neovim 0.10+ configuration
-- [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom Neovim setup
-- [meribold/dotfiles](https://github.com/meribold/dotfiles) - Personal dotfiles make using computers tolerable
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
-- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
-- [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit
-- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - [MIRROR] The path to GNUrvana
-- [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
-- [qtile/qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
-- [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
-
 ## 🧙🏽‍♀️ emacs
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
@@ -340,10 +326,6 @@
 - [emacs-exwm/exwm](https://github.com/emacs-exwm/exwm) - Emacs X Window Manager
 - [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
-- [emacs-lsp/lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
-- [emacs-lsp/lsp-pyright](https://github.com/emacs-lsp/lsp-pyright) - lsp-mode :heart: pyright 
-- [emacs-lsp/lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
 - [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Terminate Emacs Buffers Automatically to Enhance Emacs' Performance
 - [AndreaCrotti/yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
@@ -654,6 +636,12 @@
 - [jgru/consult-org-roam](https://github.com/jgru/consult-org-roam) - A bunch of convenience functions for operating org-roam with the help of consult 
 - [eki3z/consult-todo](https://github.com/eki3z/consult-todo) - 
 - [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el) - Emacs package for searching code using ast-grep with `completing-read' interface or `consult'
+- [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
+- [bradmont/page-view](https://github.com/bradmont/page-view) - A minor mode to give word processor-like paginated view for org-mode
+- [elisp-lsp/ellsp](https://github.com/elisp-lsp/ellsp) - Elisp Language Server
+- [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
+- [Fuco1/litable](https://github.com/Fuco1/litable) - On-the-fly evaluation/substitution of emacs lisp code
+- [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 
 ## 🔠 fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -755,6 +743,8 @@
 
 ## 📬 inbox
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
+- [elisp-lsp/ellsp](https://github.com/elisp-lsp/ellsp) - Elisp Language Server
+- [emacs-elsa/Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyzer and gradual type system.
 
 ## ⌨️ keyboard
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -795,7 +785,7 @@
 - [fukamachi/mallet](https://github.com/fukamachi/mallet) - A sensible Common Lisp linter that catches real mistakes, not style
 
 ## 🐧 linux
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
@@ -811,7 +801,6 @@
 - [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent) - A polkit authentication agent written in QT/QML
 - [hyprwm/contrib](https://github.com/hyprwm/contrib) - Community scripts and utilities for Hypr projects
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
-- [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland [maintainer=@fdev31]
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
@@ -978,7 +967,6 @@
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [ufo5260987423/scheme-langserver](https://github.com/ufo5260987423/scheme-langserver) - Scheme language server
 - [Beaglefoot/awk-language-server](https://github.com/Beaglefoot/awk-language-server) - Language Server for AWK and associated VSCode client extension
-- [LaBatata101/sith-language-server](https://github.com/LaBatata101/sith-language-server) - An experimental Python language server made in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -1179,7 +1167,6 @@
 - [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion) - Database autocompletion powered by https://github.com/tpope/vim-dadbod
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
-- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. inspired by Zed.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [nvim-neorg/neorg-gtd](https://github.com/nvim-neorg/neorg-gtd) - A cross-platform module for Getting Things Done in Neorg.
@@ -1261,7 +1248,6 @@
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Manage Gitlab resources in Neovim
 - [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) - URL previews in Neovim 🔗💫
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
-- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
 - [saccarosium/netrw.vim](https://github.com/saccarosium/netrw.vim) - Network oriented reading, writing, and browsing
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
 - [kungfusheep/snipe-lsp.nvim](https://github.com/kungfusheep/snipe-lsp.nvim) - A neovim plugin which uses snipe to navigate lsp symbols
@@ -1425,6 +1411,19 @@
 - [android-password-store/kage](https://github.com/android-password-store/kage) - Kotlin implementation of the age file encryption format
 - [fishinthecalculator/sops-guix](https://github.com/fishinthecalculator/sops-guix) - Secure secret provisioning with Guix and SOPS
 - [tijn/awesome-password-store](https://github.com/tijn/awesome-password-store) - A collection of awesome pass extensions and interfaces (for zx2c4's pass)
+
+## 🐍 python
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
+- [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
+- [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
+- [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
+- [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 
 ## ricing
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
