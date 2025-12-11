@@ -73,7 +73,6 @@
 - [elixir](#elixir)
 - [emacs](#emacs)
 - [emoji](#emoji)
-- [eslint](#eslint)
 - [express](#express)
 - [finance](#finance)
 - [firefox](#firefox)
@@ -185,7 +184,6 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
-- [scala](#scala)
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
@@ -196,7 +194,6 @@
 - [sqlite](#sqlite)
 - [statistics](#statistics)
 - [svelte](#svelte)
-- [swift](#swift)
 - [swiftui](#swiftui)
 - [telegram](#telegram)
 - [terminal](#terminal)
@@ -298,7 +295,6 @@
 ## angular 
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 
 ## ansible 
@@ -412,7 +408,6 @@
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
-- [meribold/dotfiles](https://github.com/meribold/dotfiles) - Personal dotfiles make using computers tolerable
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -512,6 +507,7 @@
 
 ## cli 
 
+- [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [HenryLoM/CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi) - CLI ASCII avatar for entertainment and motivational purposes
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image pro
@@ -687,7 +683,6 @@
 
 - [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 
 ## cryptography 
@@ -715,7 +710,6 @@
 
 ## dart 
 
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## data-science 
@@ -799,7 +793,6 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [docker/docker-language-server](https://github.com/docker/docker-language-server) - Language server for Dockerfiles, Compose files, and Bake files
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
-- [emacs-lsp/lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
 - [Silex/docker.el](https://github.com/Silex/docker.el) - Manage docker from Emacs.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
@@ -833,9 +826,6 @@
 - [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - Home Manager Option Search
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
 - [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit
-- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
-- [meribold/dotfiles](https://github.com/meribold/dotfiles) - Personal dotfiles make using computers tolerable
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [alker0/chezmoi.vim](https://github.com/alker0/chezmoi.vim) - Highlight dotfiles you manage with chezmoi.
@@ -867,6 +857,9 @@
 
 ## emacs 
 
+- [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
+- [elisp-lsp/ellsp](https://github.com/elisp-lsp/ellsp) - Elisp Language Server
+- [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
 - [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el) - Emacs package for searching code using ast-grep with `completing-read' interface or `consult'
 - [minad/consult-flycheck](https://github.com/minad/consult-flycheck) - Consult integration for Flycheck
 - [sshaw/git-link](https://github.com/sshaw/git-link) - Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
@@ -1010,8 +1003,6 @@
 - [AndreaCrotti/yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
 - [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Terminate Emacs Buffers Automatically to Enhance Emacs' Performance
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
-- [emacs-lsp/lsp-pyright](https://github.com/emacs-lsp/lsp-pyright) - lsp-mode :heart: pyright
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [emacs-exwm/exwm](https://github.com/emacs-exwm/exwm) - Emacs X Window Manager
 - [flexibeast/ebuku](https://github.com/flexibeast/ebuku) - Emacs interface to the buku Web bookmark manager.
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
@@ -1067,10 +1058,6 @@
 ## emoji 
 
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland
-
-## eslint 
-
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
 ## express 
 
@@ -1285,7 +1272,6 @@
 - [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -1397,7 +1383,6 @@
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
-- [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland [maintainer=@fdev31]
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) - Screensaver plugin for neovim.
@@ -1447,7 +1432,6 @@
 - [jeremy-compostella/org-msg](https://github.com/jeremy-compostella/org-msg) - OrgMsg is a GNU/Emacs global minor mode mixing up Org mode and Message mode to compose and reply to emails in a Outlook HTML friendly style.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [SteamAchievementNotifier/SteamAchievementNotifier](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier) - Steam Achievement Notifier shows fully customisable notifications when you unlock any achievement on Steam!
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 
@@ -1504,7 +1488,6 @@
 ## java 
 
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 
 ## javascript 
@@ -1517,7 +1500,6 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [SteamAchievementNotifier/SteamAchievementNotifier](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier) - Steam Achievement Notifier shows fully customisable notifications when you unlock any achievement on Steam!
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)
@@ -1541,7 +1523,6 @@
 - [wylie102/duckdb.yazi](https://github.com/wylie102/duckdb.yazi) - Yazi plugin that uses duckdb to preview data files.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 🛍 JSON schemas for Neovim
 
 ## jupyter-notebook 
@@ -1748,7 +1729,6 @@
 - [Cudiph/cwcwm](https://github.com/Cudiph/cwcwm) - Hackable wayland compositor
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
-- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
 - [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - An import picker that learns from your codebase
 - [nvim-mini/mini.tabline](https://github.com/nvim-mini/mini.tabline) - Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.
 - [nvim-mini/mini.deps](https://github.com/nvim-mini/mini.deps) - Plugin manager. Part of 'mini.nvim' library.
@@ -1758,7 +1738,6 @@
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [altermo/nwm](https://github.com/altermo/nwm) - A graphical display window manager in neovim
-- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) - A Paredit implementation for Neovim, built using Treesitter and written in Lua.
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
@@ -1774,7 +1753,6 @@
 - [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) - Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize Your Neovim Tab Workflow: Introducing Enhanced Tab Scoping!
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
-- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 - [davidde/mpv-autosub](https://github.com/davidde/mpv-autosub) - Fully automatic subtitle downloading for the MPV media player
@@ -1783,7 +1761,6 @@
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [dyphire/mpv-scripts](https://github.com/dyphire/mpv-scripts) - userscripts for mpv
 - [nvim-mini/mini-git](https://github.com/nvim-mini/mini-git) - Git integration. Part of 'mini.nvim' library.
-- [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom Neovim setup
 - [nvim-mini/mini.misc](https://github.com/nvim-mini/mini.misc) - Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.
 - [nvim-mini/mini.basics](https://github.com/nvim-mini/mini.basics) - Neovim Lua plugin with common configuration presets for options, mappings, and autocommands. Part of 'mini.nvim' library.
 - [nvim-mini/mini.hues](https://github.com/nvim-mini/mini.hues) - Generate configurable color scheme. Part of 'mini.nvim' library.
@@ -1981,7 +1958,6 @@
 - [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) - 🕛 Zero-overhead Fennel JIT compiler at runtime of Neovim with safety rollbacks
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
-- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
 - [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) - URL previews in Neovim 🔗💫
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Manage Gitlab resources in Neovim
 - [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - An import picker that learns from your codebase
@@ -2010,7 +1986,6 @@
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [PaterJason/cmp-conjure](https://github.com/PaterJason/cmp-conjure) - nvim-cmp source for conjure.
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) - A Paredit implementation for Neovim, built using Treesitter and written in Lua.
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
@@ -2034,7 +2009,6 @@
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)
 - [vlime/vlime](https://github.com/vlime/vlime) - A Common Lisp dev environment for Vim (and Neovim)
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
-- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 - [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion) - Database autocompletion powered by https://github.com/tpope/vim-dadbod
@@ -2044,11 +2018,9 @@
 - [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
 - [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim) - Neovim plugin to quickly insert log statements and capture log output
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
-- [meribold/dotfiles](https://github.com/meribold/dotfiles) - Personal dotfiles make using computers tolerable
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf, LuaJIT, or other profilers.
 - [nvim-mini/mini-git](https://github.com/nvim-mini/mini-git) - Git integration. Part of 'mini.nvim' library.
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames
-- [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom Neovim setup
 - [nvim-mini/mini.misc](https://github.com/nvim-mini/mini.misc) - Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.
 - [nvim-mini/mini.basics](https://github.com/nvim-mini/mini.basics) - Neovim Lua plugin with common configuration presets for options, mappings, and autocommands. Part of 'mini.nvim' library.
 - [nvim-mini/mini.hues](https://github.com/nvim-mini/mini.hues) - Generate configurable color scheme. Part of 'mini.nvim' library.
@@ -2064,7 +2036,6 @@
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [nvim-mini/mini.pairs](https://github.com/nvim-mini/mini.pairs) - Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.
 - [nvim-mini/mini.ai](https://github.com/nvim-mini/mini.ai) - Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.
-- [Wansmer/nvim-config](https://github.com/Wansmer/nvim-config) - Neovim 0.10+ configuration
 - [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) - Helping you find free keybinds in vim
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
@@ -2242,6 +2213,10 @@
 
 ## others 
 
+- [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
+- [Fuco1/litable](https://github.com/Fuco1/litable) - On-the-fly evaluation/substitution of emacs lisp code
+- [bradmont/page-view](https://github.com/bradmont/page-view) - A minor mode to give word processor-like paginated view for org-mode
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [eki3z/consult-todo](https://github.com/eki3z/consult-todo) - 
 - [jgru/consult-org-roam](https://github.com/jgru/consult-org-roam) - A bunch of convenience functions for operating org-roam with the help of consult
 - [mohkale/consult-eglot](https://github.com/mohkale/consult-eglot) - Jump to workspace symbols with eglot and consult
@@ -2929,7 +2904,6 @@
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
-- [logandonley/dotfiles](https://github.com/logandonley/dotfiles) - 
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
@@ -3013,7 +2987,6 @@
 
 - [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin) - PostfixAdmin - web based virtual user administration interface for Postfix mail servers
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
 ## pixel-art 
 
@@ -3082,7 +3055,6 @@
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland [maintainer=@fdev31]
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ## programming 
@@ -3114,6 +3086,7 @@
 
 ## python 
 
+- [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [Wookhq/Lution](https://github.com/Wookhq/Lution) - literally a bloxstrap clone 4 linux
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
@@ -3126,14 +3099,11 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [emacs-lsp/lsp-pyright](https://github.com/emacs-lsp/lsp-pyright) - lsp-mode :heart: pyright
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [gentoo/portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [LaBatata101/sith-language-server](https://github.com/LaBatata101/sith-language-server) - An experimental Python language server made in Rust.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
@@ -3141,7 +3111,6 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland [maintainer=@fdev31]
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Zeioth/compiler.nvim](https://github.com/Zeioth/compiler.nvim) - Neovim compiler for building and running your code without having to configure anything
@@ -3211,7 +3180,6 @@
 ## ruby 
 
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
 ## rust 
 
@@ -3259,8 +3227,6 @@
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
-- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -3268,7 +3234,6 @@
 - [anistark/feluda](https://github.com/anistark/feluda) - Detect license usage restrictions in your project!
 - [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [LaBatata101/sith-language-server](https://github.com/LaBatata101/sith-language-server) - An experimental Python language server made in Rust.
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
 - [hyprland-community/hyprland-autoname-workspaces](https://github.com/hyprland-community/hyprland-autoname-workspaces) - Hyprland autoname workspaces 🪟 [maintainers=@cyrinux,@maximbaz,@matt-fff]
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
@@ -3309,10 +3274,6 @@
 
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
-
-## scala 
-
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
 ## security 
 
@@ -3391,7 +3352,6 @@
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [meribold/dotfiles](https://github.com/meribold/dotfiles) - Personal dotfiles make using computers tolerable
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [dyne/tomb](https://github.com/dyne/tomb) - the Crypto Undertaker
@@ -3429,10 +3389,6 @@
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-
-## swift 
-
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
 ## swiftui 
 
@@ -3520,7 +3476,6 @@
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -3535,7 +3490,6 @@
 
 ## ui 
 
-- [emacs-lsp/lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
 - [nordtheme/emacs](https://github.com/nordtheme/emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -3556,8 +3510,6 @@
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
-- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) - A Paredit implementation for Neovim, built using Treesitter and written in Lua.
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim
@@ -3573,8 +3525,6 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
 - [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
-- [meribold/dotfiles](https://github.com/meribold/dotfiles) - Personal dotfiles make using computers tolerable
-- [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom Neovim setup
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
@@ -3692,7 +3642,7 @@
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [Zeioth/compiler.nvim](https://github.com/Zeioth/compiler.nvim) - Neovim compiler for building and running your code without having to configure anything
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
 ## zsh 
 
