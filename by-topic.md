@@ -399,7 +399,6 @@
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -540,13 +539,11 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
-- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
@@ -619,7 +616,6 @@
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
@@ -1152,7 +1148,6 @@
 - [alphapapa/magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -2168,6 +2163,8 @@
 
 ## others 
 
+- [protesilaos/pulsar](https://github.com/protesilaos/pulsar) - Emacs package to pulse the current line after running select functions.
+- [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [WiVRn/WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
@@ -2744,7 +2741,6 @@
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
 - [grimsteel/pass-secret-service](https://github.com/grimsteel/pass-secret-service) - Implementation of org.freedesktop.secrets using `pass`
 - [hunkyburrito/xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser) - xdg-desktop-portal backend for choosing files with your favorite file chooser
-- [plttn/fish-eza](https://github.com/plttn/fish-eza) - :fish: eza aliases for fish
 - [Vladimir-csp/app2unit](https://github.com/Vladimir-csp/app2unit) - Launches Desktop Entries as Systemd user units
 - [mrxdst/webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Adds a hook that allows mpv to stream torrents
 - [joaquintorres/autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv) - Automatic subtitle synchronization script for mpv media player
@@ -3579,7 +3575,6 @@
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [abcdw/rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments. Mirror of https://sr.ht/~abcdw/rde/
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
