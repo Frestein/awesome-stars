@@ -371,6 +371,7 @@
 
 ## Emacs Lisp 
 
+- [kwrooijen/wisdom](https://github.com/kwrooijen/wisdom) - Structure, Literate Emacs configuration framework
 - [protesilaos/pulsar](https://github.com/protesilaos/pulsar) - Emacs package to pulse the current line after running select functions.
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [Fuco1/litable](https://github.com/Fuco1/litable) - On-the-fly evaluation/substitution of emacs lisp code
