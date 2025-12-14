@@ -2163,6 +2163,7 @@
 
 ## others 
 
+- [kwrooijen/wisdom](https://github.com/kwrooijen/wisdom) - Structure, Literate Emacs configuration framework
 - [protesilaos/pulsar](https://github.com/protesilaos/pulsar) - Emacs package to pulse the current line after running select functions.
 - [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [WiVRn/WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
