@@ -89,6 +89,8 @@
 
 ## C 
 
+- [stsewd/tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
+- [Z572/guile-ts](https://github.com/Z572/guile-ts) - guile + tree-sitter
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [Trevoke/org-ts-mode](https://github.com/Trevoke/org-ts-mode) - 
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
@@ -268,7 +270,6 @@
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
-- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -294,7 +295,6 @@
 - [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent) - A polkit authentication agent written in QT/QML
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
-- [outfoxxed/hy3](https://github.com/outfoxxed/hy3) - Hyprland plugin for an i3 / sway like manual tiling layout
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -354,7 +354,6 @@
 - [fosskers/vend](https://github.com/fosskers/vend) - Manage your Common Lisp project dependencies.
 - [sbcl/sbcl](https://github.com/sbcl/sbcl) - Mirror of Steel Bank Common Lisp (SBCL)'s official repository
 - [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
-- [slime/slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## Crystal 
@@ -371,11 +370,18 @@
 
 ## Emacs Lisp 
 
+- [Nathan-Melaku/hyprlang-ts-mode](https://github.com/Nathan-Melaku/hyprlang-ts-mode) - A major mode for editing hyprland configuration files in emacs
+- [ag91/emacs-with-nyxt](https://github.com/ag91/emacs-with-nyxt) - Some code to make Emacs interact with Nyxt
+- [leotaku/elisp-check](https://github.com/leotaku/elisp-check) - A GitHub Action for Emacs Lisp CI
+- [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
+- [pope/ob-go](https://github.com/pope/ob-go) - Org-Babel support for evaluating go code.
+- [deirn/mason.el](https://github.com/deirn/mason.el) - Package manager for LSP, DAP, linters, and more for the Emacs Operating System
+- [kwrooijen/anzu-overlay](https://github.com/kwrooijen/anzu-overlay) - 
 - [purcell/page-break-lines](https://github.com/purcell/page-break-lines) - Emacs: display ugly ^L page breaks as tidy horizontal lines
 - [gggion/org-transclusion-blocks](https://github.com/gggion/org-transclusion-blocks) - Header based transclusion framework
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
 - [alphapapa/listen.el](https://github.com/alphapapa/listen.el) - Audio/music player for Emacs
-- [kwrooijen/wisdom](https://github.com/kwrooijen/wisdom) - Structure, Literate Emacs configuration framework
+- [kwrooijen/wisdom](https://github.com/kwrooijen/wisdom) - Structured, Literate Emacs configuration framework
 - [protesilaos/pulsar](https://github.com/protesilaos/pulsar) - Emacs package to pulse the current line after running select functions.
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [Fuco1/litable](https://github.com/Fuco1/litable) - On-the-fly evaluation/substitution of emacs lisp code
@@ -434,7 +440,6 @@
 - [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
 - [kidd/org-gcal.el](https://github.com/kidd/org-gcal.el) - Org sync with Google Calendar.  (active maintained project as of 2019-11-06)
 - [emacsmirror/org-contacts](https://github.com/emacsmirror/org-contacts) - Contacts management system for Org mode
-- [andykuszyk/osawm.el](https://github.com/andykuszyk/osawm.el) - An Emacs window manager for Mac OS
 - [xzz53/mu4e-alert](https://github.com/xzz53/mu4e-alert) - Desktop notifications and modeline display for mu4e
 - [Artawower/file-info.el](https://github.com/Artawower/file-info.el) - All necessary information about current file in hydra + posframe
 - [Artawower/turbo-log](https://github.com/Artawower/turbo-log) - Fast log message inserting for quick debug.
@@ -711,7 +716,6 @@
 - [ema2159/centaur-tabs](https://github.com/ema2159/centaur-tabs) - Emacs plugin aiming to become an aesthetic, modern looking tabs plugin
 - [alexluigit/dirvish](https://github.com/alexluigit/dirvish) - A polished Dired with batteries included.
 - [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - Emacs package to enable transclusion with Org Mode
-- [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [Wilfred/helpful](https://github.com/Wilfred/helpful) - A better Emacs *help* buffer
 - [emacs-evil/evil-collection](https://github.com/emacs-evil/evil-collection) - A set of keybindings for evil-mode
 - [Crandel/tempel-collection](https://github.com/Crandel/tempel-collection) - Collection tempel templates
@@ -782,6 +786,7 @@
 
 ## Go 
 
+- [hyprland-community/hyprls](https://github.com/hyprland-community/hyprls) - A LSP server for Hyprland config files [maintainer=@gwennlbh]
 - [HenryLoM/CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi) - CLI ASCII avatar for entertainment and motivational purposes
 - [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - A tui greeter (not built in rust)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -792,7 +797,7 @@
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -919,6 +924,7 @@
 
 ## JavaScript 
 
+- [openscad/tree-sitter-openscad](https://github.com/openscad/tree-sitter-openscad) - Incremental parser for OpenSCAD using tree-sitter
 - [alaviss/tree-sitter-nim](https://github.com/alaviss/tree-sitter-nim) - tree-sitter grammar for Nim
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
@@ -1594,6 +1600,7 @@
 
 ## Rust 
 
+- [Leathong/openscad-LSP](https://github.com/Leathong/openscad-LSP) - A LSP (Language Server Protocol) server for OpenSCAD.
 - [galister/wlx-overlay-s](https://github.com/galister/wlx-overlay-s) - Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR. Now with Vulkan!
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
