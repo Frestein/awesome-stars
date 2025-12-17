@@ -271,7 +271,6 @@
 - [meedstrom/org-node-fakeroam](https://github.com/meedstrom/org-node-fakeroam) - 
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [emacsmirror/fennel-mode](https://github.com/emacsmirror/fennel-mode) - A major-mode for editing Fennel code
-- [magnars/multiple-cursors.el](https://github.com/magnars/multiple-cursors.el) - Multiple cursors for emacs.
 - [minad/corfu](https://github.com/minad/corfu) - :desert_island: corfu.el - COmpletion in Region FUnction
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
@@ -594,7 +593,6 @@
 - [tarsius/keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
 - [lrustand/qutebrowser.el](https://github.com/lrustand/qutebrowser.el) - Qutebrowser + EXWM
 - [xiongtx/eros](https://github.com/xiongtx/eros) - Evaluation Result OverlayS for Emacs Lisp.
-- [enzuru/lispy](https://github.com/enzuru/lispy) - Temporary fork of Lispy, for short and sweet LISP editing
 - [jamescherti/lightemacs](https://github.com/jamescherti/lightemacs) - Lightemacs - Fast and Lightweight Emacs Framework
 - [bohonghuang/org-inc](https://github.com/bohonghuang/org-inc) - Perform incremental learning inside Org-mode
 - [open-spaced-repetition/lisp-fsrs](https://github.com/open-spaced-repetition/lisp-fsrs) - Common/Emacs Lisp implementation for FSRS
@@ -658,6 +656,12 @@
 - [leotaku/elisp-check](https://github.com/leotaku/elisp-check) - A GitHub Action for Emacs Lisp CI
 - [ag91/emacs-with-nyxt](https://github.com/ag91/emacs-with-nyxt) - Some code to make Emacs interact with Nyxt
 - [Nathan-Melaku/hyprlang-ts-mode](https://github.com/Nathan-Melaku/hyprlang-ts-mode) - A major mode for editing hyprland configuration files in emacs
+- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
+- [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - A metacircular modal UI framework.
+- [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
+- [gabesoft/evil-mc](https://github.com/gabesoft/evil-mc) - Multiple cursors implementation for evil-mode
+- [hlissner/evil-multiedit](https://github.com/hlissner/evil-multiedit) - Multiple cursors for evil-mode, based on iedit
+- [Kinneyzhang/elog](https://github.com/Kinneyzhang/elog) - A Powerful Logging System for Emacs Lisp
 
 ## 🔠 fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1350,6 +1354,7 @@
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 
 ## ricing
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
@@ -1652,7 +1657,6 @@
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
-- [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) - 🔀 Redirect social media platforms to their privacy respecting frontends
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
