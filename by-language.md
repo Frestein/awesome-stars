@@ -339,6 +339,9 @@
 
 ## Common Lisp 
 
+- [atgreen/cl-tuition](https://github.com/atgreen/cl-tuition) - A Common Lisp library for building TUIs
+- [ocicl/ocicl](https://github.com/ocicl/ocicl) - An OCI-based ASDF system distribution and management tool for Common Lisp
+- [atgreen/icl](https://github.com/atgreen/icl) - Interactive Common Lisp: an enhanced REPL
 - [bohonghuang/cl-gtk4](https://github.com/bohonghuang/cl-gtk4) - GTK4/Libadwaita/WebKit2 bindings for Common Lisp.
 - [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 - [fukamachi/clack](https://github.com/fukamachi/clack) - Web server abstraction layer for Common Lisp
@@ -372,6 +375,8 @@
 
 ## Emacs Lisp 
 
+- [edkolev/evil-lion](https://github.com/edkolev/evil-lion) - Evil align operator
+- [SqrtMinusOne/dotfiles](https://github.com/SqrtMinusOne/dotfiles) - This road is never-ending
 - [Kinneyzhang/elog](https://github.com/Kinneyzhang/elog) - A Powerful Logging System for Emacs Lisp
 - [hlissner/evil-multiedit](https://github.com/hlissner/evil-multiedit) - Multiple cursors for evil-mode, based on iedit
 - [gabesoft/evil-mc](https://github.com/gabesoft/evil-mc) - Multiple cursors implementation for evil-mode
@@ -1926,7 +1931,6 @@
 ## Zig 
 
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
-- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
