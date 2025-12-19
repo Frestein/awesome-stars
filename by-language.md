@@ -270,7 +270,7 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -375,6 +375,8 @@
 
 ## Emacs Lisp 
 
+- [antrmn/org-rnote](https://github.com/antrmn/org-rnote) - Rnote integration for Org Mode
+- [SebastianMeisel/tesseract.el](https://github.com/SebastianMeisel/tesseract.el) - Emacs integretion for Tesseract OCR
 - [edkolev/evil-lion](https://github.com/edkolev/evil-lion) - Evil align operator
 - [SqrtMinusOne/dotfiles](https://github.com/SqrtMinusOne/dotfiles) - This road is never-ending
 - [Kinneyzhang/elog](https://github.com/Kinneyzhang/elog) - A Powerful Logging System for Emacs Lisp
@@ -563,7 +565,6 @@
 - [TeMPOraL/nyan-mode](https://github.com/TeMPOraL/nyan-mode) - Nyan Cat for Emacs! Nyanyanyanyanyanyanyanyanyan!
 - [clojure-emacs/cider](https://github.com/clojure-emacs/cider) - The Clojure Interactive Development Environment that Rocks for Emacs
 - [qdot/deldo](https://github.com/qdot/deldo) - Deldo is a sex toy control and teledildonics mode for Emacs
-- [eval-exec/eee.el](https://github.com/eval-exec/eee.el) - Launch TUI commands in an external terminal asynchronously💪 , seamlessly integrating callbacks within Emacs⚡. Elevate your Emacs experience with eee.el 🥰
 - [rejeep/drag-stuff.el](https://github.com/rejeep/drag-stuff.el) - Drag stuff around in Emacs
 - [CeleritasCelery/rune](https://github.com/CeleritasCelery/rune) - Rust VM for Emacs
 - [konrad1977/flyover](https://github.com/konrad1977/flyover) - A beautiful inline overlay for Emacs (Flycheck | Flymake)
@@ -817,7 +818,6 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [nekorg/pawbar](https://github.com/nekorg/pawbar) - A kitten-panel based desktop panel for your desktop
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -935,6 +935,7 @@
 
 ## JavaScript 
 
+- [GerardoCendejas/org-roam-timeline](https://github.com/GerardoCendejas/org-roam-timeline) - Interactive timeline visualization for Org-roam.
 - [openscad/tree-sitter-openscad](https://github.com/openscad/tree-sitter-openscad) - Incremental parser for OpenSCAD using tree-sitter
 - [alaviss/tree-sitter-nim](https://github.com/alaviss/tree-sitter-nim) - tree-sitter grammar for Nim
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
@@ -1081,7 +1082,7 @@
 - [AnirudhG07/custom-shell.yazi](https://github.com/AnirudhG07/custom-shell.yazi) - Set your custom-shell as default shell in yazi!
 - [uhs-robert/sshfs.yazi](https://github.com/uhs-robert/sshfs.yazi) - 📡 sshfs.yazi integrates seamlessly with the Yazi terminal file manager, using SSHFS to mount and unmount remote systems so you can browse, preview, and edit single files or entire directories as if th
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of quality-of-life features related to folding.
 - [dmtrKovalenko/fold-imports.nvim](https://github.com/dmtrKovalenko/fold-imports.nvim) - Neovim plugin to automatically fold imports in any language using treesitter
@@ -1230,7 +1231,7 @@
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - Debugging in NeoVim the print() way!
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for _all_ projects files, not just opened ones.
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
@@ -1353,6 +1354,7 @@
 
 ## Nix 
 
+- [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
 - [nix-community/nixpkgs-xr](https://github.com/nix-community/nixpkgs-xr) - Automated packages for XR/AR/VR tools and apps for NixOS [maintainer=@Scrumplex]
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -1503,6 +1505,9 @@
 
 ## Python 
 
+- [denilsonsa/gimp-palettes](https://github.com/denilsonsa/gimp-palettes) - RGB color palettes for Gimp
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+- [AzuredBlue/mpv-anilist-updater](https://github.com/AzuredBlue/mpv-anilist-updater) - MPV Script for AniList, Automatically updates your anilist with anime that you watch.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
@@ -1587,7 +1592,6 @@
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [ttys3/oh-my-kitty](https://github.com/ttys3/oh-my-kitty) - Oh my kitty!  (the kitty config for tmux users)
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
 - [the-database/mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai) - Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1612,6 +1616,8 @@
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+- [nouritsu/hyprzoom](https://github.com/nouritsu/hyprzoom) - A simple yet feature rich zoom utility for Hyprland.
 - [Leathong/openscad-LSP](https://github.com/Leathong/openscad-LSP) - A LSP (Language Server Protocol) server for OpenSCAD.
 - [galister/wlx-overlay-s](https://github.com/galister/wlx-overlay-s) - Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR. Now with Vulkan!
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
@@ -1767,6 +1773,7 @@
 
 ## Scheme 
 
+- [loloolooo/photoshop-keymap-for-gimp](https://github.com/loloolooo/photoshop-keymap-for-gimp) - This extension ports popular Photoshop keyboard shortcuts to GIMP.
 - [NalaGinrut/artanis](https://github.com/NalaGinrut/artanis) - Mirror only, please visit https://gitlab.com/NalaGinrut/artanis
 - [johnlepikhin/guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) - Tiny guix channel which provides latest version of telegram-desktop
 - [aconchillo/guile-json](https://github.com/aconchillo/guile-json) - JSON module for Guile
