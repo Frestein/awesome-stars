@@ -556,7 +556,7 @@
 - [eshelyaron/semel](https://github.com/eshelyaron/semel) - Semantic highlighting for Emacs Lisp
 - [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
 - [hexmode/mediawiki-el](https://github.com/hexmode/mediawiki-el) - Emacs interface to edit any mediawiki site
-- [tanrax/org-social-relay](https://github.com/tanrax/org-social-relay) - Org Social Rely is a P2P system that acts as an intermediary between all social.org files
+- [tanrax/org-social-relay](https://github.com/tanrax/org-social-relay) - Org Social Relay is a P2P system that acts as an intermediary between all social.org files
 - [tanrax/org-social-static-preview](https://github.com/tanrax/org-social-static-preview) - Tool for generating HTML previews from Org Social files
 - [tanrax/lobsters.el](https://github.com/tanrax/lobsters.el) - Lobsters client for Emacs
 - [rainstormstudio/treemacs-nerd-icons](https://github.com/rainstormstudio/treemacs-nerd-icons) - 
@@ -670,6 +670,7 @@
 - [GerardoCendejas/org-roam-timeline](https://github.com/GerardoCendejas/org-roam-timeline) - Interactive timeline visualization for Org-roam.
 - [SebastianMeisel/tesseract.el](https://github.com/SebastianMeisel/tesseract.el) - Emacs integretion for Tesseract OCR
 - [antrmn/org-rnote](https://github.com/antrmn/org-rnote) - Rnote integration for Org Mode
+- [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
 
 ## 🔠 fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1220,6 +1221,7 @@
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television
 - [jake-stewart/lazier.nvim](https://github.com/jake-stewart/lazier.nvim) - 
+- [editor-code-assistant/eca-nvim](https://github.com/editor-code-assistant/eca-nvim) - NVIM integration with ECA
 
 ## network
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
