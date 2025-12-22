@@ -322,6 +322,7 @@
 
 ## CSS 
 
+- [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
 - [precondition/precondition.github.io](https://github.com/precondition/precondition.github.io) - Personal Weblog with tools and guides for QMK keyboards. Home of the home row mods guide
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
@@ -386,6 +387,16 @@
 
 ## Emacs Lisp 
 
+- [misohena/el-vkbd](https://github.com/misohena/el-vkbd) - A software keyboard implemented in Emacs Lisp that runs inside Emacs.
+- [0WD0/majutsu](https://github.com/0WD0/majutsu) - Majutsu! Magit for jujutsu
+- [eki3z/mini-echo.el](https://github.com/eki3z/mini-echo.el) - Show buffer status in echo area , get rid of mode-line!
+- [konrad1977/periphery](https://github.com/konrad1977/periphery) - Periphery is a parser framework for Emacs
+- [flycheck/flycheck-popup-tip](https://github.com/flycheck/flycheck-popup-tip) - Display Flycheck error messages using popup.el
+- [flycheck/flycheck-eask](https://github.com/flycheck/flycheck-eask) - Eask support in Flycheck
+- [flycheck/flycheck-eglot](https://github.com/flycheck/flycheck-eglot) - Flycheck support for eglot
+- [d12frosted/vui.el](https://github.com/d12frosted/vui.el) - Declarative, component-based UI library for Emacs. React-like components with state, hooks, reconciliation, and layouts - rendered using native Emacs widgets.
+- [jorgenschaefer/emacs-buttercup](https://github.com/jorgenschaefer/emacs-buttercup) - Behavior-Driven Emacs Lisp Testing
+- [anuvyklack/hel](https://github.com/anuvyklack/hel) - Helix emulation layer for Emacs
 - [CSJ7701/Sliver](https://github.com/CSJ7701/Sliver) - Modular configuration management for Emacs
 - [emacs-circe/circe](https://github.com/emacs-circe/circe) - Circe, a Client for IRC in Emacs
 - [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
@@ -463,7 +474,6 @@
 - [alphapapa/org-protocol-capture-html](https://github.com/alphapapa/org-protocol-capture-html) - Capture HTML from the browser selection into Emacs as org-mode content
 - [yantar92/org-capture-ref](https://github.com/yantar92/org-capture-ref) - Extract metadata/bibtex info from websites for org-capture
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
-- [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [yibie/org-luhmann](https://github.com/yibie/org-luhmann) - Luhmann's numbering system for org-mode
 - [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
 - [kidd/org-gcal.el](https://github.com/kidd/org-gcal.el) - Org sync with Google Calendar.  (active maintained project as of 2019-11-06)
@@ -543,13 +553,11 @@
 - [auto-complete/popup-el](https://github.com/auto-complete/popup-el) - Visual Popup Interface Library for Emacs
 - [SqrtMinusOne/biome](https://github.com/SqrtMinusOne/biome) - Bountiful Interface to Open Meteo for Emacs
 - [SqrtMinusOne/eshell-atuin](https://github.com/SqrtMinusOne/eshell-atuin) - eshell ❤️ atuin
-- [alphapapa/org-graph-view](https://github.com/alphapapa/org-graph-view) - View Org buffers as a clickable, graphical mind-map
 - [alphapapa/unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
 - [magnars/s.el](https://github.com/magnars/s.el) - The long lost Emacs string manipulation library.
 - [fuxialexander/org-pdftools](https://github.com/fuxialexander/org-pdftools) - A custom org link type for pdf-tools
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [pinoaffe/org-vcard](https://github.com/pinoaffe/org-vcard) - Export and import vCards from within GNU Emacs' Org mode.
-- [lepisma/org-books](https://github.com/lepisma/org-books) - Reading list management with org mode
 - [Chobbes/org-chef](https://github.com/Chobbes/org-chef) - A package for making a cookbook and managing recipes with org-mode.
 - [nagy/tokei.el](https://github.com/nagy/tokei.el) - Display codebase statistics in Emacs 📈
 - [meedstrom/org-mem](https://github.com/meedstrom/org-mem) - Turn thousands of Org files into a database in seconds
@@ -589,7 +597,6 @@
 - [kickingvegas/casual](https://github.com/kickingvegas/casual) - A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.
 - [kljohann/mpv.el](https://github.com/kljohann/mpv.el) - control mpv for easy note taking
 - [yibie/org-embed](https://github.com/yibie/org-embed) - An Emacs package for embedding various content in Org-mode.
-- [masasam/emacs-easy-hugo](https://github.com/masasam/emacs-easy-hugo) - Emacs major mode for managing hugo
 - [mgmarlow/helix-mode](https://github.com/mgmarlow/helix-mode) - Helix keybindings in Emacs
 - [armindarvish/consult-gh](https://github.com/armindarvish/consult-gh) - An Interactive interface for "GitHub CLI" client inside GNU Emacs using Consult
 - [ryuslash/git-auto-commit-mode](https://github.com/ryuslash/git-auto-commit-mode) - Automatically commit to git after each save
@@ -656,7 +663,6 @@
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [joostkremers/writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
-- [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
 - [jasonm23/autothemer](https://github.com/jasonm23/autothemer) - Conveniently create Emacs themes - watch Autothemer used by System Crafters https://www.youtube.com/watch?v=kCCIudu53Zg
 - [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
 - [yibie/org-supertag](https://github.com/yibie/org-supertag) - Implement a modern note-taking app style in Org-mode.
@@ -1372,6 +1378,7 @@
 
 ## Nix 
 
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [benlubas/neorg-interim-ls](https://github.com/benlubas/neorg-interim-ls) - Temporarily providing a limited set of LSP features to neorg
 - [nvim-neorg/nixpkgs-neorg-overlay](https://github.com/nvim-neorg/nixpkgs-neorg-overlay) - Nixpkgs overlay for Neorg and related packages
 - [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
