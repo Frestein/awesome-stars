@@ -7,7 +7,6 @@
 ## Contents
 - [📱 android](#📱-android)
 - [🎨 art](#🎨-art)
-- [audio](#audio)
 - [books](#books)
 - [browser](#browser)
 - [🧪 common-lisp](#🧪-common-lisp)
@@ -25,10 +24,9 @@
 - [❄️ nix](#❄️-nix)
 - [🔒 pass](#🔒-pass)
 - [🐍 python](#🐍-python)
-- [ricing](#ricing)
 - [security](#security)
 - [🐚 shell](#🐚-shell)
-- [📹 streaming](#📹-streaming)
+- [📹 stream](#📹-stream)
 - [💻 tools](#💻-tools)
 - [📄 typst](#📄-typst)
 - [web](#web)
@@ -91,25 +89,6 @@
 - [loloolooo/photoshop-keymap-for-gimp](https://github.com/loloolooo/photoshop-keymap-for-gimp) - This extension ports popular Photoshop keyboard shortcuts to GIMP.
 - [denilsonsa/gimp-palettes](https://github.com/denilsonsa/gimp-palettes) - RGB color palettes for Gimp
 
-## audio
-- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
-- [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
-- [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
-- [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
-- [natsukagami/mpd-mpris](https://github.com/natsukagami/mpd-mpris) - An implementation of the MPRIS protocol for MPD.
-- [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
-- [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
-- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
-- [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
-- [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
-- [dimtpap/coppwr](https://github.com/dimtpap/coppwr) - Low level control GUI for the PipeWire multimedia server
-- [vaxerski/Vermilion](https://github.com/vaxerski/Vermilion) - Vermilion is a clean, minimal and simple music player for MPD, Tidal, Spotify and more.
-- [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
-- [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
-- [emacsmirror/emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
-- [alphapapa/listen.el](https://github.com/alphapapa/listen.el) - Audio/music player for Emacs
-
 ## books
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -161,7 +140,6 @@
 
 ## browser
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-- [jtyers/qutebrowser-profile](https://github.com/jtyers/qutebrowser-profile) - Ability to run qutebrowser with different profiles, choose a profile via dmenu/rofi interactively for new links
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
@@ -174,16 +152,12 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [TheFantasticWarrior/chrome-extension-imagus](https://github.com/TheFantasticWarrior/chrome-extension-imagus) - [Inactive] "Mirror" of the "Mirror" of the official Imagus source hosted on Google Drive. Indefinitely taking a break
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
-- [pvsr/qbpm](https://github.com/pvsr/qbpm) - a profile manager for qutebrowser
-- [qutebrowser/qutebrowser-extensions](https://github.com/qutebrowser/qutebrowser-extensions) - Extension ideas (and at some point code) for qutebrowser
 - [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [tophf/mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
-- [catppuccin/web-file-explorer-icons](https://github.com/catppuccin/web-file-explorer-icons) - 📂 Soothing pastel icons for GitHub, Gitlab, Gitea, Forgejo and more!
-- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork) - An online repository of user scripts.
 - [AdguardTeam/AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra) - AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren't enough.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
@@ -196,12 +170,9 @@
 - [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
 - [nazdridoy/github-commit-labels](https://github.com/nazdridoy/github-commit-labels) - A userscript that enhances GitHub commits by adding beautiful labels for conventional commit types.
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
-- [ArniDagur/python-adblock](https://github.com/ArniDagur/python-adblock) - Brave's adblock library in Python
 - [karlicoss/grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
-- [LaurenceWarne/qute-code-hint](https://github.com/LaurenceWarne/qute-code-hint) - A Qutebrowser user script for hinting and copying code
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
-- [l4l4l4l4/qute-translate-popup](https://github.com/l4l4l4l4/qute-translate-popup) - qutebrowser userscript for selected text translation. with a qute popup!
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
@@ -214,7 +185,6 @@
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [nacho/servo-gtk](https://github.com/nacho/servo-gtk) - GTK integration for Servo
-- [gicrisf/swapforqute](https://github.com/gicrisf/swapforqute) - Redirect and clean URLs in qutebrowser.
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 
 ## 🧪 common-lisp
@@ -233,6 +203,18 @@
 - [atgreen/cl-tuition](https://github.com/atgreen/cl-tuition) - A Common Lisp library for building TUIs
 - [moonli-lang/moonli](https://github.com/moonli-lang/moonli) - Moonli is a Julia/Python-ish syntax layer that transpiles to Common Lisp
 - [tree-sitter-grammars/tree-sitter-commonlisp](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) - Common Lisp grammar for tree-sitter
+- [google/lisp-koans](https://github.com/google/lisp-koans) - Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features. 
+- [fade/asteroid](https://github.com/fade/asteroid) - 
+- [coalton-lang/coalton](https://github.com/coalton-lang/coalton) - Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
+- [fukamachi/woo](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev
+- [fukamachi/clack](https://github.com/fukamachi/clack) - Web server abstraction layer for Common Lisp
+- [fukamachi/dexador](https://github.com/fukamachi/dexador) - A fast HTTP client for Common Lisp
+- [fukamachi/mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
+- [stumpwm/mahogany](https://github.com/stumpwm/mahogany) - A stumpwm like Wayland compositor
+- [bohonghuang/cl-gtk4](https://github.com/bohonghuang/cl-gtk4) - GTK4/Libadwaita/WebKit2 bindings for Common Lisp.
+- [open-spaced-repetition/lisp-fsrs](https://github.com/open-spaced-repetition/lisp-fsrs) - Common/Emacs Lisp implementation for FSRS
+- [lem-project/lem-extension-manager](https://github.com/lem-project/lem-extension-manager) - LEM(Lem extension manager) it's a package manager for the Lem editor/IDE
+- [lem-project/tree-sitter-cl](https://github.com/lem-project/tree-sitter-cl) - Common Lisp bindings for tree-sitter
 
 ## 🧙🏽‍♀️ emacs
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
@@ -682,6 +664,12 @@
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
 - [karlicoss/grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
 - [LuciusChen/discourse-graphs](https://github.com/LuciusChen/discourse-graphs) - An Emacs org-mode implementation of the Discourse Graphs protocol for knowledge synthesis.
+- [mwac-dev/grease.el](https://github.com/mwac-dev/grease.el) - Grease.el is the Oil.nvim for emacs
+- [meedstrom/dired-du-duc](https://github.com/meedstrom/dired-du-duc) - Add filesystem indexing to Dired-Du
+- [meedstrom/el-job](https://github.com/meedstrom/el-job) - Async multicore mapcar
+- [meedstrom/once](https://github.com/meedstrom/once) - 
+- [jtmoulia/elisp-koans](https://github.com/jtmoulia/elisp-koans) - Emacs Lisp Koans -- learn elisp through test-driven development.
+- [gonewest818/elisp-lint](https://github.com/gonewest818/elisp-lint) - Basic linting for Emacs Lisp
 
 ## 🔠 fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -709,9 +697,7 @@
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
-- [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
-- [SteamAchievementNotifier/SteamAchievementNotifier](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier) - Steam Achievement Notifier shows fully customisable notifications when you unlock any achievement on Steam!
 - [C0rn3j/sc-controller](https://github.com/C0rn3j/sc-controller) - User-mode driver and GTK3 based GUI for game controllers, including but not limited to Steam Controller
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager
@@ -755,6 +741,7 @@
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
+- [cdarwin/go-koans](https://github.com/cdarwin/go-koans) - koans for go
 
 ## 🧬 helix
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -762,6 +749,15 @@
 
 ## 📬 inbox
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
+- [Dook97/firefox-qutebrowser-userchrome](https://github.com/Dook97/firefox-qutebrowser-userchrome) - A minimalist userChrome.css based on qutebrowser
+- [LaurenceWarne/qute-code-hint](https://github.com/LaurenceWarne/qute-code-hint) - A Qutebrowser user script for hinting and copying code
+- [ArniDagur/python-adblock](https://github.com/ArniDagur/python-adblock) - Brave's adblock library in Python
+- [qutebrowser/qutebrowser-extensions](https://github.com/qutebrowser/qutebrowser-extensions) - Extension ideas (and at some point code) for qutebrowser
+- [l4l4l4l4/qute-translate-popup](https://github.com/l4l4l4l4/qute-translate-popup) - qutebrowser userscript for selected text translation. with a qute popup!
+- [gicrisf/swapforqute](https://github.com/gicrisf/swapforqute) - Redirect and clean URLs in qutebrowser.
+- [lrustand/qutebrowser.el](https://github.com/lrustand/qutebrowser.el) - Qutebrowser + EXWM
+- [lem-project/lem-extension-manager](https://github.com/lem-project/lem-extension-manager) - LEM(Lem extension manager) it's a package manager for the Lem editor/IDE
+- [lem-project/tree-sitter-cl](https://github.com/lem-project/tree-sitter-cl) - Common Lisp bindings for tree-sitter
 
 ## ⌨️ keyboard
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -1031,8 +1027,6 @@
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems.
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
-- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [folke/drop.nvim](https://github.com/folke/drop.nvim) - 🍁 Fun little plugin that can be used as a screensaver and on your dashboard
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) - Use your favorite machine translation engines without having to leave your favorite editor.
@@ -1051,7 +1045,6 @@
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - Debugging in NeoVim the print() way!
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
-- [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
@@ -1109,7 +1102,6 @@
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion.
-- [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
 - [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion) - Database autocompletion powered by https://github.com/tpope/vim-dadbod
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
@@ -1139,7 +1131,6 @@
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
 - [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim
-- [NTBBloodbath/sweetie.nvim](https://github.com/NTBBloodbath/sweetie.nvim) - A clean, delightful and highly customizable Neovim colorscheme written in Lua
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -> lua transpiler (written in Rust)
 - [emacsmirror/fennel-mode](https://github.com/emacsmirror/fennel-mode) - A major-mode for editing Fennel code
 - [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) - 😽 Open your Kitty scrollback buffer with Neovim. Ameowzing!
@@ -1283,7 +1274,6 @@
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
-- [the-argus/spicetify-nix](https://github.com/the-argus/spicetify-nix) - A nix flake for configuring spicetify. Includes packaging for many popular themes and extensions.
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
@@ -1373,40 +1363,7 @@
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-
-## ricing
-- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
-- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager.
-- [LightAir/darkmini](https://github.com/LightAir/darkmini) - Dark theme for rEFInd
-- [martinmilani/rEFInd-theme-collection](https://github.com/martinmilani/rEFInd-theme-collection) - A small collection of refind themes from github's that allow you to effortlessly chose your favorite and style your linux boot manager.
-- [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox theme Wallpapers
-- [paulopacitti/gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) - 🏭 convert any image to the gruvbox pallete
-- [TheGreatMcPain/gruvbox-material-gtk](https://github.com/TheGreatMcPain/gruvbox-material-gtk) - Gruvbox Material for GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons
-- [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
-- [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
-- [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) - Lua port of the most famous vim colorscheme
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
-- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
-- [the-argus/spicetify-nix](https://github.com/the-argus/spicetify-nix) - A nix flake for configuring spicetify. Includes packaging for many popular themes and extensions.
-- [catppuccin/web-file-explorer-icons](https://github.com/catppuccin/web-file-explorer-icons) - 📂 Soothing pastel icons for GitHub, Gitlab, Gitea, Forgejo and more!
-- [NTBBloodbath/sweetie.nvim](https://github.com/NTBBloodbath/sweetie.nvim) - A clean, delightful and highly customizable Neovim colorscheme written in Lua
-- [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.
-- [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
-- [SteamAchievementNotifier/SteamAchievementNotifier](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier) - Steam Achievement Notifier shows fully customisable notifications when you unlock any achievement on Steam!
-- [tinted-theming/base16-qutebrowser](https://github.com/tinted-theming/base16-qutebrowser) - base16 themes for qutebrowser
-- [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
-- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
-- [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
-- [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps. 
-- [daanblom/dmenu-inlineprompt](https://github.com/daanblom/dmenu-inlineprompt) - Shows dmenu prompt text as a placeholder
-- [ThatOneCalculator/deltatune-linux](https://github.com/ThatOneCalculator/deltatune-linux) - DeltaTune ported to Linux
-- [crawraps/widgets-collection](https://github.com/crawraps/widgets-collection) - Collection of pretty desktop widgets
-- [quickshell-mirror/quickshell-examples](https://github.com/quickshell-mirror/quickshell-examples) - Official examples for quickshell
-- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features.
-- [tinted-theming/tinted-gowall](https://github.com/tinted-theming/tinted-gowall) - convert your wallpaper to your tinted theme
+- [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
 
 ## security
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
@@ -1441,7 +1398,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 
-## 📹 streaming
+## 📹 stream
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
@@ -1561,7 +1518,6 @@
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
-- [vaxerski/Vermilion](https://github.com/vaxerski/Vermilion) - Vermilion is a clean, minimal and simple music player for MPD, Tidal, Spotify and more.
 - [gpg/gnupg](https://github.com/gpg/gnupg) - The GNU Privacy Guard. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bts.html) or to the mailing list (https://www.gnupg.org/documentation/mailing-lists.html).
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
@@ -1645,7 +1601,6 @@
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [roehling/postsrsd](https://github.com/roehling/postsrsd) - Postfix Sender Rewriting Scheme daemon
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features.
-- [tinted-theming/tinted-gowall](https://github.com/tinted-theming/tinted-gowall) - convert your wallpaper to your tinted theme
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
@@ -1659,9 +1614,14 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
-- [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+- [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
+- [natsukagami/mpd-mpris](https://github.com/natsukagami/mpd-mpris) - An implementation of the MPRIS protocol for MPD.
+- [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
+- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
+- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+- [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 
 ## 📄 typst
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
