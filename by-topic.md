@@ -501,6 +501,7 @@
 
 ## cli 
 
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [HenryLoM/CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi) - CLI ASCII avatar for entertainment and motivational purposes
@@ -1318,6 +1319,7 @@
 
 ## hacktoberfest 
 
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
 - [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
@@ -2173,6 +2175,10 @@
 
 ## others 
 
+- [lordkekz/nix-yazi-plugins](https://github.com/lordkekz/nix-yazi-plugins) - An (incomplete) collection of yazi plugins, packaged for Nix.
+- [ndtoan96/ouch.yazi](https://github.com/ndtoan96/ouch.yazi) - A Yazi plugin to preview archives.
+- [progfolio/momacs](https://github.com/progfolio/momacs) - The Missing Emacs starter-kit!
+- [progfolio/blimpy](https://github.com/progfolio/blimpy) - Type the word BLIMPY in EMACS!!!
 - [fade/asteroid](https://github.com/fade/asteroid) - 
 - [lem-project/lem-extension-manager](https://github.com/lem-project/lem-extension-manager) - LEM(Lem extension manager) it's a package manager for the Lem editor/IDE
 - [lem-project/tree-sitter-cl](https://github.com/lem-project/tree-sitter-cl) - Common Lisp bindings for tree-sitter
@@ -3159,6 +3165,7 @@
 
 ## rust 
 
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
