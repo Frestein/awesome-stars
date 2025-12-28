@@ -673,6 +673,7 @@
 - [gonewest818/elisp-lint](https://github.com/gonewest818/elisp-lint) - Basic linting for Emacs Lisp
 - [progfolio/blimpy](https://github.com/progfolio/blimpy) - Type the word BLIMPY in EMACS!!!
 - [progfolio/momacs](https://github.com/progfolio/momacs) - The Missing Emacs starter-kit!
+- [nohzafk/consult-snapfile](https://github.com/nohzafk/consult-snapfile) - Instant file finding for Emacs, written in Rust
 
 ## 🔠 fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -759,8 +760,7 @@
 - [l4l4l4l4/qute-translate-popup](https://github.com/l4l4l4l4/qute-translate-popup) - qutebrowser userscript for selected text translation. with a qute popup!
 - [gicrisf/swapforqute](https://github.com/gicrisf/swapforqute) - Redirect and clean URLs in qutebrowser.
 - [lrustand/qutebrowser.el](https://github.com/lrustand/qutebrowser.el) - Qutebrowser + EXWM
-- [lem-project/lem-extension-manager](https://github.com/lem-project/lem-extension-manager) - LEM(Lem extension manager) it's a package manager for the Lem editor/IDE
-- [lem-project/tree-sitter-cl](https://github.com/lem-project/tree-sitter-cl) - Common Lisp bindings for tree-sitter
+- [nohzafk/consult-snapfile](https://github.com/nohzafk/consult-snapfile) - Instant file finding for Emacs, written in Rust
 
 ## ⌨️ keyboard
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
