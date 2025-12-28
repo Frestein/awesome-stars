@@ -836,6 +836,7 @@
 
 ## emacs 
 
+- [nohzafk/consult-snapfile](https://github.com/nohzafk/consult-snapfile) - Instant file finding for Emacs, written in Rust
 - [gonewest818/elisp-lint](https://github.com/gonewest818/elisp-lint) - Basic linting for Emacs Lisp
 - [jtmoulia/elisp-koans](https://github.com/jtmoulia/elisp-koans) - Emacs Lisp Koans -- learn elisp through test-driven development.
 - [misohena/el-vkbd](https://github.com/misohena/el-vkbd) - A software keyboard implemented in Emacs Lisp that runs inside Emacs.
@@ -2175,6 +2176,7 @@
 
 ## others 
 
+- [cxxxr/valtan](https://github.com/cxxxr/valtan) - Common Lisp to JavaScript compiler
 - [lordkekz/nix-yazi-plugins](https://github.com/lordkekz/nix-yazi-plugins) - An (incomplete) collection of yazi plugins, packaged for Nix.
 - [ndtoan96/ouch.yazi](https://github.com/ndtoan96/ouch.yazi) - A Yazi plugin to preview archives.
 - [progfolio/momacs](https://github.com/progfolio/momacs) - The Missing Emacs starter-kit!
@@ -2387,7 +2389,7 @@
 - [bolivier/jj-mode.el](https://github.com/bolivier/jj-mode.el) - Jujutsu version control mode for Emacs inspired by Magit
 - [rougier/mode-line-maker](https://github.com/rougier/mode-line-maker) - A helper library to create mode-line for GNU Emacs
 - [Shallow-Seek/djvu-view.yazi](https://github.com/Shallow-Seek/djvu-view.yazi) - djvu preview for Yazi file browser
-- [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop) - OS X-like Desktop Environment available exclusively in GhostBSD as a community flavor
+- [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop) - OS X-like Desktop Environment based on GNUstep
 - [Linus789/wl-clip-persist](https://github.com/Linus789/wl-clip-persist) - Keep Wayland clipboard even after programs close
 - [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) - Automatic conversion of the NetBSD pkgsrc CVS module, use with care
 - [freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
@@ -2806,7 +2808,7 @@
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
-- [glfs-book/glfs](https://github.com/glfs-book/glfs) - Gaming Linux From Scratch is a book that covers how to install packages like Steam and Wine after the Linux From Scratch book.
+- [glfs-book/glfs](https://github.com/glfs-book/glfs) - This book covers the installation of graphics drivers, Steam, Wine, and more following a Linux From Scratch install.
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [saghen/frizbee](https://github.com/saghen/frizbee) - Fast fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
