@@ -203,6 +203,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [userscript](#userscript)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
@@ -2440,7 +2441,6 @@
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
 - [yuja/tree-sitter-qmljs](https://github.com/yuja/tree-sitter-qmljs) - QML grammar for the tree-sitter parsing library
 - [xhcoding/qml-ts-mode](https://github.com/xhcoding/qml-ts-mode) - Emacs major mode for editing Qt Declarative (QML) code.
-- [XX-J/Direct-links-out](https://github.com/XX-J/Direct-links-out) - Userscript that removes all this "You are leaving our site..." and other redirection trash from links.
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [lepisma/org-krita](https://github.com/lepisma/org-krita) - Krita sketches in Org
 - [po5/celebi](https://github.com/po5/celebi) - mpv script to restore properties from past sessions
@@ -2712,7 +2712,6 @@
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [CrendKing/mpv-twitch-chat](https://github.com/CrendKing/mpv-twitch-chat) - Show Twitch chat messages as subtitles when watching Twitch VOD with mpv.
-- [AdguardTeam/AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra) - AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren't enough.
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [bitingsock/ytdl-preload](https://github.com/bitingsock/ytdl-preload) - mpv script to precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. Change Line 21 to temp directory. It will delete the directory on exit.
@@ -2781,9 +2780,7 @@
 - [hacel/recent](https://github.com/hacel/recent) - 
 - [zenwarr/mpv-config](https://github.com/zenwarr/mpv-config) - Collection of my personalized mpv scripts and configuration files
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
-- [tophf/mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
 - [gnfalex/YT_yt_dlp_plugin](https://github.com/gnfalex/YT_yt_dlp_plugin) - 
-- [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion.
 - [qutebrowser/qutebrowser-extensions](https://github.com/qutebrowser/qutebrowser-extensions) - Extension ideas (and at some point code) for qutebrowser
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
@@ -3501,6 +3498,20 @@
 - [d12frosted/vui.el](https://github.com/d12frosted/vui.el) - Declarative, component-based UI library for Emacs. React-like components with state, hooks, reconciliation, and layouts - rendered using native Emacs widgets.
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## userscript 
+
+- [XX-J/Direct-links-out](https://github.com/XX-J/Direct-links-out) - Userscript that removes all this "You are leaving our site..." and other redirection trash from links.
+- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
+- [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
+- [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
+- [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
+- [nazdridoy/github-commit-labels](https://github.com/nazdridoy/github-commit-labels) - A userscript that enhances GitHub commits by adding beautiful labels for conventional commit types.
+- [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
+- [AdguardTeam/AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra) - AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren't enough.
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
+- [tophf/mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
+- [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 
 ## vim 
 
