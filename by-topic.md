@@ -68,6 +68,7 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [express](#express)
 - [finance](#finance)
@@ -253,6 +254,7 @@
 
 ## android 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools, mods and workarounds for Pixels and other Androids
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -421,6 +423,8 @@
 
 ## c 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
 - [tree-sitter/tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
@@ -534,7 +538,6 @@
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [anistark/feluda](https://github.com/anistark/feluda) - Detect license usage restrictions in your project!
-- [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [paulopacitti/gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) - 🏭 convert any image to the gruvbox pallete
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
@@ -579,7 +582,6 @@
 - [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) - Clojure & ClojureScript Language Server (LSP) implementation
 - [sogaiu/tree-sitter-clojure](https://github.com/sogaiu/tree-sitter-clojure) - Clojure(Script) grammar for tree-sitter
 - [clojure-emacs/cider](https://github.com/clojure-emacs/cider) - The Clojure Interactive Development Environment that Rocks for Emacs
-- [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) - A Paredit implementation for Neovim, built using Treesitter and written in Lua.
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)
@@ -829,6 +831,7 @@
 
 ## emacs 
 
+- [gavv/om-dash](https://github.com/gavv/om-dash) - Building blocks for org-based dashboards.
 - [jkitchin/scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
 - [nohzafk/consult-snapfile](https://github.com/nohzafk/consult-snapfile) - Instant file finding for Emacs, written in Rust
 - [gonewest818/elisp-lint](https://github.com/gonewest818/elisp-lint) - Basic linting for Emacs Lisp
@@ -967,7 +970,6 @@
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
-- [domtronn/all-the-icons.el](https://github.com/domtronn/all-the-icons.el) - A utility package to collect various Icon Fonts and propertize them within Emacs.
 - [meow-edit/meow](https://github.com/meow-edit/meow) - Yet another modal editing on Emacs / 猫态编辑
 - [Somelauw/evil-org-mode](https://github.com/Somelauw/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
 - [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit
@@ -1041,6 +1043,10 @@
 - [sp1ff/elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
+## embedded 
+
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
 ## emoji 
 
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland
@@ -1112,16 +1118,19 @@
 
 ## game-development 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## game-engine 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## gamedev 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## games 
@@ -1458,6 +1467,7 @@
 
 ## iot 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ## java 
@@ -1534,6 +1544,7 @@
 
 ## language 
 
+- [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
@@ -1567,6 +1578,7 @@
 
 ## linux 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [galister/wlx-overlay-s](https://github.com/galister/wlx-overlay-s) - Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR. Now with Vulkan!
 - [MikiDevLog/wallpaperengine-gui](https://github.com/MikiDevLog/wallpaperengine-gui) - Simple GUI for linux-wallpaperengine on C++.
@@ -1960,7 +1972,6 @@
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
-- [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) - 😽 Open your Kitty scrollback buffer with Neovim. Ameowzing!
 - [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
@@ -2151,6 +2162,7 @@
 
 ## opengl 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -2173,6 +2185,10 @@
 
 ## others 
 
+- [janet-lang/jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib
+- [chenyanming/wallabag.el](https://github.com/chenyanming/wallabag.el) - Emacs wallabag client - A Read It Later/Web Archiving Solution in Emacs.
+- [jdtsmith/consult-ripfd](https://github.com/jdtsmith/consult-ripfd) - `fd` and `rg` together in Emacs with consult
+- [serhez/bento.nvim](https://github.com/serhez/bento.nvim) - A minimalist and efficient, yet powerful and extensible buffer manager for Neovim.
 - [mattwparas/helix](https://github.com/mattwparas/helix) - A post-modern modal text editor.
 - [MironPascalCaseFan/debugmaster.nvim](https://github.com/MironPascalCaseFan/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
 - [DamianB-BitFlipper/magit-pre-commit.el](https://github.com/DamianB-BitFlipper/magit-pre-commit.el) - Emacs: pre-commit integration for Magit.
@@ -2259,7 +2275,6 @@
 - [mclear-tools/consult-notes](https://github.com/mclear-tools/consult-notes) - Use consult to search notes
 - [purcell/package-lint](https://github.com/purcell/package-lint) - A linting library for elisp package metadata
 - [DeveloperPaul123/modern-cv](https://github.com/DeveloperPaul123/modern-cv) - A modern resume template written in Typst, inspired by Awesome-CV
-- [joaotavora/rassumfrassum](https://github.com/joaotavora/rassumfrassum) - LSP fanfare
 - [aglet/sparkweather](https://github.com/aglet/sparkweather) - Sparkline weather forecasts in Emacs
 - [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [t4ccer/agenix.el](https://github.com/t4ccer/agenix.el) - Transparent editing for agenix secrets inside Emacs
@@ -2567,7 +2582,6 @@
 - [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
-- [binbandit/supermaven.el](https://github.com/binbandit/supermaven.el) - Supermaven AI for emacs
 - [polymode/poly-org](https://github.com/polymode/poly-org) - Polymode for org-mode
 - [polymode/polymode](https://github.com/polymode/polymode) - Framework for Multiple Major Modes in Emacs (core library)
 - [lizqwerscott/mcp.el](https://github.com/lizqwerscott/mcp.el) - An Mcp client inside Emacs
@@ -2576,7 +2590,6 @@
 - [emacs-pe/docker-tramp.el](https://github.com/emacs-pe/docker-tramp.el) - TRAMP integration for docker containers
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [magit/git-modes](https://github.com/magit/git-modes) - Emacs major modes for Git configuration files
-- [noctuid/lispyville](https://github.com/noctuid/lispyville) - lispy + evil = lispyville
 - [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [tridactyl/native_messenger](https://github.com/tridactyl/native_messenger) - Native messenger for Tridactyl, a vim-like web-extension.
@@ -2630,7 +2643,6 @@
 - [rougier/nano-minibuffer](https://github.com/rougier/nano-minibuffer) - Minibuffer for NΛNO Emacs
 - [rougier/nano-tools](https://github.com/rougier/nano-tools) - A set of tools for emacs that are not worth to be packaged.
 - [rougier/nano-read](https://github.com/rougier/nano-read) - Alternartive read functions for GNU Emacs
-- [emacs-evil/evil-cleverparens](https://github.com/emacs-evil/evil-cleverparens) - Evil normal-state minor-mode for editing lisp-like languages
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [franzos/awesome-guix](https://github.com/franzos/awesome-guix) - Docs, Channels, example configs and more - Guix is Awesome
@@ -2690,7 +2702,6 @@
 - [org-opml/org-opml](https://github.com/org-opml/org-opml) - Edit OPML files using Org mode in Emacs
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
-- [trygveaa/kitty-kitten-search](https://github.com/trygveaa/kitty-kitten-search) - Kitten for searching in kitty
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [ferreum/mpv-skipsilence](https://github.com/ferreum/mpv-skipsilence) - Increase playback speed during silence - a revolution in attention-deficit induction technology.
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit
@@ -2734,10 +2745,8 @@
 - [mrcjkb/lua-typecheck-action](https://github.com/mrcjkb/lua-typecheck-action) - A GitHub action that lets you leverage sumneko lua-language-server and EmmyLua to statically type check lua code.
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
-- [theorytoe/everforest-emacs](https://github.com/theorytoe/everforest-emacs) - everforest for emacs!
 - [redguardtoo/evil-nerd-commenter](https://github.com/redguardtoo/evil-nerd-commenter) - Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
-- [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [Samillion/ModernZ](https://github.com/Samillion/ModernZ) - A sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
@@ -3027,6 +3036,7 @@
 
 ## programming 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [emacs-vs/cognitive-complexity](https://github.com/emacs-vs/cognitive-complexity) - Show cognitive complexity of code in Emacs 29+ (treesit-based)
 - [countvajhula/mindstream](https://github.com/countvajhula/mindstream) - Start writing (or coding), stay focused, don't worry.
 - [jdtsmith/indent-bars](https://github.com/jdtsmith/indent-bars) - Fast, configurable indentation guide-bars for Emacs
@@ -3065,7 +3075,6 @@
 - [desultory/ugrd](https://github.com/desultory/ugrd) - A minimalistic and user friendly POSIX initramfs generator, designed for encrypted systems
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
-- [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [gentoo/portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
@@ -3118,6 +3127,7 @@
 
 ## raspberry-pi 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 
@@ -3588,6 +3598,7 @@
 
 ## windows 
 
+- [agent-kilo/jwno](https://github.com/agent-kilo/jwno) - A tiling window manager for Windows 10/11, built with Janet and ❤️.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
@@ -3638,7 +3649,6 @@
 ## zig 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [Zeioth/compiler.nvim](https://github.com/Zeioth/compiler.nvim) - Neovim compiler for building and running your code without having to configure anything
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
