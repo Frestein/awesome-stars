@@ -90,6 +90,9 @@
 
 ## C 
 
+- [janet-lang/jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
@@ -239,7 +242,7 @@
 - [hyprwm/hyprlauncher](https://github.com/hyprwm/hyprlauncher) - A multipurpose and versatile launcher / picker for Hyprland
 - [hyprwm/hyprpwcenter](https://github.com/hyprwm/hyprpwcenter) - A GUI Pipewire control center
 - [hyprwm/hyprqt6engine](https://github.com/hyprwm/hyprqt6engine) - QT6 Theme Provider for Hyprland
-- [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard/mouse/touchpad actions to system actions
+- [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard, mouse, touchpad and touchscreen actions to system actions
 - [VirtCode/hypr-dynamic-cursors](https://github.com/VirtCode/hypr-dynamic-cursors) - a plugin to make your hyprland cursor more realistic, also adds shake to find
 - [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
 - [ZDoom/gzdoom](https://github.com/ZDoom/gzdoom) - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
@@ -292,7 +295,7 @@
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent) - A polkit authentication agent written in QT/QML
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
@@ -387,6 +390,11 @@
 
 ## Emacs Lisp 
 
+- [chenyanming/wallabag.el](https://github.com/chenyanming/wallabag.el) - Emacs wallabag client - A Read It Later/Web Archiving Solution in Emacs.
+- [gavv/om-dash](https://github.com/gavv/om-dash) - Building blocks for org-based dashboards.
+- [jdtsmith/consult-ripfd](https://github.com/jdtsmith/consult-ripfd) - `fd` and `rg` together in Emacs with consult
+- [jkitchin/scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
+- [DamianB-BitFlipper/magit-pre-commit.el](https://github.com/DamianB-BitFlipper/magit-pre-commit.el) - Emacs: pre-commit integration for Magit.
 - [bradmont/org-roam-tree](https://github.com/bradmont/org-roam-tree) - organize backlinks in the org-roam buffer as a tree
 - [yibie/org-headline-card](https://github.com/yibie/org-headline-card) - Convert Org-mode headlines and their contents into beautiful visual cards.
 - [nohzafk/consult-snapfile](https://github.com/nohzafk/consult-snapfile) - Instant file finding for Emacs, written in Rust
@@ -625,7 +633,6 @@
 - [io12/good-scroll.el](https://github.com/io12/good-scroll.el) - Attempt at good pixel-based smooth scrolling in Emacs
 - [hylang/hy-mode](https://github.com/hylang/hy-mode) - Hy mode for Emacs
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
-- [binbandit/supermaven.el](https://github.com/binbandit/supermaven.el) - Supermaven AI for emacs
 - [polymode/poly-org](https://github.com/polymode/poly-org) - Polymode for org-mode
 - [polymode/polymode](https://github.com/polymode/polymode) - Framework for Multiple Major Modes in Emacs (core library)
 - [lizqwerscott/mcp.el](https://github.com/lizqwerscott/mcp.el) - An Mcp client inside Emacs
@@ -636,8 +643,6 @@
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [magit/git-modes](https://github.com/magit/git-modes) - Emacs major modes for Git configuration files
 - [rmuslimov/browse-at-remote](https://github.com/rmuslimov/browse-at-remote) - Browse target page on github/bitbucket from emacs buffers
-- [noctuid/lispyville](https://github.com/noctuid/lispyville) - lispy + evil = lispyville
-- [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [hlissner/emacs-solaire-mode](https://github.com/hlissner/emacs-solaire-mode) - If only certain buffers could be so grossly incandescent.
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [davidshepherd7/frames-only-mode](https://github.com/davidshepherd7/frames-only-mode) - Make emacs play nicely with tiling window managers by setting it up to use frames rather than windows
@@ -670,7 +675,6 @@
 - [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
-- [emacs-citar/citar-org-roam](https://github.com/emacs-citar/citar-org-roam) - citar/org-roam integration
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [joostkremers/writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
@@ -681,7 +685,6 @@
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [jdtsmith/eglot-booster](https://github.com/jdtsmith/eglot-booster) - Boost eglot using lsp-booster
 - [linktohack/evil-commentary](https://github.com/linktohack/evil-commentary) - Comment stuff out. A port of vim-commentary
-- [domtronn/all-the-icons.el](https://github.com/domtronn/all-the-icons.el) - A utility package to collect various Icon Fonts and propertize them within Emacs.
 - [emacsmirror/geiser](https://github.com/emacsmirror/geiser) - GNU Emacs and Scheme talk to each other
 - [TobiasZawada/org-yt](https://github.com/TobiasZawada/org-yt) - Youtube links in org-mode, see  https://emacs.stackexchange.com/questions/38098/org-mode-custom-youtube-link-syntax
 - [meow-edit/meow](https://github.com/meow-edit/meow) - Yet another modal editing on Emacs / 猫态编辑
@@ -711,7 +714,6 @@
 - [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e) - Alternative layour for mu4e
 - [rougier/nano-elfeed](https://github.com/rougier/nano-elfeed) - Emacs configuration file for elfeed (news reader)
 - [rougier/svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
-- [emacs-evil/evil-cleverparens](https://github.com/emacs-evil/evil-cleverparens) - Evil normal-state minor-mode for editing lisp-like languages
 - [SqrtMinusOne/elfeed-summary](https://github.com/SqrtMinusOne/elfeed-summary) - Feed summary interface for elfeed
 - [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
 - [anticomputer/age.el](https://github.com/anticomputer/age.el) - Transparent age encryption support for Emacs modeled after EPG/EPA
@@ -794,11 +796,9 @@
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [snosov1/toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
-- [theorytoe/everforest-emacs](https://github.com/theorytoe/everforest-emacs) - everforest for emacs!
 - [PythonNut/evil-easymotion](https://github.com/PythonNut/evil-easymotion) - :fast_forward: A port of vim easymotion to Emacs' evil-mode
 - [redguardtoo/evil-nerd-commenter](https://github.com/redguardtoo/evil-nerd-commenter) - Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
-- [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
@@ -950,6 +950,7 @@
 
 ## Janet 
 
+- [agent-kilo/jwno](https://github.com/agent-kilo/jwno) - A tiling window manager for Windows 10/11, built with Janet and ❤️.
 - [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 
@@ -1082,6 +1083,9 @@
 
 ## Lua 
 
+- [serhez/bento.nvim](https://github.com/serhez/bento.nvim) - A minimalist and efficient, yet powerful and extensible buffer manager for Neovim.
+- [lumen-oss/lz.n](https://github.com/lumen-oss/lz.n) - 🦥 A dead simple lazy-loading Lua library for Neovim plugins.
+- [MironPascalCaseFan/debugmaster.nvim](https://github.com/MironPascalCaseFan/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
 - [ndtoan96/ouch.yazi](https://github.com/ndtoan96/ouch.yazi) - A Yazi plugin to preview archives.
 - [editor-code-assistant/eca-nvim](https://github.com/editor-code-assistant/eca-nvim) - NVIM integration with ECA
 - [macydnah/office.yazi](https://github.com/macydnah/office.yazi) - Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards
@@ -1171,7 +1175,6 @@
 - [igorlfs/nvim-dap-view](https://github.com/igorlfs/nvim-dap-view) - Visualize debugging sessions in neovim
 - [EmperorPenguin18/mpv-jellyfin](https://github.com/EmperorPenguin18/mpv-jellyfin) - mpv plugin that turns it into a Jellyfin client
 - [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
-- [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) - 😽 Open your Kitty scrollback buffer with Neovim. Ameowzing!
 - [ferreum/mpv-skipsilence](https://github.com/ferreum/mpv-skipsilence) - Increase playback speed during silence - a revolution in attention-deficit induction technology.
 - [BanchouBoo/mpv-youtube-chat](https://github.com/BanchouBoo/mpv-youtube-chat) - mpv lua script to overlay youtube chat on top of a video using yt-dlp
 - [CrendKing/mpv-twitch-chat](https://github.com/CrendKing/mpv-twitch-chat) - Show Twitch chat messages as subtitles when watching Twitch VOD with mpv.
@@ -1529,7 +1532,6 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
-- [joaotavora/rassumfrassum](https://github.com/joaotavora/rassumfrassum) - LSP fanfare
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [tanrax/org-social-rss-bridge](https://github.com/tanrax/org-social-rss-bridge) - A simple bridge that converts RSS/Atom feeds into Org Social format.
@@ -1549,7 +1551,6 @@
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [scross01/searxngr](https://github.com/scross01/searxngr) - SearXNG from the command line, inspired by `ddgr` and `googler`.
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
-- [l4l4l4l4/qute-translate-popup](https://github.com/l4l4l4l4/qute-translate-popup) - qutebrowser userscript for selected text translation. with a qute popup!
 - [LaurenceWarne/qute-code-hint](https://github.com/LaurenceWarne/qute-code-hint) - A Qutebrowser user script for hinting and copying code
 - [karlicoss/grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
 - [desultory/ugrd](https://github.com/desultory/ugrd) - A minimalistic and user friendly POSIX initramfs generator, designed for encrypted systems
@@ -1570,7 +1571,6 @@
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [bashonly/yt-dlp-YTNSigDeno](https://github.com/bashonly/yt-dlp-YTNSigDeno) - An OBSOLETE yt-dlp extractor plugin that used to solve YouTube JS challenges using Deno
-- [trygveaa/kitty-kitten-search](https://github.com/trygveaa/kitty-kitten-search) - Kitten for searching in kitty
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
@@ -1625,6 +1625,7 @@
 
 ## Rust 
 
+- [mattwparas/helix](https://github.com/mattwparas/helix) - A post-modern modal text editor.
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
@@ -1653,7 +1654,6 @@
 - [nacho/servo-gtk](https://github.com/nacho/servo-gtk) - GTK integration for Servo
 - [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
-- [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [LeChatP/RootAsRole](https://github.com/LeChatP/RootAsRole) - A better alternative to sudo(-rs)/su • ⚡ Blazing fast • 🛡️ Memory-safe • 🔐 Security-oriented
@@ -1688,7 +1688,7 @@
 - [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) - Launcher-driven Bluetooth manager for Linux
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
-- [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
+- [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [fosskers/cargo-aur](https://github.com/fosskers/cargo-aur) - Prepare Rust projects to be released on the Arch Linux User Repository.
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
@@ -1900,7 +1900,6 @@
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
-- [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 
@@ -1943,7 +1942,6 @@
 ## Zig 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
