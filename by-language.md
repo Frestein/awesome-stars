@@ -321,7 +321,6 @@
 
 ## CSS 
 
-- [Dook97/firefox-qutebrowser-userchrome](https://github.com/Dook97/firefox-qutebrowser-userchrome) - A minimalist userChrome.css based on qutebrowser
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
 - [precondition/precondition.github.io](https://github.com/precondition/precondition.github.io) - Personal Weblog with tools and guides for QMK keyboards. Home of the home row mods guide
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
@@ -390,6 +389,7 @@
 
 ## Emacs Lisp 
 
+- [rayslava/ewx](https://github.com/rayslava/ewx) - 
 - [chenyanming/wallabag.el](https://github.com/chenyanming/wallabag.el) - Emacs wallabag client - A Read It Later/Web Archiving Solution in Emacs.
 - [gavv/om-dash](https://github.com/gavv/om-dash) - Building blocks for org-based dashboards.
 - [jdtsmith/consult-ripfd](https://github.com/jdtsmith/consult-ripfd) - `fd` and `rg` together in Emacs with consult
@@ -531,8 +531,6 @@
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
 - [magit/ghub](https://github.com/magit/ghub) - Client libraries for the APIs of various Git forges
 - [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
-- [emacsorphanage/ox-pandoc](https://github.com/emacsorphanage/ox-pandoc) - Another org-mode exporter via pandoc.
-- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
 - [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 - [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
 - [douo/magit-gptcommit](https://github.com/douo/magit-gptcommit) - Magit commit with help of gpt
@@ -721,7 +719,6 @@
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
-- [emacs-exwm/exwm](https://github.com/emacs-exwm/exwm) - Emacs X Window Manager
 - [flexibeast/ebuku](https://github.com/flexibeast/ebuku) - Emacs interface to the buku Web bookmark manager.
 - [jamescherti/enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el) - Emacs: Improved Paredit support with Evil keybindings (maintained fork of evil-paredit, available on MELPA).
 - [melpa/melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
@@ -830,6 +827,7 @@
 
 ## Go 
 
+- [walles/moor](https://github.com/walles/moor) - Moor is a pager. It's designed to just do the right thing without any configuration.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [cdarwin/go-koans](https://github.com/cdarwin/go-koans) - koans for go
 - [hyprland-community/hyprls](https://github.com/hyprland-community/hyprls) - A LSP server for Hyprland config files [maintainer=@gwennlbh]
@@ -1625,6 +1623,7 @@
 
 ## Rust 
 
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS Command Line interface for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [mattwparas/helix](https://github.com/mattwparas/helix) - A post-modern modal text editor.
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
@@ -1787,6 +1786,7 @@
 
 ## Scheme 
 
+- [mattwparas/helix-config](https://github.com/mattwparas/helix-config) - 
 - [loloolooo/photoshop-keymap-for-gimp](https://github.com/loloolooo/photoshop-keymap-for-gimp) - This extension ports popular Photoshop keyboard shortcuts to GIMP.
 - [NalaGinrut/artanis](https://github.com/NalaGinrut/artanis) - Mirror only, please visit https://gitlab.com/NalaGinrut/artanis
 - [johnlepikhin/guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) - Tiny guix channel which provides latest version of telegram-desktop
