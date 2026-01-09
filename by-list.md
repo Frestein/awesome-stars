@@ -52,7 +52,6 @@
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [kirthandev/MIUI-Debloater-official](https://github.com/kirthandev/MIUI-Debloater-official) - How to debloat your Xiaomi phone with ADB and Xiaomi Official Fastboot tool 
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [Akylas/oss-weather](https://github.com/Akylas/oss-weather) - An OSS weather app for iOS/Android
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
@@ -209,7 +208,6 @@
 - [jamescherti/enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el) - Emacs: Improved Paredit support with Evil keybindings (maintained fork of evil-paredit, available on MELPA).
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [flexibeast/ebuku](https://github.com/flexibeast/ebuku) - Emacs interface to the buku Web bookmark manager.
-- [emacs-exwm/exwm](https://github.com/emacs-exwm/exwm) - Emacs X Window Manager
 - [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
@@ -413,8 +411,6 @@
 - [douo/magit-gptcommit](https://github.com/douo/magit-gptcommit) - Magit commit with help of gpt 
 - [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
 - [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
-- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
-- [emacsorphanage/ox-pandoc](https://github.com/emacsorphanage/ox-pandoc) - Another org-mode exporter via pandoc.
 - [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
 - [magit/ghub](https://github.com/magit/ghub) - Client libraries for the APIs of various Git forges
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
@@ -572,6 +568,7 @@
 - [jdtsmith/consult-ripfd](https://github.com/jdtsmith/consult-ripfd) - `fd` and `rg` together in Emacs with consult
 - [gavv/om-dash](https://github.com/gavv/om-dash) - Building blocks for org-based dashboards.
 - [chenyanming/wallabag.el](https://github.com/chenyanming/wallabag.el) - Emacs wallabag client - A Read It Later/Web Archiving Solution in Emacs.
+- [rayslava/ewx](https://github.com/rayslava/ewx) - 
 
 ## 🔠 Fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -647,9 +644,11 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [npupko/awesome-helix](https://github.com/npupko/awesome-helix) - A curated list of awesome Helix editor resources, plugins, themes, and tools.
 - [mattwparas/helix](https://github.com/mattwparas/helix) - A post-modern modal text editor.
+- [mattwparas/helix-config](https://github.com/mattwparas/helix-config) - 
 
 ## 📬 Inbox
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
+- [walles/moor](https://github.com/walles/moor) - Moor is a pager. It's designed to just do the right thing without any configuration.
 
 ## ⌨️ Keyboard
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -1228,6 +1227,7 @@
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS Command Line interface for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 
 ## 💻 Tools
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
@@ -1341,7 +1341,6 @@
 - [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer) - Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
