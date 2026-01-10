@@ -569,6 +569,10 @@
 - [gavv/om-dash](https://github.com/gavv/om-dash) - Building blocks for org-based dashboards.
 - [chenyanming/wallabag.el](https://github.com/chenyanming/wallabag.el) - Emacs wallabag client - A Read It Later/Web Archiving Solution in Emacs.
 - [rayslava/ewx](https://github.com/rayslava/ewx) - 
+- [d12frosted/vulpea](https://github.com/d12frosted/vulpea) - Database layer for org-mode notes with async indexing, rich queries, backlink discovery, and external change detection. Scales to 100k+ notes.
+- [d12frosted/vulpea-ui](https://github.com/d12frosted/vulpea-ui) - A widget-based sidebar for Emacs that displays contextual information (stats, outline, backlinks, links) for vulpea notes
+- [d12frosted/vulpea-journal](https://github.com/d12frosted/vulpea-journal) - Modern daily journaling interface for Emacs with reactive sidebar widgets, built on vulpea
+- [fabcontigiani/consult-vulpea](https://github.com/fabcontigiani/consult-vulpea) - Use Consult in tandem with Vulpea
 
 ## 🔠 Fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -649,6 +653,7 @@
 ## 📬 Inbox
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
 - [walles/moor](https://github.com/walles/moor) - Moor is a pager. It's designed to just do the right thing without any configuration.
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
 
 ## ⌨️ Keyboard
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -1444,6 +1449,7 @@
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
+- [kartavkun/zapret-discord-youtube](https://github.com/kartavkun/zapret-discord-youtube) - Fork of Flowseal's zapret-discord-youtube repo with zapret configs for Linux
 
 ## 📄 Typst
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
