@@ -573,6 +573,8 @@
 - [d12frosted/vulpea-ui](https://github.com/d12frosted/vulpea-ui) - A widget-based sidebar for Emacs that displays contextual information (stats, outline, backlinks, links) for vulpea notes
 - [d12frosted/vulpea-journal](https://github.com/d12frosted/vulpea-journal) - Modern daily journaling interface for Emacs with reactive sidebar widgets, built on vulpea
 - [fabcontigiani/consult-vulpea](https://github.com/fabcontigiani/consult-vulpea) - Use Consult in tandem with Vulpea
+- [eval-exec/eee.el](https://github.com/eval-exec/eee.el) - Launch TUI commands in an external terminal asynchronously💪 , seamlessly integrating callbacks within Emacs⚡. Elevate your Emacs experience with eee.el 🥰
+- [marienz/nix-doom-emacs-unstraightened](https://github.com/marienz/nix-doom-emacs-unstraightened) - Builds Doom Emacs using Nix
 
 ## 🔠 Fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -820,6 +822,7 @@
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
 - [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) - Немного о ядре Linux
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - Read-only mirror of Chaotic-AUR's main repository. Issues and bug reports welcome! 📑
 
 ## 🎞 MPV
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
@@ -1184,6 +1187,9 @@
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [lordkekz/nix-yazi-plugins](https://github.com/lordkekz/nix-yazi-plugins) - An (incomplete) collection of yazi plugins, packaged for Nix.
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
+- [marienz/nix-doom-emacs-unstraightened](https://github.com/marienz/nix-doom-emacs-unstraightened) - Builds Doom Emacs using Nix
+- [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 
 ## 🔒 Pass
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
