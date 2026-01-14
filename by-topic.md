@@ -689,6 +689,7 @@
 
 ## dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## data-science 
@@ -1076,11 +1077,13 @@
 
 ## flutter 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## flutter-apps 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## font 
@@ -1569,6 +1572,9 @@
 
 ## linux 
 
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -1727,7 +1733,6 @@
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) - Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize Your Neovim Tab Workflow: Introducing Enhanced Tab Scoping!
-- [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 - [davidde/mpv-autosub](https://github.com/davidde/mpv-autosub) - Fully automatic subtitle downloading for the MPV media player
@@ -2176,6 +2181,10 @@
 
 ## others 
 
+- [rmnavr/wy](https://github.com/rmnavr/wy) - Hy-lang without parentheses (implemented as syntax layer)
+- [ispringle/sexp-ed](https://github.com/ispringle/sexp-ed) - 
+- [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
+- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - Read-only mirror of Chaotic-AUR's main repository. Issues and bug reports welcome! 📑
 - [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
 - [marienz/nix-doom-emacs-unstraightened](https://github.com/marienz/nix-doom-emacs-unstraightened) - Builds Doom Emacs using Nix
@@ -2247,7 +2256,6 @@
 - [ocicl/ocicl](https://github.com/ocicl/ocicl) - An OCI-based ASDF system distribution and management tool for Common Lisp
 - [atgreen/icl](https://github.com/atgreen/icl) - Interactive Common Lisp: an enhanced REPL
 - [Kinneyzhang/elog](https://github.com/Kinneyzhang/elog) - A Powerful Logging System for Emacs Lisp
-- [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
 - [stsewd/tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
 - [Z572/guile-ts](https://github.com/Z572/guile-ts) - guile + tree-sitter
@@ -2873,7 +2881,6 @@
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [someone-stole-my-name/yaml-companion.nvim](https://github.com/someone-stole-my-name/yaml-companion.nvim) - Get, set and autodetect YAML schemas in your buffers.
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -3043,7 +3050,6 @@
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [Jamesbarford/holyc-lang](https://github.com/Jamesbarford/holyc-lang) - HolyC compiler & transpiler
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
-- [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
@@ -3151,6 +3157,8 @@
 
 ## rust 
 
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
@@ -3434,6 +3442,8 @@
 
 ## tui 
 
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [d12frosted/vui.el](https://github.com/d12frosted/vui.el) - Declarative, component-based UI library for Emacs. React-like components with state, hooks, reconciliation, and layouts - rendered using native Emacs widgets.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [HenryLoM/CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi) - CLI ASCII avatar for entertainment and motivational purposes
