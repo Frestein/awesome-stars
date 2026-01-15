@@ -383,6 +383,9 @@
 
 ## Emacs Lisp 
 
+- [protesilaos/ef-themes](https://github.com/protesilaos/ef-themes) - Colourful and legible themes for GNU Emacs
+- [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
+- [d12frosted/widget-extra](https://github.com/d12frosted/widget-extra) - Extra widgets that extend built-in library
 - [eval-exec/eee.el](https://github.com/eval-exec/eee.el) - Launch TUI commands in an external terminal asynchronously💪 , seamlessly integrating callbacks within Emacs⚡. Elevate your Emacs experience with eee.el 🥰
 - [fabcontigiani/consult-vulpea](https://github.com/fabcontigiani/consult-vulpea) - Use Consult in tandem with Vulpea
 - [d12frosted/vulpea-journal](https://github.com/d12frosted/vulpea-journal) - Modern daily journaling interface for Emacs with reactive sidebar widgets, built on vulpea
@@ -577,7 +580,6 @@
 - [Chobbes/org-chef](https://github.com/Chobbes/org-chef) - A package for making a cookbook and managing recipes with org-mode.
 - [nagy/tokei.el](https://github.com/nagy/tokei.el) - Display codebase statistics in Emacs 📈
 - [meedstrom/org-mem](https://github.com/meedstrom/org-mem) - Turn thousands of Org files into a database in seconds
-- [chenyanming/calibredb.el](https://github.com/chenyanming/calibredb.el) - Emacs calibre client - A Document Management Solution in Emacs.
 - [roman/golden-ratio.el](https://github.com/roman/golden-ratio.el) - Automatic resizing of Emacs windows to the golden ratio
 - [neeasade/ct.el](https://github.com/neeasade/ct.el) - color tools for emacs
 - [KeyWeeUsr/emacs-syncthing](https://github.com/KeyWeeUsr/emacs-syncthing) - Emacs client for Syncthing
@@ -616,7 +618,6 @@
 - [ryuslash/git-auto-commit-mode](https://github.com/ryuslash/git-auto-commit-mode) - Automatically commit to git after each save
 - [shingo256/trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
 - [szermatt/mistty](https://github.com/szermatt/mistty) - Shell/Comint alternative with a fully functional terminal for Emacs 29.1 and later.
-- [NixOS/nix-mode](https://github.com/NixOS/nix-mode) - An Emacs major mode for editing Nix expressions.
 - [kuanyui/tldr.el](https://github.com/kuanyui/tldr.el) - tldr client for Emacs
 - [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [Bad-ptr/persp-mode.el](https://github.com/Bad-ptr/persp-mode.el) - named perspectives(set of buffers/window configs) for emacs
@@ -1084,6 +1085,7 @@
 
 ## Lua 
 
+- [miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim) - Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for G
 - [serhez/bento.nvim](https://github.com/serhez/bento.nvim) - A minimalist and efficient, yet powerful and extensible buffer manager for Neovim.
 - [lumen-oss/lz.n](https://github.com/lumen-oss/lz.n) - 🦥 A dead simple lazy-loading Lua library for Neovim plugins.
 - [MironPascalCaseFan/debugmaster.nvim](https://github.com/MironPascalCaseFan/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
@@ -1524,6 +1526,7 @@
 
 ## Python 
 
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
 - [denilsonsa/gimp-palettes](https://github.com/denilsonsa/gimp-palettes) - RGB color palettes for Gimp
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
