@@ -385,6 +385,7 @@
 
 ## Emacs Lisp 
 
+- [ArthurHeymans/emacs-tramp-rpc](https://github.com/ArthurHeymans/emacs-tramp-rpc) - High-performance TRAMP backend using JSON-RPC instead of shell parsing
 - [d12frosted/publicatorg](https://github.com/d12frosted/publicatorg) - Make your vulpea notes public
 - [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - A functional library for org-mode
 - [protesilaos/ef-themes](https://github.com/protesilaos/ef-themes) - Colourful and legible themes for GNU Emacs
@@ -1383,6 +1384,7 @@
 
 ## Nix 
 
+- [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
 - [marienz/nix-doom-emacs-unstraightened](https://github.com/marienz/nix-doom-emacs-unstraightened) - Builds Doom Emacs using Nix
 - [lordkekz/nix-yazi-plugins](https://github.com/lordkekz/nix-yazi-plugins) - An (incomplete) collection of yazi plugins, packaged for Nix.
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
@@ -1632,6 +1634,7 @@
 
 ## Rust 
 
+- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
