@@ -1548,6 +1548,7 @@
 
 ## language 
 
+- [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [jcubic/lips](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter in JavaScript
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1583,6 +1584,7 @@
 
 ## linux 
 
+- [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
@@ -1826,6 +1828,7 @@
 
 ## macos 
 
+- [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
@@ -2209,6 +2212,10 @@
 
 ## others 
 
+- [Enovale/doas-sudo-shim](https://github.com/Enovale/doas-sudo-shim) - sudo shim for doas
+- [tree-sitter-grammars/tree-sitter-tcl](https://github.com/tree-sitter-grammars/tree-sitter-tcl) - TCL grammar for tree-sitter
+- [nmoroze/tclint](https://github.com/nmoroze/tclint) - Modern dev tools for Tcl • includes a linter, formatter, and editor integration.
+- [tmythicator/lichess.el](https://github.com/tmythicator/lichess.el) - A minimal Emacs client for the Lichess API
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [vkazanov/advent-mode](https://github.com/vkazanov/advent-mode) - Advent of Code helper for Emacs
 - [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator
@@ -2665,7 +2672,6 @@
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [jasonm23/autothemer](https://github.com/jasonm23/autothemer) - Conveniently create Emacs themes - watch Autothemer used by System Crafters https://www.youtube.com/watch?v=kCCIudu53Zg
 - [gpg/gnupg](https://github.com/gpg/gnupg) - The GNU Privacy Guard. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentatio
-- [solisinvictum/vidoas](https://github.com/solisinvictum/vidoas) - vidoas - safely edit the doas.conf file (like visudo for doas)
 - [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
 - [yibie/org-supertag](https://github.com/yibie/org-supertag) - Implement a modern note-taking app style in Org-mode.
 - [yibie/org-include-inline](https://github.com/yibie/org-include-inline) - A minor mode for Org mode that displays #+INCLUDE directive contents inline within your Org buffers.
@@ -2687,7 +2693,7 @@
 - [rougier/nano-tools](https://github.com/rougier/nano-tools) - A set of tools for emacs that are not worth to be packaged.
 - [rougier/nano-read](https://github.com/rougier/nano-read) - Alternartive read functions for GNU Emacs
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [franzos/awesome-guix](https://github.com/franzos/awesome-guix) - Docs, Channels, example configs and more - Guix is Awesome
 - [MatthewZMD/emigo](https://github.com/MatthewZMD/emigo) - Future of Agentic Development in Emacs
 - [SqrtMinusOne/elfeed-summary](https://github.com/SqrtMinusOne/elfeed-summary) - Feed summary interface for elfeed
@@ -3084,6 +3090,7 @@
 
 ## programming-language 
 
+- [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [moonli-lang/moonli](https://github.com/moonli-lang/moonli) - Moonli is a Julia/Python-ish syntax layer that transpiles to Common Lisp
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [Jamesbarford/holyc-lang](https://github.com/Jamesbarford/holyc-lang) - HolyC compiler & transpiler
@@ -3657,6 +3664,7 @@
 
 ## windows 
 
+- [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 - [agent-kilo/jwno](https://github.com/agent-kilo/jwno) - A tiling window manager for Windows 10/11, built with Janet and ❤️.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
