@@ -92,6 +92,7 @@
 
 ## C 
 
+- [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [atuan26/warpd](https://github.com/atuan26/warpd) - A modal keyboard-driven virtual pointer with advanced feature
@@ -386,6 +387,7 @@
 
 ## Emacs Lisp 
 
+- [tmythicator/lichess.el](https://github.com/tmythicator/lichess.el) - A minimal Emacs client for the Lichess API
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [vkazanov/advent-mode](https://github.com/vkazanov/advent-mode) - Advent of Code helper for Emacs
 - [ArthurHeymans/emacs-tramp-rpc](https://github.com/ArthurHeymans/emacs-tramp-rpc) - High-performance TRAMP backend using JSON-RPC instead of shell parsing
@@ -969,7 +971,6 @@
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
-- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -979,6 +980,7 @@
 
 ## JavaScript 
 
+- [tree-sitter-grammars/tree-sitter-tcl](https://github.com/tree-sitter-grammars/tree-sitter-tcl) - TCL grammar for tree-sitter
 - [jcubic/lips](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter in JavaScript
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
@@ -1074,6 +1076,7 @@
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [android-password-store/kage](https://github.com/android-password-store/kage) - Kotlin implementation of the age file encryption format
+- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
@@ -1541,6 +1544,7 @@
 
 ## Python 
 
+- [nmoroze/tclint](https://github.com/nmoroze/tclint) - Modern dev tools for Tcl • includes a linter, formatter, and editor integration.
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
 - [denilsonsa/gimp-palettes](https://github.com/denilsonsa/gimp-palettes) - RGB color palettes for Gimp
@@ -1731,7 +1735,7 @@
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [saghen/blink.pick](https://github.com/saghen/blink.pick) - Performant, modular picker plugin for Neovim
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -1824,6 +1828,7 @@
 
 ## Shell 
 
+- [Enovale/doas-sudo-shim](https://github.com/Enovale/doas-sudo-shim) - sudo shim for doas
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - Read-only mirror of Chaotic-AUR's main repository. Issues and bug reports welcome! 📑
 - [kartavkun/zapret-discord-youtube](https://github.com/kartavkun/zapret-discord-youtube) - Fork of Flowseal's zapret-discord-youtube repo with zapret configs for Linux
@@ -1847,7 +1852,6 @@
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [jirutka/doas-sudo-shim](https://github.com/jirutka/doas-sudo-shim) - sudo shim for doas
-- [solisinvictum/vidoas](https://github.com/solisinvictum/vidoas) - vidoas - safely edit the doas.conf file (like visudo for doas)
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
