@@ -385,6 +385,8 @@
 
 ## Emacs Lisp 
 
+- [JiaweiChenC/flash-emacs](https://github.com/JiaweiChenC/flash-emacs) - Flash Emacs provides flash.nvim-like jump navigation for Emacs.
+- [ZenScriptor/avy-flash](https://github.com/ZenScriptor/avy-flash) - Vibe coded version of avy modified to mimic flash.nvim
 - [tmythicator/lichess.el](https://github.com/tmythicator/lichess.el) - A minimal Emacs client for the Lichess API
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [vkazanov/advent-mode](https://github.com/vkazanov/advent-mode) - Advent of Code helper for Emacs
@@ -897,7 +899,7 @@
 - [sqls-server/sqls](https://github.com/sqls-server/sqls) - SQL language server written in Go.
 - [nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver) - golangci-lint language server
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
@@ -976,6 +978,7 @@
 
 ## JavaScript 
 
+- [hababr/Imagus-Reborn](https://github.com/hababr/Imagus-Reborn) - 
 - [tree-sitter-grammars/tree-sitter-tcl](https://github.com/tree-sitter-grammars/tree-sitter-tcl) - TCL grammar for tree-sitter
 - [jcubic/lips](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter in JavaScript
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
@@ -1041,7 +1044,6 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) - Browser extension that automatically notifies and redirects you to independent wikis.
-- [TheFantasticWarrior/chrome-extension-imagus](https://github.com/TheFantasticWarrior/chrome-extension-imagus) - [Inactive] "Mirror" of the "Mirror" of the official Imagus source hosted on Google Drive. Indefinitely taking a break
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
