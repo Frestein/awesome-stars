@@ -129,6 +129,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -428,6 +429,8 @@
 
 ## c 
 
+- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -1239,7 +1242,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -1288,7 +1291,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -1327,6 +1330,7 @@
 
 ## hacktoberfest 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [jcubic/lips](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter in JavaScript
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
@@ -1586,6 +1590,7 @@
 
 ## linux 
 
+- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
@@ -1707,7 +1712,7 @@
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## login 
 
@@ -1720,7 +1725,6 @@
 
 ## lua 
 
-- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
 - [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
@@ -1854,6 +1858,15 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## malware 
+
+- [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web 
+- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## markdown 
 
@@ -2215,6 +2228,8 @@
 
 ## others 
 
+- [purplg/hass](https://github.com/purplg/hass) - An Emacs package for interacting with Home Assistant
+- [hyprwm/hyprnix](https://github.com/hyprwm/hyprnix) - HyprWM Nix Repository
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wayland compositors.
 - [Frestein/russian-layout.mpv](https://github.com/Frestein/russian-layout.mpv) - [mirror] Russian layout bindings for mpv
 - [hababr/Imagus-Reborn](https://github.com/hababr/Imagus-Reborn) - 
@@ -2391,7 +2406,6 @@
 - [fukamachi/mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
 - [tarsius/keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
 - [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
-- [hyprwm/hyprlauncher](https://github.com/hyprwm/hyprlauncher) - A multipurpose and versatile launcher / picker for Hyprland
 - [xenodium/time-zones](https://github.com/xenodium/time-zones) - An Emacs major mode to view the time at any city across the world
 - [alphapapa/org-protocol-capture-html](https://github.com/alphapapa/org-protocol-capture-html) - Capture HTML from the browser selection into Emacs as org-mode content
 - [NalaGinrut/artanis](https://github.com/NalaGinrut/artanis) - Mirror only, please visit https://gitlab.com/NalaGinrut/artanis
@@ -2837,7 +2851,6 @@
 - [qutebrowser/qutebrowser-extensions](https://github.com/qutebrowser/qutebrowser-extensions) - Extension ideas (and at some point code) for qutebrowser
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
-- [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web 
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [gopasspw/gopass-hibp](https://github.com/gopasspw/gopass-hibp) - Gopass haveibeenpwnd.com integration
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -2869,7 +2882,6 @@
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
-- [hyprwm/aquamarine](https://github.com/hyprwm/aquamarine) - Aquamarine is a very light linux rendering backend library
 - [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a wayland wallpaper utility with IPC controls.
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
@@ -3206,7 +3218,6 @@
 
 ## rust 
 
-- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
@@ -3360,6 +3371,7 @@
 
 ## shell 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [SqrtMinusOne/eshell-atuin](https://github.com/SqrtMinusOne/eshell-atuin) - eshell ❤️ atuin
