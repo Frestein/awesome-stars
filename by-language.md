@@ -92,6 +92,7 @@
 
 ## C 
 
+- [sandwichfarm/hyprlax](https://github.com/sandwichfarm/hyprlax) - buttery smooth parallax wallpaper daemon for wayland compositors
 - [Nomadcxx/gSlapper](https://github.com/Nomadcxx/gSlapper) - A wallpaper utility that handles static images and a huge number of video types via gstreamer.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
@@ -237,6 +238,7 @@
 
 ## C++ 
 
+- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
@@ -387,6 +389,13 @@
 
 ## Emacs Lisp 
 
+- [sarg/torrent-mode.el](https://github.com/sarg/torrent-mode.el) - Minor emacs mode for viewing torrent file contents.
+- [sarg/aria2](https://github.com/sarg/aria2) - a bittorrent client for Emacs
+- [peterwvj/eshell-up](https://github.com/peterwvj/eshell-up) - Quickly go to a specific parent directory in eshell
+- [yad-tahir/evil-case](https://github.com/yad-tahir/evil-case) - Evil operators to change text case
+- [yad-tahir/evil-insert-plus](https://github.com/yad-tahir/evil-insert-plus) - Enhances the standard Vim-like experience in Emacs by turning the basic insertion commands into Evil operators.
+- [yad-tahir/org-roam-latte](https://github.com/yad-tahir/org-roam-latte) - Org-roam Latte is a minor mode that automatically highlights unlinked references to existing
+- [gggion/duckdb-query.el](https://github.com/gggion/duckdb-query.el) - DuckDB SQL query results as native Elisp data structures
 - [holomorph/transmission](https://github.com/holomorph/transmission) - Emacs interface to a Transmission session
 - [purplg/hass](https://github.com/purplg/hass) - An Emacs package for interacting with Home Assistant
 - [JiaweiChenC/flash-emacs](https://github.com/JiaweiChenC/flash-emacs) - Flash Emacs provides flash.nvim-like jump navigation for Emacs.
@@ -749,7 +758,6 @@
 - [LuigiPiucco/nerd-icons-corfu](https://github.com/LuigiPiucco/nerd-icons-corfu) - Icons for corfu via nerd-icons
 - [rainstormstudio/nerd-icons-dired](https://github.com/rainstormstudio/nerd-icons-dired) - 
 - [rainstormstudio/nerd-icons-completion](https://github.com/rainstormstudio/nerd-icons-completion) - 
-- [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
 - [jdtsmith/ultra-scroll](https://github.com/jdtsmith/ultra-scroll) - scroll Emacs like lightning
 - [tuh8888/chezmoi.el](https://github.com/tuh8888/chezmoi.el) - An emacs package for interacting with chezmoi.
 - [emacs-evil/evil-surround](https://github.com/emacs-evil/evil-surround) - you will be surrounded (surround.vim for evil, the extensible vi layer)
@@ -784,7 +792,6 @@
 - [minad/corfu](https://github.com/minad/corfu) - :desert_island: corfu.el - COmpletion in Region FUnction
 - [emacsmirror/fennel-mode](https://github.com/emacsmirror/fennel-mode) - A major-mode for editing Fennel code
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
-- [meedstrom/org-node-fakeroam](https://github.com/meedstrom/org-node-fakeroam) - 
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
 - [renzmann/treesit-auto](https://github.com/renzmann/treesit-auto) - Automatic installation, usage, and fallback for tree-sitter major modes in Emacs 29
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
@@ -1107,6 +1114,7 @@
 
 ## Lua 
 
+- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [Frestein/russian-layout.mpv](https://github.com/Frestein/russian-layout.mpv) - [mirror] Russian layout bindings for mpv
 - [alberti42/faster-piper.yazi](https://github.com/alberti42/faster-piper.yazi) - Pipe any shell command as a cached previewer.
 - [miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim) - Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for G
@@ -1653,6 +1661,7 @@
 
 ## Rust 
 
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wayland compositors.
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
