@@ -184,6 +184,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
+- [scala](#scala)
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
@@ -258,6 +259,7 @@
 
 ## android 
 
+- [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools, mods and workarounds for Pixels and other Androids
@@ -1119,6 +1121,7 @@
 
 ## game 
 
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) - Play DOOM in Neovim v0.11+ on Linux & macOS
@@ -1334,6 +1337,7 @@
 
 ## hacktoberfest 
 
+- [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [jcubic/lips](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter in JavaScript
@@ -3330,6 +3334,10 @@
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
 
+## scala 
+
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+
 ## security 
 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -3554,6 +3562,7 @@
 
 ## typescript 
 
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
