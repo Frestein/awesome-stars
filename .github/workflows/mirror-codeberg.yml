@@ -1,6 +1,8 @@
 name: Codeberg Mirror
 on:
-  push:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * *
 jobs:
   mirror:
     runs-on: ubuntu-latest
