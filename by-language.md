@@ -392,6 +392,10 @@
 
 ## Emacs Lisp 
 
+- [rougier/agenda](https://github.com/rougier/agenda) - Plain text agenda
+- [gongo/emacs-riscv](https://github.com/gongo/emacs-riscv) - 
+- [thanhvg/emacs-howdoyou](https://github.com/thanhvg/emacs-howdoyou) - Search and read stackoverflow and its sisters’ sites
+- [thanhvg/emacs-hnreader](https://github.com/thanhvg/emacs-hnreader) - Read Hacker News inside Emacs
 - [ArthurHeymans/emacs-alacritty](https://github.com/ArthurHeymans/emacs-alacritty) - Terminal emulation in emacs using alacritty
 - [MiniApollo/kickstart.emacs](https://github.com/MiniApollo/kickstart.emacs) - Blazingly fast starting point for your Emacs  configuration
 - [akreisher/eshell-syntax-highlighting](https://github.com/akreisher/eshell-syntax-highlighting) - Syntax highlighting for Eshell
@@ -1123,6 +1127,7 @@
 
 ## Lua 
 
+- [boydaihungst/pref-by-location.yazi](https://github.com/boydaihungst/pref-by-location.yazi) - This is a Yazi plugin that save linemode,  sort, show_hidden preferences by location.
 - [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi) - The first Yazi plugin for customizing both header-line and status-line.
 - [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin that sets the cwd to the project root, stores projects in a history file, includes a telescope picker, supports fzf-lua, and provides UI tools
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
@@ -1489,6 +1494,7 @@
 
 ## Others 
 
+- [schemedoc/awesome-scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
 - [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
@@ -1511,7 +1517,6 @@
 - [thinkhuman/writingwithemacs](https://github.com/thinkhuman/writingwithemacs) - Tips, Examples, and Resources for Writing with Emacs
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -1877,6 +1882,7 @@
 - [evanpurkhiser/mkinitcpio-colors](https://github.com/evanpurkhiser/mkinitcpio-colors) - Provides a hook for Arch Linux's mkinitcpio utility to set VT colors during early userspace
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
+- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [stal-ix/stalix](https://github.com/stal-ix/stalix) - STAtically LInked LInuX, based on IX package manager
 - [stal-ix/ix](https://github.com/stal-ix/ix) - ix package manager, statically build packages, for darwin/linux, with clang
