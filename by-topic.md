@@ -343,6 +343,7 @@
 
 ## awesome 
 
+- [schemedoc/awesome-scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [thebigcicca/awesome-lem](https://github.com/thebigcicca/awesome-lem) - A curated list of lem editor resources.
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
@@ -368,6 +369,7 @@
 
 ## awesome-list 
 
+- [schemedoc/awesome-scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [thebigcicca/awesome-lem](https://github.com/thebigcicca/awesome-lem) - A curated list of lem editor resources.
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
@@ -839,6 +841,9 @@
 
 ## emacs 
 
+- [rougier/agenda](https://github.com/rougier/agenda) - Plain text agenda
+- [thanhvg/emacs-howdoyou](https://github.com/thanhvg/emacs-howdoyou) - Search and read stackoverflow and its sisters’ sites
+- [thanhvg/emacs-hnreader](https://github.com/thanhvg/emacs-hnreader) - Read Hacker News inside Emacs
 - [MiniApollo/kickstart.emacs](https://github.com/MiniApollo/kickstart.emacs) - Blazingly fast starting point for your Emacs  configuration
 - [peterwvj/eshell-up](https://github.com/peterwvj/eshell-up) - Quickly go to a specific parent directory in eshell
 - [yad-tahir/evil-case](https://github.com/yad-tahir/evil-case) - Evil operators to change text case
@@ -2247,6 +2252,9 @@
 
 ## others 
 
+- [boydaihungst/pref-by-location.yazi](https://github.com/boydaihungst/pref-by-location.yazi) - This is a Yazi plugin that save linemode,  sort, show_hidden preferences by location.
+- [gongo/emacs-riscv](https://github.com/gongo/emacs-riscv) - 
+- [ArthurHeymans/emacs-alacritty](https://github.com/ArthurHeymans/emacs-alacritty) - Terminal emulation in emacs using alacritty
 - [ArthurHeymans/hugo-emacs-theme](https://github.com/ArthurHeymans/hugo-emacs-theme) - A hugo theme that makes a blog look and operate like emacs
 - [minad/doom-on-emacs](https://github.com/minad/doom-on-emacs) - DOOM on Emacs
 - [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi) - The first Yazi plugin for customizing both header-line and status-line.
