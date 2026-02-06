@@ -201,7 +201,7 @@
 - [hunkyburrito/xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser) - xdg-desktop-portal backend for choosing files with your favorite file chooser
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
@@ -329,7 +329,6 @@
 
 ## CSS 
 
-- [ArthurHeymans/hugo-emacs-theme](https://github.com/ArthurHeymans/hugo-emacs-theme) - A hugo theme that makes a blog look and operate like emacs
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
 - [precondition/precondition.github.io](https://github.com/precondition/precondition.github.io) - Personal Weblog with tools and guides for QMK keyboards. Home of the home row mods guide
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
@@ -393,6 +392,8 @@
 
 ## Emacs Lisp 
 
+- [vkazanov/elcity](https://github.com/vkazanov/elcity) - A simple SimCity clone in Emacs Lisp
+- [OrgTangle/ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
 - [atomontage/xterm-color](https://github.com/atomontage/xterm-color) - ANSI & xterm-256 color text property translator for Emacs
 - [magit/emacsql](https://github.com/magit/emacsql) - A high-level Emacs Lisp front-end for SQLite
 - [lewang/spatial-window](https://github.com/lewang/spatial-window) - Jump to Emacs windows using keyboard spatial mapping
@@ -1010,6 +1011,7 @@
 
 ## JavaScript 
 
+- [ArthurHeymans/hugo-emacs-theme](https://github.com/ArthurHeymans/hugo-emacs-theme) - A hugo theme that makes a blog look and operate like emacs
 - [hababr/Imagus-Reborn](https://github.com/hababr/Imagus-Reborn) - 
 - [tree-sitter-grammars/tree-sitter-tcl](https://github.com/tree-sitter-grammars/tree-sitter-tcl) - TCL grammar for tree-sitter
 - [jcubic/lips](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter in JavaScript
