@@ -67,7 +67,7 @@
 - [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [lukaspieper/Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - App faking only the absolute necessary Apis to use Gcam without Play Services
 - [ghostbyte-dev/pixelix](https://github.com/ghostbyte-dev/pixelix) - Pixelfed client for Android and iOS
-- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) - Un cliente de YouTube Music con Material Design 3, para Android
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -610,6 +610,9 @@
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉
+- [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
+- [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
 
 ## 🔠 Fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -712,8 +715,11 @@
 - [abo-abo/ace-window](https://github.com/abo-abo/ace-window) - Quickly switch windows in Emacs
 - [lewang/spatial-window](https://github.com/lewang/spatial-window) - Jump to Emacs windows using keyboard spatial mapping
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
-- [atomontage/xterm-color](https://github.com/atomontage/xterm-color) - ANSI & xterm-256 color text property translator for Emacs
 - [OrgTangle/ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
+- [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
+- [Sohimaster/traur](https://github.com/Sohimaster/traur) - paru-integrated trust scoring for AUR packages written in Rust
+- [ava1ar/customizepkg](https://github.com/ava1ar/customizepkg) - A tool for Arch Linux package manager pacman to modify PKGBUILD automatically
+- [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
 
 ## ⌨️ Keyboard
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -887,6 +893,8 @@
 - [sandwichfarm/hyprlax](https://github.com/sandwichfarm/hyprlax) - buttery smooth parallax wallpaper daemon for wayland compositors
 - [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux 
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
+- [Sohimaster/traur](https://github.com/Sohimaster/traur) - paru-integrated trust scoring for AUR packages written in Rust
+- [ava1ar/customizepkg](https://github.com/ava1ar/customizepkg) - A tool for Arch Linux package manager pacman to modify PKGBUILD automatically
 
 ## 🎞 MPV
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
