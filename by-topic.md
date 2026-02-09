@@ -521,6 +521,7 @@
 
 ## cli 
 
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 - [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest media downloader
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
@@ -1371,7 +1372,6 @@
 - [android-password-store/kage](https://github.com/android-password-store/kage) - Kotlin implementation of the age file encryption format
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
-- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
@@ -1857,6 +1857,7 @@
 
 ## macos 
 
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
@@ -1970,6 +1971,7 @@
 
 ## neovim 
 
+- [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin that sets the cwd to the project root, stores projects in a history file, includes a telescope picker, supports fzf-lua, and provides UI tools
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim) - Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for G
@@ -2253,6 +2255,8 @@
 
 ## others 
 
+- [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
 - [ava1ar/customizepkg](https://github.com/ava1ar/customizepkg) - A tool for Arch Linux package manager pacman to modify PKGBUILD automatically
 - [Sohimaster/traur](https://github.com/Sohimaster/traur) - paru-integrated trust scoring for AUR packages written in Rust
@@ -3025,7 +3029,7 @@
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
+- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -3048,6 +3052,7 @@
 
 ## package-manager 
 
+- [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [typst-community/utpm](https://github.com/typst-community/utpm) - A package manager for local and remote Typst packages.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
@@ -3271,6 +3276,8 @@
 
 ## rust 
 
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
@@ -3293,7 +3300,6 @@
 - [MaxVerevkin/wl-gammarelay-rs](https://github.com/MaxVerevkin/wl-gammarelay-rs) - A simple program that provides DBus interface to control display temperature and brightness under wayland without flickering
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs) - A safe Rust crate for working with the Wayland clipboard.
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
@@ -3501,6 +3507,7 @@
 
 ## terminal 
 
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 - [agzam/mxp](https://github.com/agzam/mxp) - Shell script for piping things in and out of Emacs buffers
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -3566,6 +3573,8 @@
 
 ## tui 
 
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
@@ -3710,6 +3719,7 @@
 
 ## vpn 
 
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 - [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
