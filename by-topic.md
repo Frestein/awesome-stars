@@ -844,6 +844,7 @@
 
 ## emacs 
 
+- [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
@@ -2255,6 +2256,7 @@
 
 ## others 
 
+- [karthink/gptel-agent](https://github.com/karthink/gptel-agent) - Agent mode for gptel
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
