@@ -393,6 +393,7 @@
 
 ## Emacs Lisp 
 
+- [LionyxML/markdown-ts-mode](https://github.com/LionyxML/markdown-ts-mode) - A major mode for Emacs providing basic syntax highlight for markdown files using treesitter
 - [magit/with-editor](https://github.com/magit/with-editor) - Use the Emacsclient as the $EDITOR of child processes
 - [rejeep/f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
@@ -401,7 +402,7 @@
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 Neomacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine. Inline 🖼️4K images/🎥4K videos/🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Aimi
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine. Inline 🖼️4K images/🎥4K videos/🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Ai
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
@@ -708,7 +709,6 @@
 - [edkolev/evil-goggles](https://github.com/edkolev/evil-goggles) - Display visual hint on evil edit operations
 - [vedang/pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 - [Sterlingg/json-snatcher](https://github.com/Sterlingg/json-snatcher) - Get the path to a JSON element in Emacs.
-- [yoshiki/yaml-mode](https://github.com/yoshiki/yaml-mode) - The emacs major mode for editing files in the YAML data serialization format.
 - [spudlyo/clipetty](https://github.com/spudlyo/clipetty) - Manipulate the system (clip)board with (e)macs from a (tty)
 - [benotn/kkp](https://github.com/benotn/kkp) - Emacs support for the Kitty Keyboard Protocol
 - [7696122/evil-terminal-cursor-changer](https://github.com/7696122/evil-terminal-cursor-changer) - :smiling_imp: Chagning cursor by mode for evil on terminal.
@@ -943,7 +943,7 @@
 - [sqls-server/sqls](https://github.com/sqls-server/sqls) - SQL language server written in Go.
 - [nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver) - golangci-lint language server
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
@@ -973,7 +973,6 @@
 
 ## HTML 
 
-- [hyperion-cs/dpi-checkers](https://github.com/hyperion-cs/dpi-checkers) - Checkers to test your internet provider for censorship.
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [chenyanming/shrface](https://github.com/chenyanming/shrface) - Extend eww/nov with org-mode features, archive web pages to org files with shr.
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - Website with comprehensive comparisons, histories, and other information across many areas of computing and technology.
@@ -1033,6 +1032,7 @@
 - [GerardoCendejas/org-roam-timeline](https://github.com/GerardoCendejas/org-roam-timeline) - Interactive timeline visualization for Org-roam.
 - [openscad/tree-sitter-openscad](https://github.com/openscad/tree-sitter-openscad) - Incremental parser for OpenSCAD using tree-sitter
 - [alaviss/tree-sitter-nim](https://github.com/alaviss/tree-sitter-nim) - tree-sitter grammar for Nim
+- [hyperion-cs/dpi-checkers](https://github.com/hyperion-cs/dpi-checkers) - Checkers to test your internet provider for censorship.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [the-mikedavis/tree-sitter-git-commit](https://github.com/the-mikedavis/tree-sitter-git-commit) - A tree-sitter grammar for git commit messages
@@ -1514,6 +1514,7 @@
 
 ## Others 
 
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [schemedoc/awesome-scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
@@ -1705,6 +1706,7 @@
 
 ## Rust 
 
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
@@ -1772,7 +1774,7 @@
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
