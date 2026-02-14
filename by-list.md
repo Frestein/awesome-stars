@@ -184,7 +184,7 @@
 - [org-opml/org-opml](https://github.com/org-opml/org-opml) - Edit OPML files using Org mode in Emacs
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [magit/transient](https://github.com/magit/transient) - Transient commands
-- [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el - Persist and Restore your Emacs Sessions effortlessly
+- [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Easily persist and restore Emacs file buffers, Magit buffers, scratch, Dired, narrowing, indirect buffers (clones), windows, and tab-bar configurations; a robust desktop.el replacement that allows switching sessions and fully supports GUI and daemon modes
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Folding text based on indentation (Supersedes legacy packages such as origami.el and yafolding.el)
 - [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Speed up Emacs: Auto Byte/Native-Compile all Elisp files (Alternative to: auto-compile)
