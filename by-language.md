@@ -393,6 +393,7 @@
 
 ## Emacs Lisp 
 
+- [zkry/yaml.el](https://github.com/zkry/yaml.el) - YAML parser in Elisp
 - [LionyxML/markdown-ts-mode](https://github.com/LionyxML/markdown-ts-mode) - A major mode for Emacs providing basic syntax highlight for markdown files using treesitter
 - [magit/with-editor](https://github.com/magit/with-editor) - Use the Emacsclient as the $EDITOR of child processes
 - [rejeep/f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs
@@ -795,7 +796,7 @@
 - [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Speed up Emacs: Auto Byte/Native-Compile all Elisp files (Alternative to: auto-compile)
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Folding text based on indentation (Supersedes legacy packages such as origami.el and yafolding.el)
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
-- [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el - Persist and Restore your Emacs Sessions effortlessly
+- [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Easily persist and restore Emacs file buffers, Magit buffers, scratch, Dired, narrowing, indirect buffers (clones), windows, and tab-bar configurations; a robust desktop.el replacement
 - [magit/transient](https://github.com/magit/transient) - Transient commands
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [org-opml/org-opml](https://github.com/org-opml/org-opml) - Edit OPML files using Org mode in Emacs
@@ -1889,6 +1890,7 @@
 
 ## Scala 
 
+- [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 
 ## Scheme 
