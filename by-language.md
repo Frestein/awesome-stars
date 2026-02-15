@@ -393,8 +393,9 @@
 
 ## Emacs Lisp 
 
+- [larstvei/ox-gfm](https://github.com/larstvei/ox-gfm) - Github Flavored Markdown Back-End for Org Export Engine
+- [erickisos/codesnap.el](https://github.com/erickisos/codesnap.el) - Codesnap-rs integration for Emacs
 - [zkry/yaml.el](https://github.com/zkry/yaml.el) - YAML parser in Elisp
-- [LionyxML/markdown-ts-mode](https://github.com/LionyxML/markdown-ts-mode) - A major mode for Emacs providing basic syntax highlight for markdown files using treesitter
 - [magit/with-editor](https://github.com/magit/with-editor) - Use the Emacsclient as the $EDITOR of child processes
 - [rejeep/f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
@@ -403,7 +404,7 @@
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine. Inline 🖼️4K images/🎥4K videos/🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Ai
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in Rust with a modern display engine. Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Aiming 
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
@@ -527,7 +528,7 @@
 - [dieggsy/esh-autosuggest](https://github.com/dieggsy/esh-autosuggest) - Fish-like autosuggestions in eshell.
 - [huangfeiyu/eldoc-mouse](https://github.com/huangfeiyu/eldoc-mouse) - Show document for mouse hover utilizing eldoc and posframe
 - [jwiegley/ecard](https://github.com/jwiegley/ecard) - Library for representing vCard data using EIEIO classes
-- [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - A unified method to fold and unfold text in Emacs
+- [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el: A unified method to fold and unfold text in Emacs (Supported modes: outline-mode, outline-minor-mode, outline-indent-minor-mode, org-mode, markdown-mode, gfm-mode, vdiff-mode, hs-minor-mo
 - [jkitchin/org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
 - [chenyanming/nov-xwidget](https://github.com/chenyanming/nov-xwidget) - The best epub reader in Emacs
 - [konrad1977/spotlight-mode](https://github.com/konrad1977/spotlight-mode) - Emacs package for automagically highlight buffers.
@@ -793,7 +794,7 @@
 - [tuh8888/chezmoi.el](https://github.com/tuh8888/chezmoi.el) - An emacs package for interacting with chezmoi.
 - [emacs-evil/evil-surround](https://github.com/emacs-evil/evil-surround) - you will be surrounded (surround.vim for evil, the extensible vi layer)
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.config/emacs clean
-- [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Speed up Emacs: Auto Byte/Native-Compile all Elisp files (Alternative to: auto-compile)
+- [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Auto Byte/Native-Compile all Elisp files, to Speed up Emacs
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Folding text based on indentation (Supersedes legacy packages such as origami.el and yafolding.el)
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 - [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Easily persist and restore Emacs file buffers, Magit buffers, scratch, Dired, narrowing, indirect buffers (clones), windows, and tab-bar configurations; a robust desktop.el replacement
@@ -876,6 +877,7 @@
 
 ## Go 
 
+- [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [rszyma/kanata-tray](https://github.com/rszyma/kanata-tray) - Tray Icon for Kanata
 - [Nomadcxx/jellywatch](https://github.com/Nomadcxx/jellywatch) - 
 - [Nomadcxx/moonbit](https://github.com/Nomadcxx/moonbit) - A modern system cleaner built in Go with a TUI and CLI.
@@ -1399,7 +1401,6 @@
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [Wansmer/langmapper.nvim](https://github.com/Wansmer/langmapper.nvim) - A plugin that makes Neovim more friendly to non-English input methods 🤝
-- [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool.
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - Mirror of https://codeberg.org/mfussenegger/nvim-dap-python
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
@@ -1856,7 +1857,6 @@
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
@@ -1882,7 +1882,6 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 
 ## SCSS 
 
