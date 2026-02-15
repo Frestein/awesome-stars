@@ -187,7 +187,7 @@
 - [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Easily persist and restore Emacs file buffers, Magit buffers, scratch, Dired, narrowing, indirect buffers (clones), windows, and tab-bar configurations; a robust desktop.el replacement that allows switching sessions and fully supports GUI and daemon modes
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Folding text based on indentation (Supersedes legacy packages such as origami.el and yafolding.el)
-- [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Speed up Emacs: Auto Byte/Native-Compile all Elisp files (Alternative to: auto-compile)
+- [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Auto Byte/Native-Compile all Elisp files, to Speed up Emacs
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.config/emacs clean
 - [emacs-evil/evil-surround](https://github.com/emacs-evil/evil-surround) - you will be surrounded (surround.vim for evil, the extensible vi layer)
 - [tuh8888/chezmoi.el](https://github.com/tuh8888/chezmoi.el) - An emacs package for interacting with chezmoi.
@@ -474,7 +474,7 @@
 - [egregius313/gfm-alerts.el](https://github.com/egregius313/gfm-alerts.el) - 
 - [jkitchin/org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
 - [jamescherti/elispcomp](https://github.com/jamescherti/elispcomp) - Elispcomp: Compile Elisp code from the command-line (Emacs Lisp code)
-- [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - A unified method to fold and unfold text in Emacs
+- [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el: A unified method to fold and unfold text in Emacs (Supported modes: outline-mode, outline-minor-mode, outline-indent-minor-mode, org-mode, markdown-mode, gfm-mode, vdiff-mode, hs-minor-mode, fold-this-mode, ts-fold-mode, treesit-fold-mode, vimish-fold-mode...)
 - [jwiegley/ecard](https://github.com/jwiegley/ecard) - Library for representing vCard data using EIEIO classes
 - [huangfeiyu/eldoc-mouse](https://github.com/huangfeiyu/eldoc-mouse) - Show document for mouse hover utilizing eldoc and posframe
 - [tanrax/org-social-rss-bridge](https://github.com/tanrax/org-social-rss-bridge) - A simple bridge that converts RSS/Atom feeds into Org Social format.
@@ -610,7 +610,7 @@
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine. Inline 🖼️4K images/🎥4K videos/🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🎉
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in Rust with a modern display engine. Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
 - [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
@@ -619,6 +619,9 @@
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
 - [rejeep/f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs
 - [magit/with-editor](https://github.com/magit/with-editor) - Use the Emacsclient as the $EDITOR of child processes
+- [erickisos/codesnap.el](https://github.com/erickisos/codesnap.el) - Codesnap-rs integration for Emacs
+- [zkry/yaml.el](https://github.com/zkry/yaml.el) - YAML parser in Elisp
+- [larstvei/ox-gfm](https://github.com/larstvei/ox-gfm) - Github Flavored Markdown Back-End for Org Export Engine
 
 ## 🔠 Fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -737,6 +740,12 @@
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [Linus789/wl-clip-persist](https://github.com/Linus789/wl-clip-persist) - Keep Wayland clipboard even after programs close
+- [erickisos/codesnap.el](https://github.com/erickisos/codesnap.el) - Codesnap-rs integration for Emacs
+- [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
+- [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
+- [anuvyklack/hel](https://github.com/anuvyklack/hel) - Helix emulation layer for Emacs
+- [SqrtMinusOne/dotfiles](https://github.com/SqrtMinusOne/dotfiles) - This road is never-ending
+- [larstvei/ox-gfm](https://github.com/larstvei/ox-gfm) - Github Flavored Markdown Back-End for Org Export Engine
 
 ## ⌨️ Keyboard
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -961,7 +970,6 @@
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
-- [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool.
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [Wansmer/langmapper.nvim](https://github.com/Wansmer/langmapper.nvim) - A plugin that makes Neovim more friendly to non-English input methods 🤝
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -1368,7 +1376,6 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1490,7 +1497,6 @@
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks
-- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1558,6 +1564,7 @@
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+- [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 
 ## 📄 Typst
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
