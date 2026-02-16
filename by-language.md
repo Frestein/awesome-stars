@@ -528,7 +528,7 @@
 - [dieggsy/esh-autosuggest](https://github.com/dieggsy/esh-autosuggest) - Fish-like autosuggestions in eshell.
 - [huangfeiyu/eldoc-mouse](https://github.com/huangfeiyu/eldoc-mouse) - Show document for mouse hover utilizing eldoc and posframe
 - [jwiegley/ecard](https://github.com/jwiegley/ecard) - Library for representing vCard data using EIEIO classes
-- [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el: A unified method to fold and unfold text in Emacs (Supported modes: outline-mode, outline-minor-mode, outline-indent-minor-mode, org-mode, markdown-mode, gfm-mode, vdiff-mode, hs-minor-mo
+- [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el, a unified method to fold and unfold text in Emacs: outline, outline-indent, org-mode, markdown-mode, gfm-mode, vdiff, hideshow, fold-this, ts-fold, treesit-fold, vimish-fold...
 - [jkitchin/org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
 - [chenyanming/nov-xwidget](https://github.com/chenyanming/nov-xwidget) - The best epub reader in Emacs
 - [konrad1977/spotlight-mode](https://github.com/konrad1977/spotlight-mode) - Emacs package for automagically highlight buffers.
@@ -1149,6 +1149,7 @@
 
 ## Lua 
 
+- [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) - Picker that doesn't get in your way
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [boydaihungst/pref-by-location.yazi](https://github.com/boydaihungst/pref-by-location.yazi) - This is a Yazi plugin that save linemode,  sort, show_hidden preferences by location.
 - [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi) - The first Yazi plugin for customizing both header-line and status-line.
@@ -1164,7 +1165,6 @@
 - [editor-code-assistant/eca-nvim](https://github.com/editor-code-assistant/eca-nvim) - NVIM integration with ECA
 - [macydnah/office.yazi](https://github.com/macydnah/office.yazi) - Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards
 - [jake-stewart/lazier.nvim](https://github.com/jake-stewart/lazier.nvim) - 
-- [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) - A neovim integration for television
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
 - [nvim-mini/MiniMax](https://github.com/nvim-mini/MiniMax) - Neovim config examples based on MINI
@@ -1776,7 +1776,6 @@
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
