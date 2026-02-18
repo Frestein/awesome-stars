@@ -23,6 +23,7 @@
 - [🐍 Python](#-python)
 - [🐚 Shell](#-shell)
 - [📹 Stream](#-stream)
+- [⭐ test](#-test)
 - [💻 Tools](#-tools)
 - [📄 Typst](#-typst)
 - [🦆 Yazi](#-yazi)
@@ -1349,6 +1350,9 @@
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS Command Line interface for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
+
+## ⭐ test
+- No repositories
 
 ## 💻 Tools
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
