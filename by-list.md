@@ -23,7 +23,6 @@
 - [🐍 Python](#-python)
 - [🐚 Shell](#-shell)
 - [📹 Stream](#-stream)
-- [⭐ test](#-test)
 - [💻 Tools](#-tools)
 - [📄 Typst](#-typst)
 - [🦆 Yazi](#-yazi)
@@ -706,7 +705,6 @@
 - [mattwparas/helix-config](https://github.com/mattwparas/helix-config) - 
 
 ## 📬 Inbox
-- [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
 - [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux 
 - [C0rn3j/sc-controller](https://github.com/C0rn3j/sc-controller) - User-mode driver and GTK3 based GUI for game controllers, including but not limited to Steam Controller
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
@@ -753,6 +751,7 @@
 - [juliapath/evil-numbers](https://github.com/juliapath/evil-numbers) - Increment and decrement numbers in Emacs
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
+- [minad/affe](https://github.com/minad/affe) - :monkey: affe.el - Asynchronous Fuzzy Finder for Emacs
 
 ## ⌨️ Keyboard
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -1350,9 +1349,6 @@
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS Command Line interface for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
-
-## ⭐ test
-- No repositories
 
 ## 💻 Tools
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
