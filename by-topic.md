@@ -525,6 +525,8 @@
 
 ## cli 
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
@@ -1235,6 +1237,7 @@
 
 ## go 
 
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [rszyma/kanata-tray](https://github.com/rszyma/kanata-tray) - Tray Icon for Kanata
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
@@ -1294,6 +1297,7 @@
 
 ## golang 
 
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [HenryLoM/CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi) - CLI ASCII avatar for entertainment and motivational purposes
@@ -1591,6 +1595,7 @@
 
 ## language 
 
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [jcubic/lips](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter in JavaScript
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
@@ -2275,6 +2280,7 @@
 
 ## others 
 
+- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [juliapath/evil-numbers](https://github.com/juliapath/evil-numbers) - Increment and decrement numbers in Emacs
 - [Prgebish/flash](https://github.com/Prgebish/flash) - Flash-style navigation for Emacs — jump to any location with search labels
 - [larstvei/ox-gfm](https://github.com/larstvei/ox-gfm) - Github Flavored Markdown Back-End for Org Export Engine
@@ -2382,7 +2388,7 @@
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [cdarwin/go-koans](https://github.com/cdarwin/go-koans) - koans for go
 - [google/lisp-koans](https://github.com/google/lisp-koans) - Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific feat
-- [meedstrom/once](https://github.com/meedstrom/once) - 
+- [meedstrom/once](https://github.com/meedstrom/once) - add-hook but just once
 - [meedstrom/el-job](https://github.com/meedstrom/el-job) - Async multicore mapcar
 - [meedstrom/dired-du-duc](https://github.com/meedstrom/dired-du-duc) - Add filesystem indexing to Dired-Du
 - [mwac-dev/grease.el](https://github.com/mwac-dev/grease.el) - Grease.el is the Oil.nvim for emacs
@@ -2810,7 +2816,7 @@
 - [saghen/blink.compat](https://github.com/saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
 - [saghen/blink.pick](https://github.com/saghen/blink.pick) - Performant, modular picker plugin for Neovim
 - [qt/qtwebengine](https://github.com/qt/qtwebengine) - Qt WebEngine
-- [cypherpunk2001/systemE](https://github.com/cypherpunk2001/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
+- [emacs-os/systemE](https://github.com/emacs-os/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [jamescherti/enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el) - Emacs: Improved Paredit support with Evil keybindings (maintained fork of evil-paredit, available on MELPA).
 - [melpa/melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
@@ -2872,7 +2878,7 @@
 - [CrendKing/mpv-twitch-chat](https://github.com/CrendKing/mpv-twitch-chat) - Show Twitch chat messages as subtitles when watching Twitch VOD with mpv.
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
-- [bitingsock/ytdl-preload](https://github.com/bitingsock/ytdl-preload) - mpv script to precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. Change Line 21 to temp directory. It will delete the directory on exit.
+- [bitingsock/ytdl-preload](https://github.com/bitingsock/ytdl-preload) - mpv script to precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. It will delete the directory on exit. Old gist: https://gist.github.com
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 - [emacsmirror/fennel-mode](https://github.com/emacsmirror/fennel-mode) - A major-mode for editing Fennel code
 - [iwalton3/default-shader-pack](https://github.com/iwalton3/default-shader-pack) - Preconfigured set of MPV shaders and configurations for MPV Shim media clients.
@@ -2957,7 +2963,7 @@
 - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [glfs-book/glfs](https://github.com/glfs-book/glfs) - This book covers the installation of graphics drivers, Steam, Wine, and more following a Linux From Scratch install.
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
-- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
+- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
@@ -3304,6 +3310,7 @@
 
 ## rust 
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [maplant/scheme-rs](https://github.com/maplant/scheme-rs) - Embedded Scheme for the Rust Ecosystem
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
@@ -3405,6 +3412,7 @@
 
 ## security 
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
@@ -3462,6 +3470,7 @@
 
 ## shell 
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
@@ -3535,6 +3544,8 @@
 
 ## terminal 
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
@@ -3601,6 +3612,7 @@
 
 ## tui 
 
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
