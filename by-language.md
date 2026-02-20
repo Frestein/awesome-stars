@@ -160,7 +160,7 @@
 - [Irqbalance/irqbalance](https://github.com/Irqbalance/irqbalance) - The irqbalance source tree - The new official site for irqbalance
 - [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
 - [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
@@ -385,6 +385,7 @@
 
 ## Dart 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
@@ -394,6 +395,7 @@
 
 ## Emacs Lisp 
 
+- [Jeremias-A-Queiroz/eConky](https://github.com/Jeremias-A-Queiroz/eConky) - A side-buffer dashboard for Emacs inspired by Conky.
 - [juliapath/evil-numbers](https://github.com/juliapath/evil-numbers) - Increment and decrement numbers in Emacs
 - [Prgebish/flash](https://github.com/Prgebish/flash) - Flash-style navigation for Emacs — jump to any location with search labels
 - [larstvei/ox-gfm](https://github.com/larstvei/ox-gfm) - Github Flavored Markdown Back-End for Org Export Engine
@@ -407,7 +409,7 @@
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in Rust with a modern display engine. Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Aiming 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility.  Inline 4K images/4K video
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
@@ -636,7 +638,6 @@
 - [SqrtMinusOne/biome](https://github.com/SqrtMinusOne/biome) - Bountiful Interface to Open Meteo for Emacs
 - [SqrtMinusOne/eshell-atuin](https://github.com/SqrtMinusOne/eshell-atuin) - eshell ❤️ atuin
 - [alphapapa/unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
-- [magnars/s.el](https://github.com/magnars/s.el) - The long lost Emacs string manipulation library.
 - [fuxialexander/org-pdftools](https://github.com/fuxialexander/org-pdftools) - A custom org link type for pdf-tools
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [pinoaffe/org-vcard](https://github.com/pinoaffe/org-vcard) - Export and import vCards from within GNU Emacs' Org mode.
@@ -784,7 +785,6 @@
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
 - [jdtsmith/indent-bars](https://github.com/jdtsmith/indent-bars) - Fast, configurable indentation guide-bars for Emacs
 - [radian-software/apheleia](https://github.com/radian-software/apheleia) - 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
-- [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [Fuco1/smartparens](https://github.com/Fuco1/smartparens) - Minor mode for Emacs that deals with parens pairs and tries to be smart about it.
 - [cask/cask](https://github.com/cask/cask) - Project management tool for Emacs
 - [emacs-elsa/flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
@@ -798,7 +798,7 @@
 - [emacs-evil/evil-surround](https://github.com/emacs-evil/evil-surround) - you will be surrounded (surround.vim for evil, the extensible vi layer)
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.config/emacs clean
 - [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Auto Byte/Native-Compile all Elisp files, to Speed up Emacs
-- [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Folding text based on indentation (Supersedes legacy packages such as origami.el and yafolding.el)
+- [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Indentation based Folding for Emacs (Supersedes legacy packages such as origami.el and yafolding.el)
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 - [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Easily persist and restore Emacs file buffers, Magit buffers, scratch, Dired, narrowing, indirect buffers (clones), windows, and tab-bar configurations; a robust desktop.el replacement
 - [magit/transient](https://github.com/magit/transient) - Transient commands
