@@ -899,7 +899,7 @@
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Efficient file-naming scheme to organise files and write notes with Emacs
 - [alphapapa/listen.el](https://github.com/alphapapa/listen.el) - Audio/music player for Emacs
 - [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
-- [elisp-lsp/ellsp](https://github.com/elisp-lsp/ellsp) - Elisp Language Server
+- [elisp-lsp/Ellsp](https://github.com/elisp-lsp/Ellsp) - Elisp Language Server
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
 - [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el) - Emacs package for searching code using ast-grep with `completing-read' interface or `consult'
 - [minad/consult-flycheck](https://github.com/minad/consult-flycheck) - Consult integration for Flycheck
@@ -2289,6 +2289,7 @@
 
 ## others 
 
+- [JonWaltman/pcmpl-args.el](https://github.com/JonWaltman/pcmpl-args.el) - Enhanced shell completion in Emacs
 - [emacs-os/el-init](https://github.com/emacs-os/el-init) - A statically compiled Emacs init (PID 1) patchset, Emacs Lisp-based service supervisor and core component of Emacs-OS.
 - [yibie/chai](https://github.com/yibie/chai) - "拆" (chāi) — to dismantle, break down, and digest complex knowledge into your own understanding.
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
