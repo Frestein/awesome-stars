@@ -507,7 +507,7 @@
 - [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el) - Emacs package for searching code using ast-grep with `completing-read' interface or `consult'
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
 - [bradmont/page-view](https://github.com/bradmont/page-view) - A minor mode to give word processor-like paginated view for org-mode
-- [elisp-lsp/ellsp](https://github.com/elisp-lsp/ellsp) - Elisp Language Server
+- [elisp-lsp/Ellsp](https://github.com/elisp-lsp/Ellsp) - Elisp Language Server
 - [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
 - [Fuco1/litable](https://github.com/Fuco1/litable) - On-the-fly evaluation/substitution of emacs lisp code
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
@@ -638,6 +638,7 @@
 - [Jeremias-A-Queiroz/eConky](https://github.com/Jeremias-A-Queiroz/eConky) - A side-buffer dashboard for Emacs inspired by Conky.
 - [yibie/chai](https://github.com/yibie/chai) - "拆" (chāi) — to dismantle, break down, and digest complex knowledge into your own understanding.
 - [emacs-os/el-init](https://github.com/emacs-os/el-init) - A statically compiled Emacs init (PID 1) patchset, Emacs Lisp-based service supervisor and core component of Emacs-OS.
+- [JonWaltman/pcmpl-args.el](https://github.com/JonWaltman/pcmpl-args.el) - Enhanced shell completion in Emacs
 
 <a name="fonts"></a>
 
@@ -785,6 +786,7 @@
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [JonWaltman/pcmpl-args.el](https://github.com/JonWaltman/pcmpl-args.el) - Enhanced shell completion in Emacs
 
 <a name="keyboard"></a>
 
