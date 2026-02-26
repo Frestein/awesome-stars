@@ -84,6 +84,7 @@
 - [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) - Android permission explorer 🧑‍✈️
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 
 <a name="art"></a>
 
@@ -223,7 +224,6 @@
 - [jamescherti/enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el) - Emacs: Improved Paredit support with Evil keybindings (maintained fork of evil-paredit, available on MELPA).
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [flexibeast/ebuku](https://github.com/flexibeast/ebuku) - Emacs interface to the buku Web bookmark manager.
-- [emacs-os/systemE](https://github.com/emacs-os/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
 - [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Terminate Emacs Buffers Automatically to Enhance Emacs' Performance
 - [AndreaCrotti/yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
@@ -586,7 +586,6 @@
 - [vkazanov/advent-mode](https://github.com/vkazanov/advent-mode) - Advent of Code helper for Emacs
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [tmythicator/lichess.el](https://github.com/tmythicator/lichess.el) - A minimal Emacs client for the Lichess API
-- [ZenScriptor/avy-flash](https://github.com/ZenScriptor/avy-flash) - Vibe coded version of avy modified to mimic flash.nvim
 - [JiaweiChenC/flash-emacs](https://github.com/JiaweiChenC/flash-emacs) - Flash Emacs provides flash.nvim-like jump navigation for Emacs.
 - [purplg/hass](https://github.com/purplg/hass) - An Emacs package for interacting with Home Assistant
 - [holomorph/transmission](https://github.com/holomorph/transmission) - Emacs interface to a Transmission session
@@ -601,11 +600,9 @@
 - [MiniApollo/kickstart.emacs](https://github.com/MiniApollo/kickstart.emacs) - Blazingly fast starting point for your Emacs  configuration
 - [minad/doom-on-emacs](https://github.com/minad/doom-on-emacs) - DOOM on Emacs
 - [ArthurHeymans/emacs-alacritty](https://github.com/ArthurHeymans/emacs-alacritty) - Terminal emulation in emacs using alacritty
-- [thanhvg/emacs-howdoyou](https://github.com/thanhvg/emacs-howdoyou) - Search and read stackoverflow and its sisters’ sites
 - [gongo/emacs-riscv](https://github.com/gongo/emacs-riscv) - 
 - [rougier/agenda](https://github.com/rougier/agenda) - Plain text agenda
 - [abo-abo/ace-window](https://github.com/abo-abo/ace-window) - Quickly switch windows in Emacs
-- [lewang/spatial-window](https://github.com/lewang/spatial-window) - Jump to Emacs windows using keyboard spatial mapping
 - [magit/emacsql](https://github.com/magit/emacsql) - A high-level Emacs Lisp front-end for SQLite
 - [atomontage/xterm-color](https://github.com/atomontage/xterm-color) - ANSI & xterm-256 color text property translator for Emacs
 - [OrgTangle/ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
@@ -618,14 +615,12 @@
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility.  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs: A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility.  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
-- [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [karthink/gptel-agent](https://github.com/karthink/gptel-agent) - Agent mode for gptel
 - [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
-- [rejeep/f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs
 - [magit/with-editor](https://github.com/magit/with-editor) - Use the Emacsclient as the $EDITOR of child processes
 - [erickisos/codesnap.el](https://github.com/erickisos/codesnap.el) - Codesnap-rs integration for Emacs
 - [zkry/yaml.el](https://github.com/zkry/yaml.el) - YAML parser in Elisp
@@ -634,9 +629,12 @@
 - [juliapath/evil-numbers](https://github.com/juliapath/evil-numbers) - Increment and decrement numbers in Emacs
 - [Jeremias-A-Queiroz/eConky](https://github.com/Jeremias-A-Queiroz/eConky) - A side-buffer dashboard for Emacs inspired by Conky.
 - [yibie/chai](https://github.com/yibie/chai) - "拆" (chāi) — to dismantle, break down, and digest complex knowledge into your own understanding.
-- [emacs-os/el-init](https://github.com/emacs-os/el-init) - A statically compiled Emacs init (PID 1) patchset, Emacs Lisp-based service supervisor and core component of Emacs-OS.
 - [JonWaltman/pcmpl-args.el](https://github.com/JonWaltman/pcmpl-args.el) - Enhanced shell completion in Emacs
 - [Kirth/ewm-consult](https://github.com/Kirth/ewm-consult) - EWM Consult integration/extension
+- [SqrtMinusOne/dotfiles](https://github.com/SqrtMinusOne/dotfiles) - This road is never-ending
+- [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
+- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - [MIRROR] The path to GNUrvana
+- [riscy/melpazoid](https://github.com/riscy/melpazoid) - A bundle of CI scripts for testing Emacs packages, primarily submissions to MELPA.
 
 <a name="fonts"></a>
 
@@ -741,45 +739,18 @@
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 - [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
-- [ArthurHeymans/emacs-alacritty](https://github.com/ArthurHeymans/emacs-alacritty) - Terminal emulation in emacs using alacritty
-- [agzam/browser-hist.el](https://github.com/agzam/browser-hist.el) - Search through browser history, in Emacs
-- [thanhvg/emacs-howdoyou](https://github.com/thanhvg/emacs-howdoyou) - Search and read stackoverflow and its sisters’ sites
-- [rougier/agenda](https://github.com/rougier/agenda) - Plain text agenda
-- [boydaihungst/pref-by-location.yazi](https://github.com/boydaihungst/pref-by-location.yazi) - This is a Yazi plugin that save linemode,  sort, show_hidden preferences by location.
-- [abo-abo/ace-window](https://github.com/abo-abo/ace-window) - Quickly switch windows in Emacs
-- [lewang/spatial-window](https://github.com/lewang/spatial-window) - Jump to Emacs windows using keyboard spatial mapping
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
-- [OrgTangle/ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [Sohimaster/traur](https://github.com/Sohimaster/traur) - paru-integrated trust scoring for AUR packages written in Rust
 - [ava1ar/customizepkg](https://github.com/ava1ar/customizepkg) - A tool for Arch Linux package manager pacman to modify PKGBUILD automatically
-- [aaronjensen/emacs-popup-mode](https://github.com/aaronjensen/emacs-popup-mode) - 
-- [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
-- [rejeep/f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
-- [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
-- [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) - 🧮 Literate programming for M-x calc
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [Linus789/wl-clip-persist](https://github.com/Linus789/wl-clip-persist) - Keep Wayland clipboard even after programs close
-- [erickisos/codesnap.el](https://github.com/erickisos/codesnap.el) - Codesnap-rs integration for Emacs
-- [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
-- [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
-- [anuvyklack/hel](https://github.com/anuvyklack/hel) - Helix emulation layer for Emacs
-- [SqrtMinusOne/dotfiles](https://github.com/SqrtMinusOne/dotfiles) - This road is never-ending
-- [larstvei/ox-gfm](https://github.com/larstvei/ox-gfm) - Github Flavored Markdown Back-End for Org Export Engine
-- [Prgebish/flash](https://github.com/Prgebish/flash) - Flash-style navigation for Emacs — jump to any location with search labels
-- [juliapath/evil-numbers](https://github.com/juliapath/evil-numbers) - Increment and decrement numbers in Emacs
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
-- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
-- [minad/affe](https://github.com/minad/affe) - :monkey: affe.el - Asynchronous Fuzzy Finder for Emacs
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [JonWaltman/pcmpl-args.el](https://github.com/JonWaltman/pcmpl-args.el) - Enhanced shell completion in Emacs
 
 <a name="keyboard"></a>
 
@@ -1412,7 +1383,6 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -1627,7 +1597,7 @@
 - [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
-- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 <a name="typst"></a>
