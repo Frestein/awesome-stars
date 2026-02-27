@@ -85,6 +85,8 @@
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) - Android permission explorer 🧑‍✈️
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
+- [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 
 <a name="art"></a>
 
@@ -732,22 +734,8 @@
 
 ## 📬 Inbox
 
-- [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux 
-- [C0rn3j/sc-controller](https://github.com/C0rn3j/sc-controller) - User-mode driver and GTK3 based GUI for game controllers, including but not limited to Steam Controller
-- [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
-- [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
-- [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 - [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
-- [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
-- [Sohimaster/traur](https://github.com/Sohimaster/traur) - paru-integrated trust scoring for AUR packages written in Rust
-- [ava1ar/customizepkg](https://github.com/ava1ar/customizepkg) - A tool for Arch Linux package manager pacman to modify PKGBUILD automatically
-- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
-- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
-- [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
-- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -813,7 +801,7 @@
 - [hyprland-community/hyprland-autoname-workspaces](https://github.com/hyprland-community/hyprland-autoname-workspaces) - Hyprland autoname workspaces 🪟 [maintainers=@cyrinux,@maximbaz, @shivros] 
 - [zefr0x/ianny](https://github.com/zefr0x/ianny) - Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks.
 - [Anomalocaridid/handlr-regex](https://github.com/Anomalocaridid/handlr-regex) - Fork of handlr with support for regex
-- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
+- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - Practical and Powerful wayland compositor (dwm but wayland)
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [elParaguayo/qtile-extras](https://github.com/elParaguayo/qtile-extras) - Somewhere to store things I create for qtile that probably won't end up in the official repo
@@ -933,6 +921,9 @@
 - [ava1ar/customizepkg](https://github.com/ava1ar/customizepkg) - A tool for Arch Linux package manager pacman to modify PKGBUILD automatically
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
+- [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
+- [C0rn3j/sc-controller](https://github.com/C0rn3j/sc-controller) - User-mode driver and GTK3 based GUI for game controllers, including but not limited to Steam Controller
 
 <a name="mpv"></a>
 
@@ -1227,7 +1218,7 @@
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [jake-stewart/lazier.nvim](https://github.com/jake-stewart/lazier.nvim) - 
-- [editor-code-assistant/eca-nvim](https://github.com/editor-code-assistant/eca-nvim) - NVIM integration with ECA
+- [editor-code-assistant/eca-nvim](https://github.com/editor-code-assistant/eca-nvim) - Editor Code Assistant (ECA) integration for NVIM
 - [MironPascalCaseFan/debugmaster.nvim](https://github.com/MironPascalCaseFan/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
 - [lumen-oss/lz.n](https://github.com/lumen-oss/lz.n) - 🦥 A dead simple lazy-loading Lua library for Neovim plugins.
 - [serhez/bento.nvim](https://github.com/serhez/bento.nvim) - A minimalist and efficient, yet powerful and extensible buffer manager for Neovim.
@@ -1595,10 +1586,10 @@
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
-- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 
 <a name="typst"></a>
 
