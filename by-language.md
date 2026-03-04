@@ -397,6 +397,9 @@
 
 ## Emacs Lisp 
 
+- [gggion/let-completion.el](https://github.com/gggion/let-completion.el) - Let-binding values in Elisp completion
+- [cashmeredev/kitty-graphics.el](https://github.com/cashmeredev/kitty-graphics.el) - Display images in terminal Emacs (emacs -nw) via the Kitty graphics protocol.
+- [skx/org-people](https://github.com/skx/org-people) - Contact management for org-mode
 - [abcdw/emacs-arei](https://github.com/abcdw/emacs-arei) - Asynchronous Reliable Extensible IDE for Guile Scheme
 - [Kirth/ewm-consult](https://github.com/Kirth/ewm-consult) - EWM Consult integration/extension
 - [JonWaltman/pcmpl-args.el](https://github.com/JonWaltman/pcmpl-args.el) - Enhanced shell completion in Emacs
@@ -472,7 +475,6 @@
 - [meedstrom/el-job](https://github.com/meedstrom/el-job) - Async multicore mapcar
 - [meedstrom/dired-du-duc](https://github.com/meedstrom/dired-du-duc) - Add filesystem indexing to Dired-Du
 - [mwac-dev/grease.el](https://github.com/mwac-dev/grease.el) - Grease.el is the Oil.nvim for emacs
-- [LuciusChen/discourse-graphs](https://github.com/LuciusChen/discourse-graphs) - An Emacs org-mode implementation of the Discourse Graphs protocol for knowledge synthesis.
 - [misohena/el-vkbd](https://github.com/misohena/el-vkbd) - A software keyboard implemented in Emacs Lisp that runs inside Emacs.
 - [0WD0/majutsu](https://github.com/0WD0/majutsu) - Majutsu! Magit for jujutsu
 - [eki3z/mini-echo.el](https://github.com/eki3z/mini-echo.el) - Show buffer status in echo area , get rid of mode-line!
