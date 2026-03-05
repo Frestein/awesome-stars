@@ -394,7 +394,6 @@
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
-- [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [franzos/awesome-guix](https://github.com/franzos/awesome-guix) - Docs, Channels, example configs and more - Guix is Awesome
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -456,7 +455,6 @@
 - [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
 - [tree-sitter/tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
-- [FedeDP/Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [wlrfx/scenefx](https://github.com/wlrfx/scenefx) - A drop-in replacement for the wlroots scene API that allows wayland compositors to render surfaces with eye-candy effects
@@ -1010,7 +1008,6 @@
 - [meow-edit/meow](https://github.com/meow-edit/meow) - Yet another modal editing on Emacs / 猫态编辑
 - [Somelauw/evil-org-mode](https://github.com/Somelauw/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
 - [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit
-- [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [misohena/el-easydraw](https://github.com/misohena/el-easydraw) - Embedded drawing tool for Emacs
 - [rougier/minibuffer-header](https://github.com/rougier/minibuffer-header) - Minibuffer header for GNU/Emacs
 - [rougier/nano-toolbar](https://github.com/rougier/nano-toolbar) - Emacs toolbar in the header line
@@ -1668,7 +1665,6 @@
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
-- [FedeDP/Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
@@ -1715,7 +1711,6 @@
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland
 - [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [bus1/dbus-broker](https://github.com/bus1/dbus-broker) - Linux D-Bus Message Broker
-- [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
@@ -2280,6 +2275,8 @@
 
 ## others 
 
+- [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
+- [Ronin-CK/HyprQuickFrame](https://github.com/Ronin-CK/HyprQuickFrame) - Minimal Screenshot Utility for hyprland
 - [gggion/let-completion.el](https://github.com/gggion/let-completion.el) - Let-binding values in Elisp completion
 - [cashmeredev/kitty-graphics.el](https://github.com/cashmeredev/kitty-graphics.el) - Display images in terminal Emacs (emacs -nw) via the Kitty graphics protocol.
 - [skx/org-people](https://github.com/skx/org-people) - Contact management for org-mode
@@ -2589,8 +2586,6 @@
 - [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) - Automatic conversion of the NetBSD pkgsrc CVS module, use with care
 - [freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
 - [openbsd/ports](https://github.com/openbsd/ports) - Read-only git conversion of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
-- [VirtCode/hypr-dynamic-cursors](https://github.com/VirtCode/hypr-dynamic-cursors) - a plugin to make your hyprland cursor more realistic, also adds shake to find
-- [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [xenodium/dwim-shell-command](https://github.com/xenodium/dwim-shell-command) - Save your shell commands/scripts and apply from Emacs with ease.
 - [postsolar/tree-sitter-kanata](https://github.com/postsolar/tree-sitter-kanata) - Kanata grammar for Tree-sitter
@@ -2841,7 +2836,6 @@
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 - [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) - Imitate VSCode's "Render Whitespace" feature in visual mode
-- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
