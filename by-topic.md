@@ -446,6 +446,7 @@
 
 ## c 
 
+- [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -818,6 +819,7 @@
 
 ## dotfiles 
 
+- [SilverRainZ/chezetc](https://github.com/SilverRainZ/chezetc) - Extending chezmoi to manage files under `/etc` and other root-owned directories
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
@@ -2276,6 +2278,8 @@
 
 ## others 
 
+- [VorpalBlade/paketkoll](https://github.com/VorpalBlade/paketkoll) - Check installed distro files for changes
+- [Lymphatus/caesium-clt](https://github.com/Lymphatus/caesium-clt) - Caesium Command Line Tools - Lossy/lossless image compression tool
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [Ronin-CK/HyprQuickFrame](https://github.com/Ronin-CK/HyprQuickFrame) - Minimal Screenshot Utility for hyprland
