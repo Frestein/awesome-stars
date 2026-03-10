@@ -125,7 +125,7 @@
 - [marlam/msmtp](https://github.com/marlam/msmtp) - SMTP client with sendmail compatible interface
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [facebook/openzl](https://github.com/facebook/openzl) - A novel data compression framework
-- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
+- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [evanpurkhiser/linux-vt-setcolors](https://github.com/evanpurkhiser/linux-vt-setcolors) - Utility tool to set the linux VT default color palette
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
@@ -393,6 +393,7 @@
 
 ## Emacs Lisp 
 
+- [whhone/markdown-indent-mode](https://github.com/whhone/markdown-indent-mode) - An Emacs minor mode for dynamic virtual indentation in Markdown, similar to org-indent-mode in Org mode.
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [gggion/let-completion.el](https://github.com/gggion/let-completion.el) - Let-binding values in Elisp completion
 - [cashmeredev/kitty-graphics.el](https://github.com/cashmeredev/kitty-graphics.el) - Display images in terminal Emacs (emacs -nw) via the Kitty graphics protocol.
@@ -951,7 +952,7 @@
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -985,6 +986,7 @@
 
 ## Haskell 
 
+- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official Haskell IDE support via the language server protocol (LSP)
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
@@ -1904,7 +1906,6 @@
 
 ## Shell 
 
-- [SilverRainZ/chezetc](https://github.com/SilverRainZ/chezetc) - Extending chezmoi to manage files under `/etc` and other root-owned directories
 - [ava1ar/customizepkg](https://github.com/ava1ar/customizepkg) - A tool for Arch Linux package manager pacman to modify PKGBUILD automatically
 - [Enovale/doas-sudo-shim](https://github.com/Enovale/doas-sudo-shim) - sudo shim for doas
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
@@ -1979,7 +1980,7 @@
 - [cxxxr/cl-lsp](https://github.com/cxxxr/cl-lsp) - An implementation of the Language Server Protocol for Common Lisp
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
