@@ -415,7 +415,7 @@
 - [karthink/gptel-agent](https://github.com/karthink/gptel-agent) - Agent mode for gptel
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs: A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility.  Inline 4K images/4K videos/W
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs: A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
@@ -891,6 +891,7 @@
 - [cdarwin/go-koans](https://github.com/cdarwin/go-koans) - koans for go
 - [hyprland-community/hyprls](https://github.com/hyprland-community/hyprls) - A LSP server for Hyprland config files [maintainer=@gwennlbh]
 - [HenryLoM/CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi) - CLI ASCII avatar for entertainment and motivational purposes
+- [hyperion-cs/dpi-checkers](https://github.com/hyperion-cs/dpi-checkers) - Checkers to test your internet provider for censorship.
 - [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - A tui greeter (not built in rust)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
@@ -1037,7 +1038,6 @@
 - [GerardoCendejas/org-roam-timeline](https://github.com/GerardoCendejas/org-roam-timeline) - Interactive timeline visualization for Org-roam.
 - [openscad/tree-sitter-openscad](https://github.com/openscad/tree-sitter-openscad) - Incremental parser for OpenSCAD using tree-sitter
 - [alaviss/tree-sitter-nim](https://github.com/alaviss/tree-sitter-nim) - tree-sitter grammar for Nim
-- [hyperion-cs/dpi-checkers](https://github.com/hyperion-cs/dpi-checkers) - Checkers to test your internet provider for censorship.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [the-mikedavis/tree-sitter-git-commit](https://github.com/the-mikedavis/tree-sitter-git-commit) - A tree-sitter grammar for git commit messages
@@ -1875,7 +1875,7 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
