@@ -616,7 +616,7 @@
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs: A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility.  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs: A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [karthink/gptel-agent](https://github.com/karthink/gptel-agent) - Agent mode for gptel
@@ -1349,7 +1349,7 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
@@ -1556,7 +1556,7 @@
 - [HenryLoM/CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi) - CLI ASCII avatar for entertainment and motivational purposes
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
