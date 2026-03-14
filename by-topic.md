@@ -1041,7 +1041,7 @@
 - [meain/evil-textobj-tree-sitter](https://github.com/meain/evil-textobj-tree-sitter) - Tree-sitter powered textobjects for evil mode in Emacs
 - [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Auto Byte/Native-Compile all Elisp files, to Speed up Emacs
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Indentation based Folding for Emacs (Supersedes legacy packages such as origami.el and yafolding.el)
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter
 - [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Easily persist and restore Emacs file buffers, Magit buffers, scratch, Dired, narrowing, indirect buffers (clones), windows, and tab-bar configurations; a robust desktop.el replacement
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [federicotdn/verb](https://github.com/federicotdn/verb) - HTTP client for Emacs
@@ -2312,7 +2312,7 @@
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [ava1ar/customizepkg](https://github.com/ava1ar/customizepkg) - A tool for Arch Linux package manager pacman to modify PKGBUILD automatically
-- [Sohimaster/traur](https://github.com/Sohimaster/traur) - paru-integrated trust scoring for AUR packages written in Rust
+- [Sohimaster/traur](https://github.com/Sohimaster/traur) - trust scoring for AUR packages written in Rust
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [suzzvv/eshell-prompt-extras](https://github.com/suzzvv/eshell-prompt-extras) - Display extra information and color for your eshell prompt.
