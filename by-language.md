@@ -1158,7 +1158,7 @@
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [boydaihungst/pref-by-location.yazi](https://github.com/boydaihungst/pref-by-location.yazi) - This is a Yazi plugin that save linemode,  sort, show_hidden preferences by location.
 - [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi) - The first Yazi plugin for customizing both header-line and status-line.
-- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin to detect and chdir to the project root, with its own UI. Supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.
+- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin to detect and chdir to the project root, with its own UI. Provides lualine component, supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [Frestein/russian-layout.mpv](https://github.com/Frestein/russian-layout.mpv) - [mirror] Russian layout bindings for mpv
 - [alberti42/faster-piper.yazi](https://github.com/alberti42/faster-piper.yazi) - Pipe any shell command as a cached previewer.
