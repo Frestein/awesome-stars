@@ -389,6 +389,7 @@
 - [thebigcicca/awesome-lem](https://github.com/thebigcicca/awesome-lem) - A curated list of lem editor resources.
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
 - [npupko/awesome-helix](https://github.com/npupko/awesome-helix) - A curated list of awesome Helix editor resources, plugins, themes, and tools.
+- [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [tijn/awesome-password-store](https://github.com/tijn/awesome-password-store) - A collection of awesome pass extensions and interfaces (for zx2c4's pass)
 - [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
@@ -1627,6 +1628,7 @@
 
 ## learning 
 
+- [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -2560,7 +2562,6 @@
 - [telotortium/org-pomodoro-third-time](https://github.com/telotortium/org-pomodoro-third-time) - Adapt org-pomodoro to implement the Third Time system
 - [SqrtMinusOne/reverso.el](https://github.com/SqrtMinusOne/reverso.el) - Emacs client for https://www.reverso.net/: translation, grammar check, context and synonyms search
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
-- [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) - An Emacs plugin that hides (or masks) the current buffer's mode-line
 - [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
 - [peterfication/mux.yazi](https://github.com/peterfication/mux.yazi) - Yazi previewer multiplexer
