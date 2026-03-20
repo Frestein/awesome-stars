@@ -772,7 +772,7 @@
 - [SqrtMinusOne/elfeed-summary](https://github.com/SqrtMinusOne/elfeed-summary) - Feed summary interface for elfeed
 - [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
 - [anticomputer/age.el](https://github.com/anticomputer/age.el) - Transparent age encryption support for Emacs modeled after EPG/EPA
-- [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Terminate Emacs Buffers Automatically to Enhance Emacs' Performance
+- [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Auto Kill Emacs Buffers Automatically to Enhance Emacs' Performance
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
 - [flexibeast/ebuku](https://github.com/flexibeast/ebuku) - Emacs interface to the buku Web bookmark manager.
 - [jamescherti/enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el) - Emacs: Improved Paredit support with Evil keybindings (maintained fork of evil-paredit, available on MELPA).
