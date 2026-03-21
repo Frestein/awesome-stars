@@ -737,7 +737,8 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [haithium/hyprkan](https://github.com/haithium/hyprkan) - App-aware Kanata layer switcher for Linux
+- [7mind/kanata-switcher](https://github.com/7mind/kanata-switcher) - Kanata layer switcher based on focused application, for *all* Linux desktop environments  (Wayland and X11)
 
 <a name="keyboard"></a>
 
