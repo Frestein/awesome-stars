@@ -110,6 +110,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jetpack-compose](#jetpack-compose)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
 - [kali-linux](#kali-linux)
@@ -1553,6 +1554,18 @@
 ## jekyll 
 
 - [precondition/precondition.github.io](https://github.com/precondition/precondition.github.io) - Personal Weblog with tools and guides for QMK keyboards. Home of the home row mods guide
+
+## jetpack-compose 
+
+- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [ghostbyte-dev/pixelix](https://github.com/ghostbyte-dev/pixelix) - Pixelfed client for Android and iOS
+- [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+- [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
+- [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+- [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) - Another unofficial Android AniList client
 
 ## json 
 
