@@ -754,7 +754,7 @@
 
 ## dependency-management 
 
-- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
+- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 - [fosskers/vend](https://github.com/fosskers/vend) - Manage your Common Lisp project dependencies.
 
 ## deployment 
@@ -2304,6 +2304,7 @@
 
 ## others 
 
+- [Jeffrey-Sardina/systemd](https://github.com/Jeffrey-Sardina/systemd) - Liberated systemd -- no surveillance. Ever.
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [emacsorphanage/quickrun](https://github.com/emacsorphanage/quickrun) - Run command quickly. This packages is inspired quickrun.vim
 - [the-nexi/yggtray](https://github.com/the-nexi/yggtray) - A system tray application for managing Yggdrasil service
@@ -3109,7 +3110,7 @@
 
 ## package-manager 
 
-- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
+- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [typst-community/utpm](https://github.com/typst-community/utpm) - A package manager for local and remote Typst packages.
@@ -3244,7 +3245,7 @@
 
 ## python 
 
-- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
+- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 - [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
