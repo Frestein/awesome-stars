@@ -925,6 +925,7 @@
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
+- [Jeffrey-Sardina/systemd](https://github.com/Jeffrey-Sardina/systemd) - Liberated systemd -- no surveillance. Ever.
 
 <a name="mpv"></a>
 
@@ -1334,7 +1335,7 @@
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
-- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
+- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 
 <a name="shell"></a>
 
