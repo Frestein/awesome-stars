@@ -94,6 +94,7 @@
 
 ## C 
 
+- [Jeffrey-Sardina/systemd](https://github.com/Jeffrey-Sardina/systemd) - Liberated systemd -- no surveillance. Ever.
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [minad/doom-on-emacs](https://github.com/minad/doom-on-emacs) - DOOM on Emacs
 - [sandwichfarm/hyprlax](https://github.com/sandwichfarm/hyprlax) - buttery smooth parallax wallpaper daemon for wayland compositors
@@ -1706,7 +1707,7 @@
 
 ## Rust 
 
-- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
+- [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 - [7mind/kanata-switcher](https://github.com/7mind/kanata-switcher) - Kanata layer switcher based on focused application, for *all* Linux desktop environments  (Wayland and X11)
 - [LowderPlay/cheburcheck](https://github.com/LowderPlay/cheburcheck) - Сайт для проверки блокировок в России
 - [VorpalBlade/paketkoll](https://github.com/VorpalBlade/paketkoll) - Check installed distro files for changes
