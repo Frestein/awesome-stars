@@ -737,7 +737,7 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [C24Be/AS_Network_List](https://github.com/C24Be/AS_Network_List) - Blacklists generator of subnets of Russian government agencies for blocking them on one's servers.
 
 <a name="keyboard"></a>
 
