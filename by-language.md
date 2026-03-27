@@ -1596,6 +1596,7 @@
 
 ## Python 
 
+- [C24Be/AS_Network_List](https://github.com/C24Be/AS_Network_List) - Blacklists generator of subnets of Russian government agencies for blocking them on one's servers.
 - [riscy/melpazoid](https://github.com/riscy/melpazoid) - A bundle of CI scripts for testing Emacs packages, primarily submissions to MELPA.
 - [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest media downloader
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
