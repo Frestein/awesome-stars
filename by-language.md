@@ -1010,7 +1010,7 @@
 
 ## Java 
 
-- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Modern Telegram client
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android based on TDLib
 - [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
