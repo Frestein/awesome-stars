@@ -642,6 +642,7 @@
 - [whhone/markdown-indent-mode](https://github.com/whhone/markdown-indent-mode) - An Emacs minor mode for dynamic virtual indentation in Markdown, similar to org-indent-mode in Org mode.
 - [emacsorphanage/quickrun](https://github.com/emacsorphanage/quickrun) - Run command quickly. This packages is inspired quickrun.vim
 - [kickingvegas/anju](https://github.com/kickingvegas/anju) - An Elisp package for customizing Emacs mouse interactions.
+- [tali713/esxml](https://github.com/tali713/esxml) - An elisp library for working with xml, esxml and sxml.
 
 <a name="fonts"></a>
 
@@ -742,6 +743,7 @@
 - [C24Be/AS_Network_List](https://github.com/C24Be/AS_Network_List) - Blacklists generator of subnets of Russian government agencies for blocking them on one's servers.
 - [kickingvegas/anju](https://github.com/kickingvegas/anju) - An Elisp package for customizing Emacs mouse interactions.
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
+- [tali713/esxml](https://github.com/tali713/esxml) - An elisp library for working with xml, esxml and sxml.
 
 <a name="keyboard"></a>
 
