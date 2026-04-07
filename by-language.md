@@ -222,7 +222,7 @@
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
-- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
+- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [timschneeb/RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
@@ -400,6 +400,7 @@
 
 ## Emacs Lisp 
 
+- [Prgebish/evim](https://github.com/Prgebish/evim) - Multiple cursors for evil-mode, inspired by vim-visual-multi
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
 - [tali713/esxml](https://github.com/tali713/esxml) - An elisp library for working with xml, esxml and sxml.
 - [kickingvegas/anju](https://github.com/kickingvegas/anju) - An Elisp package for customizing Emacs mouse interactions.
@@ -571,7 +572,6 @@
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [yibie/org-luhmann](https://github.com/yibie/org-luhmann) - Luhmann's numbering system for org-mode
 - [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
-- [kidd/org-gcal.el](https://github.com/kidd/org-gcal.el) - Org sync with Google Calendar.  (active maintained project as of 2019-11-06)
 - [xzz53/mu4e-alert](https://github.com/xzz53/mu4e-alert) - Desktop notifications and modeline display for mu4e
 - [Artawower/file-info.el](https://github.com/Artawower/file-info.el) - All necessary information about current file in hydra + posframe
 - [Artawower/turbo-log](https://github.com/Artawower/turbo-log) - Fast log message inserting for quick debug.
@@ -857,7 +857,6 @@
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD with org-mode
-- [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [sp1ff/elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
