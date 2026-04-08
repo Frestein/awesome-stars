@@ -453,6 +453,7 @@
 
 ## c 
 
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -903,7 +904,7 @@
 - [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - A metacircular modal UI framework.
 - [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
 - [leotaku/elisp-check](https://github.com/leotaku/elisp-check) - A GitHub Action for Emacs Lisp CI
-- [deirn/mason.el](https://github.com/deirn/mason.el) - Package manager for LSP, DAP, linters, and more for the Emacs Operating System
+- [mason-org/mason.el](https://github.com/mason-org/mason.el) - Package manager for LSP, DAP, linters, and more for the Emacs Operating System
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Efficient file-naming scheme to organise files and write notes with Emacs
 - [alphapapa/listen.el](https://github.com/alphapapa/listen.el) - Audio/music player for Emacs
 - [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
@@ -1242,6 +1243,7 @@
 
 ## go 
 
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [rszyma/kanata-tray](https://github.com/rszyma/kanata-tray) - Tray Icon for Kanata
@@ -1617,6 +1619,7 @@
 
 ## language 
 
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [jcubic/lips](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter in JavaScript
