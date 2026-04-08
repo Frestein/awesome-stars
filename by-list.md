@@ -519,7 +519,7 @@
 - [gggion/org-transclusion-blocks](https://github.com/gggion/org-transclusion-blocks) - Header based transclusion framework
 - [purcell/page-break-lines](https://github.com/purcell/page-break-lines) - Emacs: display ugly ^L page breaks as tidy horizontal lines
 - [kwrooijen/anzu-overlay](https://github.com/kwrooijen/anzu-overlay) - 
-- [deirn/mason.el](https://github.com/deirn/mason.el) - Package manager for LSP, DAP, linters, and more for the Emacs Operating System
+- [mason-org/mason.el](https://github.com/mason-org/mason.el) - Package manager for LSP, DAP, linters, and more for the Emacs Operating System
 - [pope/ob-go](https://github.com/pope/ob-go) - Org-Babel support for evaluating go code.
 - [leotaku/elisp-check](https://github.com/leotaku/elisp-check) - A GitHub Action for Emacs Lisp CI
 - [ag91/emacs-with-nyxt](https://github.com/ag91/emacs-with-nyxt) - Some code to make Emacs interact with Nyxt
@@ -742,6 +742,7 @@
 
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
 - [Prgebish/evim](https://github.com/Prgebish/evim) - Multiple cursors for evil-mode, inspired by vim-visual-multi
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 
 <a name="keyboard"></a>
 
