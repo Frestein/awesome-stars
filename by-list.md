@@ -612,7 +612,7 @@
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs: A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [karthink/gptel-agent](https://github.com/karthink/gptel-agent) - Agent mode for gptel
@@ -743,6 +743,7 @@
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
 - [Prgebish/evim](https://github.com/Prgebish/evim) - Multiple cursors for evil-mode, inspired by vim-visual-multi
 - [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
+- [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
 
 <a name="keyboard"></a>
 
@@ -867,7 +868,7 @@
 - [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, Wayland Compositor
 - [Cudiph/cwcwm](https://github.com/Cudiph/cwcwm) - Hackable wayland compositor
 - [Sublimeful/wlsbg](https://github.com/Sublimeful/wlsbg) - Wallpaper tool with shader support for Wayland compositors
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
@@ -931,6 +932,7 @@
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [Jeffrey-Sardina/systemd](https://github.com/Jeffrey-Sardina/systemd) - Liberated systemd -- no surveillance. Ever.
+- [josephdunn/idlers](https://github.com/josephdunn/idlers) - A Wayland idle daemon written in Rust
 
 <a name="mpv"></a>
 
