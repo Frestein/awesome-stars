@@ -454,7 +454,6 @@
 - [gggion/duckdb-query.el](https://github.com/gggion/duckdb-query.el) - DuckDB SQL query results as native Elisp data structures
 - [holomorph/transmission](https://github.com/holomorph/transmission) - Emacs interface to a Transmission session
 - [purplg/hass](https://github.com/purplg/hass) - An Emacs package for interacting with Home Assistant
-- [JiaweiChenC/flash-emacs](https://github.com/JiaweiChenC/flash-emacs) - Flash Emacs provides flash.nvim-like jump navigation for Emacs.
 - [tmythicator/lichess.el](https://github.com/tmythicator/lichess.el) - A minimal Emacs client for the Lichess API
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [vkazanov/advent-mode](https://github.com/vkazanov/advent-mode) - Advent of Code helper for Emacs
@@ -1870,7 +1869,7 @@
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
