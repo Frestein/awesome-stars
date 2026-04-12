@@ -1722,6 +1722,7 @@
 
 ## Rust 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [josephdunn/idlers](https://github.com/josephdunn/idlers) - A Wayland idle daemon written in Rust
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
