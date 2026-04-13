@@ -739,11 +739,7 @@
 
 ## 📬 Inbox
 
-- [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
-- [Prgebish/evim](https://github.com/Prgebish/evim) - Multiple cursors for evil-mode, inspired by vim-visual-multi
-- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
-- [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- No repositories
 
 <a name="keyboard"></a>
 
