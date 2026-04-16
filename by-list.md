@@ -88,6 +88,7 @@
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android based on TDLib
+- [chenxiaolong/BasicSync](https://github.com/chenxiaolong/BasicSync) - A simple app for running Syncthing on Android
 
 <a name="art"></a>
 
@@ -741,6 +742,7 @@
 ## 📬 Inbox
 
 - [CsBigDataHub/popterm.el](https://github.com/CsBigDataHub/popterm.el) - Smart Emacs terminal toggler with posframe/window/fullscreen display, vterm/eat/shell/eshell backends, named instances, project-scoped cycling, and TRAMP-aware cd.
+- [chenxiaolong/BasicSync](https://github.com/chenxiaolong/BasicSync) - A simple app for running Syncthing on Android
 
 <a name="keyboard"></a>
 
