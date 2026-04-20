@@ -833,6 +833,7 @@
 
 ## dotfiles 
 
+- [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
@@ -1769,7 +1770,6 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
@@ -2315,6 +2315,8 @@
 
 ## others 
 
+- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
+- [vic/den](https://github.com/vic/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
 - [PipeWire/wireplumber](https://github.com/PipeWire/wireplumber) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/wireplumber/)
 - [netmute/ctags-lsp](https://github.com/netmute/ctags-lsp) - LSP implementation using universal-ctags as backend
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
@@ -2500,7 +2502,6 @@
 - [kwrooijen/wisdom](https://github.com/kwrooijen/wisdom) - Structured, Literate Emacs configuration framework
 - [protesilaos/pulsar](https://github.com/protesilaos/pulsar) - Emacs package to pulse the current line after running select functions.
 - [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
-- [WiVRn/WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [Fuco1/litable](https://github.com/Fuco1/litable) - On-the-fly evaluation/substitution of emacs lisp code
@@ -2897,7 +2898,6 @@
 - [WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher) - An automation tool for OBS Studio
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [C0rn3j/sc-controller](https://github.com/C0rn3j/sc-controller) - User-mode driver and GTK3 based GUI for game controllers, including but not limited to Steam Controller
-- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [elParaguayo/qtile-extras](https://github.com/elParaguayo/qtile-extras) - Somewhere to store things I create for qtile that probably won't end up in the official repo
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
