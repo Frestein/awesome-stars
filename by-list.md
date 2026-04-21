@@ -645,6 +645,8 @@
 - [Prgebish/evim](https://github.com/Prgebish/evim) - Multiple cursors for evil-mode, inspired by vim-visual-multi
 - [CsBigDataHub/popterm.el](https://github.com/CsBigDataHub/popterm.el) - Smart Emacs terminal toggler with posframe/window/fullscreen display, vterm/eat/shell/eshell backends, named instances, project-scoped cycling, and TRAMP-aware cd.
 - [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
+- [james-stoup/org-mode-table-tutorial](https://github.com/james-stoup/org-mode-table-tutorial) - A simplified guide to mastering Org Mode table functions
+- [alvarogonzalezsotillo/flycheck-hl-todo](https://github.com/alvarogonzalezsotillo/flycheck-hl-todo) - Display hl-todo keywords as messages in flycheck
 
 <a name="fonts"></a>
 
@@ -742,6 +744,7 @@
 
 - [CsBigDataHub/popterm.el](https://github.com/CsBigDataHub/popterm.el) - Smart Emacs terminal toggler with posframe/window/fullscreen display, vterm/eat/shell/eshell backends, named instances, project-scoped cycling, and TRAMP-aware cd.
 - [chenxiaolong/BasicSync](https://github.com/chenxiaolong/BasicSync) - A simple app for running Syncthing on Android
+- [alvarogonzalezsotillo/flycheck-hl-todo](https://github.com/alvarogonzalezsotillo/flycheck-hl-todo) - Display hl-todo keywords as messages in flycheck
 
 <a name="keyboard"></a>
 
@@ -906,7 +909,6 @@
 - [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator
-- [Enovale/doas-sudo-shim](https://github.com/Enovale/doas-sudo-shim) - sudo shim for doas
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wayland compositors.
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) -   inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [Nomadcxx/gSlapper](https://github.com/Nomadcxx/gSlapper) - A wallpaper utility that handles static images and a huge number of video types via gstreamer.
@@ -1309,7 +1311,7 @@
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
 - [hyprwm/hyprnix](https://github.com/hyprwm/hyprnix) - HyprWM Nix Repository
 - [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
-- [vic/den](https://github.com/vic/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
+- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.
 
 <a name="pass"></a>
