@@ -868,7 +868,6 @@
 ## emacs 
 
 - [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
-- [CsBigDataHub/popterm.el](https://github.com/CsBigDataHub/popterm.el) - Smart Emacs terminal toggler with posframe/window/fullscreen display, vterm/eat/shell/eshell backends, named instances, project-scoped cycling, and TRAMP-aware cd.
 - [whhone/markdown-indent-mode](https://github.com/whhone/markdown-indent-mode) - An Emacs minor mode for dynamic virtual indentation in Markdown, similar to org-indent-mode in Org mode.
 - [Jeremias-A-Queiroz/eConky](https://github.com/Jeremias-A-Queiroz/eConky) - A side-buffer dashboard for Emacs inspired by Conky.
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
@@ -2315,6 +2314,8 @@
 
 ## others 
 
+- [Frestein/qute-translate-popup](https://github.com/Frestein/qute-translate-popup) - 🌐 Display selected text translation in a Qutebrowser popup window!
+- [archlinux/alpm](https://github.com/archlinux/alpm) - Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
 - [alvarogonzalezsotillo/flycheck-hl-todo](https://github.com/alvarogonzalezsotillo/flycheck-hl-todo) - Display hl-todo keywords as messages in flycheck
 - [james-stoup/org-mode-table-tutorial](https://github.com/james-stoup/org-mode-table-tutorial) - A simplified guide to mastering Org Mode table functions
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
@@ -2843,7 +2844,6 @@
 - [yibie/org-supertag](https://github.com/yibie/org-supertag) - Implement a modern note-taking app style in Org-mode.
 - [yibie/org-include-inline](https://github.com/yibie/org-include-inline) - A minor mode for Org mode that displays #+INCLUDE directive contents inline within your Org buffers.
 - [jdtsmith/eglot-booster](https://github.com/jdtsmith/eglot-booster) - Boost eglot using lsp-booster
-- [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [marchaesen/st-wl](https://github.com/marchaesen/st-wl) - st for wayland - in sync with upstream suckless st
 - [jjsullivan5196/wvkbd](https://github.com/jjsullivan5196/wvkbd) - On-screen keyboard for wlroots
 - [linktohack/evil-commentary](https://github.com/linktohack/evil-commentary) - Comment stuff out. A port of vim-commentary
