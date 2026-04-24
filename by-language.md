@@ -886,6 +886,7 @@
 
 ## Go 
 
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [netmute/ctags-lsp](https://github.com/netmute/ctags-lsp) - LSP implementation using universal-ctags as backend
 - [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
 - [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
@@ -1465,6 +1466,7 @@
 
 ## Nix 
 
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [turnerdev/janet-nix](https://github.com/turnerdev/janet-nix) - Nix helpers for Janet
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
