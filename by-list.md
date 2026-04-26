@@ -140,6 +140,7 @@
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [mahmoodsh36/cltpt](https://github.com/mahmoodsh36/cltpt) - common lisp text processing tool
 - [mahmoodsh36/organ-mode](https://github.com/mahmoodsh36/organ-mode) - an alternative to org-mode for lem
+- [parenworks/sextant](https://github.com/parenworks/sextant) - Sextant - A Common Lisp Language Server Protocol (LSP) implementation
 
 <a name="emacs"></a>
 
@@ -1598,7 +1599,7 @@
 - [atuan26/warpd](https://github.com/atuan26/warpd) - A modal keyboard-driven virtual pointer with advanced feature
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a stat()-based backend.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
