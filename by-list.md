@@ -91,7 +91,10 @@
 - [chenxiaolong/BasicSync](https://github.com/chenxiaolong/BasicSync) - A simple app for running Syncthing on Android
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
 - [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) - Source code of Package Manager, an Application to Manage your Apps.
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android 
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
+- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 
 <a name="art"></a>
 
@@ -147,9 +150,6 @@
 ## 🧙🏽‍♀️ Emacs
 
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
-- [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
-- [sp1ff/elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
-- [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) -   Configure the Elfeed RSS reader with an Orgmode file
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD with org-mode 
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
@@ -234,12 +234,9 @@
 - [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Auto Kill Emacs Buffers Automatically to Enhance Emacs' Performance
 - [AndreaCrotti/yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
 - [anticomputer/age.el](https://github.com/anticomputer/age.el) - Transparent age encryption support for Emacs modeled after EPG/EPA
-- [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
-- [SqrtMinusOne/elfeed-summary](https://github.com/SqrtMinusOne/elfeed-summary) - Feed summary interface for elfeed
 - [MatthewZMD/emigo](https://github.com/MatthewZMD/emigo) - Future of Agentic Development in Emacs
 - [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [rougier/svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
-- [rougier/nano-elfeed](https://github.com/rougier/nano-elfeed) - Emacs configuration file for elfeed (news reader)
 - [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e) - Alternative layour for mu4e
 - [rougier/nano-read](https://github.com/rougier/nano-read) - Alternartive read functions for GNU Emacs
 - [rougier/nano-theme](https://github.com/rougier/nano-theme) - GNU Emacs / N Λ N O Theme
@@ -290,7 +287,6 @@
 - [s-kostyaev/ellama](https://github.com/s-kostyaev/ellama) - Ellama is a tool for interacting with large language models from Emacs.
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
 - [tarsius/hl-todo](https://github.com/tarsius/hl-todo) - Highlight TODO keywords
-- [jeetelongname/elfeed-goodies](https://github.com/jeetelongname/elfeed-goodies) - Various goodies for Elfeed
 - [7696122/evil-terminal-cursor-changer](https://github.com/7696122/evil-terminal-cursor-changer) - :smiling_imp: Chagning cursor by mode for evil on terminal.
 - [benotn/kkp](https://github.com/benotn/kkp) - Emacs support for the Kitty Keyboard Protocol
 - [spudlyo/clipetty](https://github.com/spudlyo/clipetty) - Manipulate the system (clip)board with (e)macs from a (tty)
@@ -746,6 +742,10 @@
 
 - [casouri/ftable](https://github.com/casouri/ftable) - Fill (auto-layout) tables
 - [7696122/evil-terminal-cursor-changer](https://github.com/7696122/evil-terminal-cursor-changer) - :smiling_imp: Chagning cursor by mode for evil on terminal.
+- [cosmos72/schemesh](https://github.com/cosmos72/schemesh) - A Unix shell and Lisp REPL, fused together
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
+- [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
+- [Seafoam-Labs/Starfish](https://github.com/Seafoam-Labs/Starfish) - Depdency Viewer For Arch Packages
 
 <a name="keyboard"></a>
 
