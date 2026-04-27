@@ -75,6 +75,7 @@
 - [eslint](#eslint)
 - [express](#express)
 - [finance](#finance)
+- [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -140,6 +141,7 @@
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
+- [mobile](#mobile)
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
@@ -269,7 +271,10 @@
 
 ## android 
 
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
+- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
@@ -338,6 +343,8 @@
 
 ## archlinux 
 
+- [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [dracut-ng/dracut-ng](https://github.com/dracut-ng/dracut-ng) - dracut - the event driven initramfs infrastructure
 - [fosskers/cargo-aur](https://github.com/fosskers/cargo-aur) - Prepare Rust projects to be released on the Arch Linux User Repository.
@@ -550,6 +557,7 @@
 
 ## cli 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
@@ -711,6 +719,7 @@
 
 ## cpp 
 
+- [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
@@ -857,6 +866,7 @@
 
 ## dotnet 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 
 ## education 
@@ -1025,7 +1035,6 @@
 - [vedang/pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 - [spudlyo/clipetty](https://github.com/spudlyo/clipetty) - Manipulate the system (clip)board with (e)macs from a (tty)
 - [benotn/kkp](https://github.com/benotn/kkp) - Emacs support for the Kitty Keyboard Protocol
-- [jeetelongname/elfeed-goodies](https://github.com/jeetelongname/elfeed-goodies) - Various goodies for Elfeed
 - [doomemacs/themes](https://github.com/doomemacs/themes) - A megapack of themes for GNU Emacs.
 - [FrostyX/dired-open-with](https://github.com/FrostyX/dired-open-with) - An 'Open with' dialog for opening files in external applications from Dired.
 - [Artawower/blamer.el](https://github.com/Artawower/blamer.el) - A git blame plugin for emacs inspired by VS Code's GitLens plugin
@@ -1050,7 +1059,6 @@
 - [rougier/nano-modeline](https://github.com/rougier/nano-modeline) - GNU Emacs / N Λ N O Modeline
 - [rougier/nano-theme](https://github.com/rougier/nano-theme) - GNU Emacs / N Λ N O Theme
 - [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e) - Alternative layour for mu4e
-- [rougier/nano-elfeed](https://github.com/rougier/nano-elfeed) - Emacs configuration file for elfeed (news reader)
 - [rougier/svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
 - [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [AndreaCrotti/yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
@@ -1096,8 +1104,6 @@
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
-- [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
-- [sp1ff/elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## embedded 
@@ -1119,6 +1125,10 @@
 ## finance 
 
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+
+## firebase 
+
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 
 ## firefox 
 
@@ -1368,6 +1378,7 @@
 
 ## google 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) - Use your favorite machine translation engines without having to leave your favorite editor.
@@ -1554,6 +1565,7 @@
 
 ## java 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -1586,7 +1598,6 @@
 
 ## jetpack-compose 
 
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
@@ -1621,6 +1632,7 @@
 
 ## kotlin 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
@@ -1688,6 +1700,7 @@
 
 ## linux 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [7mind/kanata-switcher](https://github.com/7mind/kanata-switcher) - Kanata layer switcher based on focused application, for *all* Linux desktop environments  (Wayland and X11)
@@ -2018,6 +2031,10 @@
 
 - [FreesmTeam/FreesmLauncher](https://github.com/FreesmTeam/FreesmLauncher) - A Prism Launcher fork aimed to provide a free way to play Minecraft
 
+## mobile 
+
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+
 ## monitoring 
 
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -2337,6 +2354,8 @@
 
 ## others 
 
+- [Seafoam-Labs/Starfish](https://github.com/Seafoam-Labs/Starfish) - Depdency Viewer For Arch Packages
+- [cosmos72/schemesh](https://github.com/cosmos72/schemesh) - A Unix shell and Lisp REPL, fused together
 - [parenworks/sextant](https://github.com/parenworks/sextant) - Sextant - A Common Lisp Language Server Protocol (LSP) implementation
 - [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) - Source code of Package Manager, an Application to Manage your Apps.
 - [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainers=@water-sucks,@Sporif]
@@ -2890,8 +2909,6 @@
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [MatthewZMD/emigo](https://github.com/MatthewZMD/emigo) - Future of Agentic Development in Emacs
-- [SqrtMinusOne/elfeed-summary](https://github.com/SqrtMinusOne/elfeed-summary) - Feed summary interface for elfeed
-- [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
 - [anticomputer/age.el](https://github.com/anticomputer/age.el) - Transparent age encryption support for Emacs modeled after EPG/EPA
 - [saghen/blink.compat](https://github.com/saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
 - [saghen/blink.pick](https://github.com/saghen/blink.pick) - Performant, modular picker plugin for Neovim
@@ -2999,7 +3016,6 @@
 - [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. inspired by Zed.
 - [elogind/elogind](https://github.com/elogind/elogind) - The systemd project's "logind", extracted to a standalone package
 - [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) - Proof-of-origin token provider plugin for yt-dlp
-- [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
@@ -3159,6 +3175,7 @@
 
 ## package-manager 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
@@ -3919,6 +3936,7 @@
 
 ## youtube 
 
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
