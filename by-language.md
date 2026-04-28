@@ -208,7 +208,7 @@
 - [hunkyburrito/xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser) - xdg-desktop-portal backend for choosing files with your favorite file chooser
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
@@ -405,8 +405,9 @@
 
 ## Emacs Lisp 
 
+- [emacsmirror/gcmh](https://github.com/emacsmirror/gcmh) - The Garbage Collector Magic Hack
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
-- [Frestein/smart-cursor-color](https://github.com/Frestein/smart-cursor-color) - :droplet: Context-aware cursor color for Emacs
+- [Frestein/smart-cursor-color](https://github.com/Frestein/smart-cursor-color) - :droplet: Context-aware cursor color
 - [casouri/ftable](https://github.com/casouri/ftable) - Fill (auto-layout) tables
 - [alvarogonzalezsotillo/flycheck-hl-todo](https://github.com/alvarogonzalezsotillo/flycheck-hl-todo) - Display hl-todo keywords as messages in flycheck
 - [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
@@ -1544,6 +1545,7 @@
 
 ## Others 
 
+- [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
 - [james-stoup/org-mode-table-tutorial](https://github.com/james-stoup/org-mode-table-tutorial) - A simplified guide to mastering Org Mode table functions
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
@@ -1963,7 +1965,6 @@
 - [stal-ix/stalix](https://github.com/stal-ix/stalix) - STAtically LInked LInuX, based on IX package manager
 - [stal-ix/ix](https://github.com/stal-ix/ix) - ix package manager, statically build packages, for darwin/linux, with clang
 - [CachyOS/copr-linux-cachyos](https://github.com/CachyOS/copr-linux-cachyos) - CachyOS Packages for Fedora
-- [Antynea/grub-btrfs](https://github.com/Antynea/grub-btrfs) - Include btrfs snapshots at boot options. (Grub menu)
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
