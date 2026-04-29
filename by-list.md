@@ -520,7 +520,6 @@
 - [pope/ob-go](https://github.com/pope/ob-go) - Org-Babel support for evaluating go code.
 - [leotaku/elisp-check](https://github.com/leotaku/elisp-check) - A GitHub Action for Emacs Lisp CI
 - [ag91/emacs-with-nyxt](https://github.com/ag91/emacs-with-nyxt) - Some code to make Emacs interact with Nyxt
-- [Nathan-Melaku/hyprlang-ts-mode](https://github.com/Nathan-Melaku/hyprlang-ts-mode) - A major mode for editing hyprland configuration files in emacs
 - [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
 - [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - A metacircular modal UI framework.
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
@@ -646,6 +645,7 @@
 - [Frestein/smart-cursor-color](https://github.com/Frestein/smart-cursor-color) - :droplet: Context-aware cursor color
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [emacsmirror/gcmh](https://github.com/emacsmirror/gcmh) - The Garbage Collector Magic Hack
+- [redguardtoo/evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
 
 <a name="fonts"></a>
 
@@ -748,6 +748,7 @@
 - [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
 - [Seafoam-Labs/Starfish](https://github.com/Seafoam-Labs/Starfish) - Depdency Viewer For Arch Packages
 - [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
+- [redguardtoo/evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
 
 <a name="keyboard"></a>
 
@@ -1206,7 +1207,7 @@
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) - 🕛 Zero-overhead Fennel JIT compiler at runtime of Neovim with safety rollbacks
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
 - [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) - 🌈 Add animated glow/highlight effects to your neovim operation (undo, redo, yank, paste and more) with simple APIs. Alternatives to highlight-undo.nvim and tiny-glimmer.nvim.
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Async library for Neovim plugins
