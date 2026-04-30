@@ -248,6 +248,10 @@
 
 ## C++ 
 
+- [ixray-team/ixray-1.6-stcop](https://github.com/ixray-team/ixray-1.6-stcop) - Stable repository of the modernized X-Ray 1.6 game engine
+- [themrdemonized/xray-monolith](https://github.com/themrdemonized/xray-monolith) - 
+- [OpenXRay/xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
+- [OGSR/OGSR-Engine](https://github.com/OGSR/OGSR-Engine) - OGSR Project - Evolution of X-Ray Engine for S.T.A.L.K.E.R.: Shadow of Chernobyl
 - [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [the-nexi/yggtray](https://github.com/the-nexi/yggtray) - A system tray application for managing Yggdrasil service
@@ -336,6 +340,7 @@
 
 ## CSS 
 
+- [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [jj-for-everyone/jj-for-everyone.github.io](https://github.com/jj-for-everyone/jj-for-everyone.github.io) - A Jujutsu tutorial that requires no previous experience with Git or other version control systems.
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
 - [precondition/precondition.github.io](https://github.com/precondition/precondition.github.io) - Personal Weblog with tools and guides for QMK keyboards. Home of the home row mods guide
@@ -692,7 +697,6 @@
 - [kickingvegas/casual](https://github.com/kickingvegas/casual) - A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.
 - [kljohann/mpv.el](https://github.com/kljohann/mpv.el) - control mpv for easy note taking
 - [yibie/org-embed](https://github.com/yibie/org-embed) - An Emacs package for embedding various content in Org-mode.
-- [mgmarlow/helix-mode](https://github.com/mgmarlow/helix-mode) - Helix keybindings in Emacs
 - [armindarvish/consult-gh](https://github.com/armindarvish/consult-gh) - An Interactive interface for "GitHub CLI" client inside GNU Emacs using Consult
 - [ryuslash/git-auto-commit-mode](https://github.com/ryuslash/git-auto-commit-mode) - Automatically commit to git after each save
 - [shingo256/trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
