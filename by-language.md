@@ -410,6 +410,7 @@
 
 ## Emacs Lisp 
 
+- [mcandre/vimrc-mode](https://github.com/mcandre/vimrc-mode) - Enables syntax highlighting for .vimrc/_vimrc files
 - [redguardtoo/evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
 - [emacsmirror/gcmh](https://github.com/emacsmirror/gcmh) - The Garbage Collector Magic Hack
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -1547,6 +1548,7 @@
 
 ## Others 
 
+- [Jason94/awesome-coalton](https://github.com/Jason94/awesome-coalton) - A collection of awesome Coalton libraries, tutorials, examples, and applications.
 - [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
 - [james-stoup/org-mode-table-tutorial](https://github.com/james-stoup/org-mode-table-tutorial) - A simplified guide to mastering Org Mode table functions
