@@ -95,6 +95,7 @@
 - [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 
 <a name="art"></a>
 
@@ -755,6 +756,18 @@
 - [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
 - [redguardtoo/evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
+- [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
+- [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
+- [qhy040404/FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - Turn off MIUI/HyperOS ads with minimal cost
+- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
+- [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
+- [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
+- [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
+- [biglavis/LittleFox](https://github.com/biglavis/LittleFox) - A minimalistic, mouse centered CSS theme for FireFox.
+- [papergray/MicUp](https://github.com/papergray/MicUp) - Real-time microphone audio processing for Android
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 
 <a name="keyboard"></a>
 
