@@ -272,6 +272,7 @@
 
 ## android 
 
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [papergray/MicUp](https://github.com/papergray/MicUp) - Real-time microphone audio processing for Android
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
@@ -750,6 +751,7 @@
 
 ## css 
 
+- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
 - [tree-sitter/tree-sitter-css](https://github.com/tree-sitter/tree-sitter-css) - CSS grammar for Tree-sitter
@@ -900,6 +902,10 @@
 
 ## emacs 
 
+- [sp1ff/elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
+- [jeetelongname/elfeed-goodies](https://github.com/jeetelongname/elfeed-goodies) - Various goodies for Elfeed
+- [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
+- [emacs-compat/compat](https://github.com/emacs-compat/compat) - COMPATibility Library for Emacs Lisp
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [Frestein/smart-cursor-color](https://github.com/Frestein/smart-cursor-color) - :droplet: Context-aware cursor color
 - [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
@@ -2330,6 +2336,7 @@
 
 ## open-source 
 
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
@@ -2379,6 +2386,11 @@
 
 ## others 
 
+- [atgreen/Whistler](https://github.com/atgreen/Whistler) - A lisp that compiles to eBPF
+- [SqrtMinusOne/elfeed-summary](https://github.com/SqrtMinusOne/elfeed-summary) - Feed summary interface for elfeed
+- [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
+- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
+- [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [biglavis/LittleFox](https://github.com/biglavis/LittleFox) - A minimalistic, mouse centered CSS theme for FireFox.
 - [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
 - [qhy040404/FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - Turn off MIUI/HyperOS ads with minimal cost
