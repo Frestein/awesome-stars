@@ -284,7 +284,6 @@
 - [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 - [Artawower/blamer.el](https://github.com/Artawower/blamer.el) - A git blame plugin for emacs inspired by VS Code's GitLens plugin
 - [myrjola/diminish.el](https://github.com/myrjola/diminish.el) - Diminished modes are minor modes with no modeline display
-- [FrostyX/dired-open-with](https://github.com/FrostyX/dired-open-with) - An 'Open with' dialog for opening files in external applications from Dired.
 - [nflath/sudo-edit](https://github.com/nflath/sudo-edit) - Utilities for opening files with sudo
 - [doomemacs/themes](https://github.com/doomemacs/themes) - A megapack of themes for GNU Emacs.
 - [s-kostyaev/ellama](https://github.com/s-kostyaev/ellama) - Ellama is a tool for interacting with large language models from Emacs.
@@ -660,6 +659,7 @@
 - [ymarco/auto-activating-snippets](https://github.com/ymarco/auto-activating-snippets) - Snippets for Emacs that expand as you type
 - [Feyorsh/nethack-el](https://github.com/Feyorsh/nethack-el) - Emacs interface for the roguelike NetHack
 - [cjennings/emacs-wttrin](https://github.com/cjennings/emacs-wttrin) - Emacs frontend for Igor Chubin's wttr.in weather service
+- [purcell/diredfl](https://github.com/purcell/diredfl) - Extra Emacs font lock rules for a more colourful dired
 
 <a name="fonts"></a>
 
@@ -787,7 +787,9 @@
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem.
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [cjennings/emacs-wttrin](https://github.com/cjennings/emacs-wttrin) - Emacs frontend for Igor Chubin's wttr.in weather service
-- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to the world of Plain Text Accounting.
+- [jonathanchu/grove](https://github.com/jonathanchu/grove) - An Obsidian-like note-taking mode for Emacs
+- [Seme4eg/mpv-scripts](https://github.com/Seme4eg/mpv-scripts) - 
+- [guidoschmidt/circadian.el](https://github.com/guidoschmidt/circadian.el) - Theme-switching for Emacs based on daytime
 
 <a name="keyboard"></a>
 
@@ -934,7 +936,7 @@
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [hyprwm/hyprqt6engine](https://github.com/hyprwm/hyprqt6engine) - QT6 Theme Provider for Hyprland
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools (read-only mirror)
-- [dracut-ng/dracut-ng](https://github.com/dracut-ng/dracut-ng) - dracut - the event driven initramfs infrastructure
+- [dracut-ng/dracut](https://github.com/dracut-ng/dracut) - dracut - the event driven initramfs infrastructure
 - [coderonline/base16-vtrgb](https://github.com/coderonline/base16-vtrgb) - virtual terminal color schemes to be used with setvtrgb
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
@@ -1208,7 +1210,7 @@
 - [altermo/nwm](https://github.com/altermo/nwm) - A graphical display window manager in neovim
 - [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
-- [Chaitanyabsprip/fastaction.nvim](https://github.com/Chaitanyabsprip/fastaction.nvim) - Efficiency plugin designed to optimize code actions in Neovim
+- [chaitanyabsprip/fastaction.nvim](https://github.com/chaitanyabsprip/fastaction.nvim) - Efficiency plugin designed to optimize code actions in Neovim
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [hamidi-dev/org-list.nvim](https://github.com/hamidi-dev/org-list.nvim) - Neovim plugin to toggle between different kinds of lists.
