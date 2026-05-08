@@ -660,6 +660,9 @@
 - [Feyorsh/nethack-el](https://github.com/Feyorsh/nethack-el) - Emacs interface for the roguelike NetHack
 - [cjennings/emacs-wttrin](https://github.com/cjennings/emacs-wttrin) - Emacs frontend for Igor Chubin's wttr.in weather service
 - [purcell/diredfl](https://github.com/purcell/diredfl) - Extra Emacs font lock rules for a more colourful dired
+- [captainflasmr/dired-video-thumbnail](https://github.com/captainflasmr/dired-video-thumbnail) - Emacs package that provides image-dired style thumbnail viewing for video files
+- [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
+- [protesilaos/beframe](https://github.com/protesilaos/beframe) - Isolate Emacs buffers per frame
 
 <a name="fonts"></a>
 
@@ -1087,7 +1090,7 @@
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - VS Code–style pictograms for Neovim completion items
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems.
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
