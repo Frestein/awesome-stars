@@ -1436,6 +1436,7 @@
 
 ## hacktoberfest 
 
+- [gentoo/guru](https://github.com/gentoo/guru) - [MIRROR] GURU: repository of new packages maintained collaboratively by users
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official Haskell IDE support via the language server protocol (LSP)
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
@@ -1875,6 +1876,7 @@
 
 ## lua 
 
+- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) - Picker that doesn't get in your way
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
@@ -2109,6 +2111,7 @@
 
 ## neovim 
 
+- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) - Picker that doesn't get in your way
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K 
@@ -2306,6 +2309,7 @@
 ## nim 
 
 - [OrgTangle/ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
+- [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [nim-lang/nimony](https://github.com/nim-lang/nimony) - Nimony is a new Nim implementation that is in heavy development.
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -2395,6 +2399,11 @@
 
 ## others 
 
+- [ragnard/gptel-magit](https://github.com/ragnard/gptel-magit) - 
+- [skeeto/emacs-aio](https://github.com/skeeto/emacs-aio) - async/await for Emacs Lisp
+- [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
+- [Szowisz/CachyOS-kernels](https://github.com/Szowisz/CachyOS-kernels) - Overlay containing ebuilds of CachyOS kernels and some other things
+- [Artawower/orgnote](https://github.com/Artawower/orgnote) - Zettelkasten environment for productive people
 - [protesilaos/beframe](https://github.com/protesilaos/beframe) - Isolate Emacs buffers per frame
 - [captainflasmr/dired-video-thumbnail](https://github.com/captainflasmr/dired-video-thumbnail) - Emacs package that provides image-dired style thumbnail viewing for video files
 - [purcell/diredfl](https://github.com/purcell/diredfl) - Extra Emacs font lock rules for a more colourful dired
@@ -2479,7 +2488,6 @@
 - [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
 - [magit/with-editor](https://github.com/magit/with-editor) - Use the Emacsclient as the $EDITOR of child processes
-- [karthink/gptel-agent](https://github.com/karthink/gptel-agent) - Agent mode for gptel
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [ava1ar/customizepkg](https://github.com/ava1ar/customizepkg) - A tool for Arch Linux package manager pacman to modify PKGBUILD automatically
@@ -2630,7 +2638,6 @@
 - [purcell/package-lint](https://github.com/purcell/package-lint) - A linting library for elisp package metadata
 - [ptsouchlos/modern-cv](https://github.com/ptsouchlos/modern-cv) - A modern resume template written in Typst, inspired by Awesome-CV
 - [aglet/sparkweather](https://github.com/aglet/sparkweather) - Sparkline weather forecasts in Emacs
-- [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [t4ccer/agenix.el](https://github.com/t4ccer/agenix.el) - Transparent editing for agenix secrets inside Emacs
 - [lewang/ws-butler](https://github.com/lewang/ws-butler) - Unobtrusively trim extraneous white-space *ONLY* in lines edited.
 - [Trevoke/org-ts-mode](https://github.com/Trevoke/org-ts-mode) - 
@@ -2746,7 +2753,6 @@
 - [hyprwm/hyprqt6engine](https://github.com/hyprwm/hyprqt6engine) - QT6 Theme Provider for Hyprland
 - [BirdeeHub/lze](https://github.com/BirdeeHub/lze) - A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
-- [dolmens/gptel-aibo](https://github.com/dolmens/gptel-aibo) - An AI Writing Assistant for Emacs
 - [karthink/popper](https://github.com/karthink/popper) - Emacs minor-mode to summon and dismiss buffers easily.
 - [isamert/corg.el](https://github.com/isamert/corg.el) - 🍾 Auto complete org-mode source/dynamic block headers seamlessly
 - [olavfosse/eradio](https://github.com/olavfosse/eradio) - The simple radio player for GNU Emacs
