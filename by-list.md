@@ -401,7 +401,6 @@
 - [olavfosse/eradio](https://github.com/olavfosse/eradio) - The simple radio player for GNU Emacs
 - [isamert/corg.el](https://github.com/isamert/corg.el) - 🍾 Auto complete org-mode source/dynamic block headers seamlessly
 - [karthink/popper](https://github.com/karthink/popper) - Emacs minor-mode to summon and dismiss buffers easily.
-- [dolmens/gptel-aibo](https://github.com/dolmens/gptel-aibo) - An AI Writing Assistant for Emacs 
 - [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in Emacs
 - [rjekker/password-store-menu](https://github.com/rjekker/password-store-menu) - A better, more complete user interface for password-store
 - [wwwjfy/emacs-fish](https://github.com/wwwjfy/emacs-fish) - fish-mode for emacs
@@ -611,7 +610,6 @@
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
-- [karthink/gptel-agent](https://github.com/karthink/gptel-agent) - Agent mode for gptel
 - [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
 - [magit/with-editor](https://github.com/magit/with-editor) - Use the Emacsclient as the $EDITOR of child processes
@@ -663,6 +661,10 @@
 - [captainflasmr/dired-video-thumbnail](https://github.com/captainflasmr/dired-video-thumbnail) - Emacs package that provides image-dired style thumbnail viewing for video files
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [protesilaos/beframe](https://github.com/protesilaos/beframe) - Isolate Emacs buffers per frame
+- [Artawower/orgnote](https://github.com/Artawower/orgnote) - Zettelkasten environment for productive people
+- [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
+- [skeeto/emacs-aio](https://github.com/skeeto/emacs-aio) - async/await for Emacs Lisp 
+- [ragnard/gptel-magit](https://github.com/ragnard/gptel-magit) - 
 
 <a name="fonts"></a>
 
@@ -793,6 +795,7 @@
 - [jonathanchu/grove](https://github.com/jonathanchu/grove) - An Obsidian-like note-taking mode for Emacs
 - [Seme4eg/mpv-scripts](https://github.com/Seme4eg/mpv-scripts) - 
 - [guidoschmidt/circadian.el](https://github.com/guidoschmidt/circadian.el) - Theme-switching for Emacs based on daytime
+- [Artawower/orgnote](https://github.com/Artawower/orgnote) - Zettelkasten environment for productive people
 
 <a name="keyboard"></a>
 
@@ -1281,6 +1284,7 @@
 - [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin to detect and chdir to the project root, with its own UI. Provides lualine component, supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) - Picker that doesn't get in your way
+- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 
 <a name="nix"></a>
 
