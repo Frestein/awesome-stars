@@ -2399,6 +2399,7 @@
 
 ## others 
 
+- [cl-ai-project/cl-mcp](https://github.com/cl-ai-project/cl-mcp) - 
 - [ragnard/gptel-magit](https://github.com/ragnard/gptel-magit) - 
 - [skeeto/emacs-aio](https://github.com/skeeto/emacs-aio) - async/await for Emacs Lisp
 - [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
