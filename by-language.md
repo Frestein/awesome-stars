@@ -363,6 +363,7 @@
 
 ## Common Lisp 
 
+- [cl-ai-project/cl-mcp](https://github.com/cl-ai-project/cl-mcp) - 
 - [atgreen/Whistler](https://github.com/atgreen/Whistler) - A lisp that compiles to eBPF
 - [parenworks/sextant](https://github.com/parenworks/sextant) - Sextant - A Common Lisp Language Server Protocol (LSP) implementation
 - [mahmoodsh36/organ-mode](https://github.com/mahmoodsh36/organ-mode) - an alternative to org-mode for lem
