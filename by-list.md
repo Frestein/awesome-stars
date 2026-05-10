@@ -147,6 +147,7 @@
 - [mahmoodsh36/organ-mode](https://github.com/mahmoodsh36/organ-mode) - an alternative to org-mode for lem
 - [parenworks/sextant](https://github.com/parenworks/sextant) - Sextant - A Common Lisp Language Server Protocol (LSP) implementation
 - [atgreen/Whistler](https://github.com/atgreen/Whistler) - A lisp that compiles to eBPF
+- [cl-ai-project/cl-mcp](https://github.com/cl-ai-project/cl-mcp) - 
 
 <a name="emacs"></a>
 
