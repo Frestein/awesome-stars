@@ -938,7 +938,6 @@
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
-- [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
@@ -1215,7 +1214,7 @@
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [boydaihungst/pref-by-location.yazi](https://github.com/boydaihungst/pref-by-location.yazi) - This is a Yazi plugin that save linemode,  sort, show_hidden preferences by location.
 - [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi) - The first Yazi plugin for customizing both header-line and status-line.
-- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin to detect and chdir to the project root, with its own UI. Provides lualine component, supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.
+- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - Actively maintained fork of ahmedkhalf/project.nvim. Detects and chdirs to the project root, with its own UI, provides lualine component, supports oil.nvim, includes pickers for telescope, snacks, fzf
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [Frestein/russian-layout.mpv](https://github.com/Frestein/russian-layout.mpv) - [mirror] Russian layout bindings for mpv
 - [alberti42/faster-piper.yazi](https://github.com/alberti42/faster-piper.yazi) - Pipe any shell command as a cached previewer.
@@ -1506,6 +1505,7 @@
 
 ## Nix 
 
+- [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [turnerdev/janet-nix](https://github.com/turnerdev/janet-nix) - Nix helpers for Janet
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
@@ -1784,6 +1784,7 @@
 
 ## Rust 
 
+- [feel-co/smfh](https://github.com/feel-co/smfh) - Sleek Manifest File Handler
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [archlinux/alpm](https://github.com/archlinux/alpm) - Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
