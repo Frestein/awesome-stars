@@ -2398,6 +2398,7 @@
 
 ## others 
 
+- [stylewarning/lisp-coalton-style](https://github.com/stylewarning/lisp-coalton-style) - Style notes for Lisp and Coalton programming.
 - [feel-co/smfh](https://github.com/feel-co/smfh) - Sleek Manifest File Handler
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [cl-ai-project/cl-mcp](https://github.com/cl-ai-project/cl-mcp) - 
