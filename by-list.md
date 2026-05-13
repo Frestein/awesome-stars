@@ -148,6 +148,7 @@
 - [parenworks/sextant](https://github.com/parenworks/sextant) - Sextant - A Common Lisp Language Server Protocol (LSP) implementation
 - [atgreen/Whistler](https://github.com/atgreen/Whistler) - A lisp that compiles to eBPF
 - [cl-ai-project/cl-mcp](https://github.com/cl-ai-project/cl-mcp) - 
+- [stylewarning/lisp-coalton-style](https://github.com/stylewarning/lisp-coalton-style) - Style notes for Lisp and Coalton programming.
 
 <a name="emacs"></a>
 
