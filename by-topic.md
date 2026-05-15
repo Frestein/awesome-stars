@@ -17,6 +17,7 @@
 - [api](#api)
 - [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
+- [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -155,7 +156,6 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
-- [npm](#npm)
 - [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -369,6 +369,10 @@
 
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
+
+## atom 
+
+- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 
 ## automation 
 
@@ -912,6 +916,7 @@
 - [jeetelongname/elfeed-goodies](https://github.com/jeetelongname/elfeed-goodies) - Various goodies for Elfeed
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [emacs-compat/compat](https://github.com/emacs-compat/compat) - COMPATibility Library for Emacs Lisp
+- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [Frestein/smart-cursor-color](https://github.com/Frestein/smart-cursor-color) - :droplet: Context-aware cursor color
 - [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
@@ -1605,7 +1610,6 @@
 
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
@@ -2323,7 +2327,6 @@
 
 ## nodejs 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
@@ -2335,10 +2338,6 @@
 ## nosql 
 
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-
-## npm 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## obsidian 
 
@@ -2396,6 +2395,10 @@
 
 ## others 
 
+- [harshadjs/orgfs](https://github.com/harshadjs/orgfs) - 
+- [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
+- [Sonico98/exifaudio.yazi](https://github.com/Sonico98/exifaudio.yazi) - Preview audio files metadata on yazi
+- [kirasok/epub-preview.yazi](https://github.com/kirasok/epub-preview.yazi) - yazi plugin to preview epub files
 - [latiagertrutis/dirvish](https://github.com/latiagertrutis/dirvish) - A polished Dired with batteries included.
 - [emacs-gnuplot/gnuplot](https://github.com/emacs-gnuplot/gnuplot) - A major mode for Emacs for interacting with Gnuplot
 - [stylewarning/lisp-coalton-style](https://github.com/stylewarning/lisp-coalton-style) - Style notes for Lisp and Coalton programming.
@@ -2420,7 +2423,6 @@
 - [atgreen/Whistler](https://github.com/atgreen/Whistler) - A lisp that compiles to eBPF
 - [SqrtMinusOne/elfeed-summary](https://github.com/SqrtMinusOne/elfeed-summary) - Feed summary interface for elfeed
 - [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
-- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [biglavis/LittleFox](https://github.com/biglavis/LittleFox) - A minimalistic, mouse centered CSS theme for FireFox.
 - [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
@@ -3456,7 +3458,6 @@
 
 ## react 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -3827,7 +3828,6 @@
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -4030,7 +4030,6 @@
 
 ## zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [Zeioth/compiler.nvim](https://github.com/Zeioth/compiler.nvim) - Neovim compiler for building and running your code without having to configure anything
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
