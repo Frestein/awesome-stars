@@ -712,7 +712,6 @@
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).
 - [optiscaler/fakenvapi](https://github.com/optiscaler/fakenvapi) - NVAPI library for spoofing an Nvidia GPU. With support for AntiLag 2, XeLL and LatencyFlex
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
-- [FreesmTeam/FreesmLauncher](https://github.com/FreesmTeam/FreesmLauncher) - A Prism Launcher fork aimed to provide a free way to play Minecraft
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 - [PaulCombal/SamRewritten](https://github.com/PaulCombal/SamRewritten) - A modern Steam achievements manager for Windows and Linux
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
@@ -787,6 +786,8 @@
 - [feel-co/smfh](https://github.com/feel-co/smfh) - Sleek Manifest File Handler
 - [harshadjs/orgfs](https://github.com/harshadjs/orgfs) - 
 - [astoff/devdocs.el](https://github.com/astoff/devdocs.el) - Emacs viewer for DevDocs
+- [ilevd/clojure-like](https://github.com/ilevd/clojure-like) - List of Clojure-like projects including programming languages, ports, dialects, compilers, interpreters etc
+- [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 
 <a name="keyboard"></a>
 
