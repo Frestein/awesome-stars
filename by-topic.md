@@ -146,7 +146,6 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
-- [nativescript](#nativescript)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neovim-colorscheme](#neovim-colorscheme)
@@ -166,6 +165,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [pentesting](#pentesting)
+- [perl](#perl)
 - [php](#php)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
@@ -176,6 +176,7 @@
 - [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
+- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -273,10 +274,16 @@
 
 ## android 
 
+- [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
+- [FossifyOrg/Contacts](https://github.com/FossifyOrg/Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
+- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
+- [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
+- [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
+- [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
+- [videolan/vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
-- [papergray/MicUp](https://github.com/papergray/MicUp) - Real-time microphone audio processing for Android
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
-- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
@@ -286,50 +293,30 @@
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
-- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) - Android permission explorer 🧑‍✈️
 - [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
-- [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
-- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
-- [lukaspieper/Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - App faking only the absolute necessary Apis to use Gcam without Play Services
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-- [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
-- [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
-- [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
-- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
-- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-- [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
-- [ossappscollective/oss-weather](https://github.com/ossappscollective/oss-weather) - An OSS weather app for iOS/Android
-- [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
-- [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [mjaakko/NeoStumbler](https://github.com/mjaakko/NeoStumbler) - New stumbler application for contributing data to geolocation services
-- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [agrahn/Android-Password-Store](https://github.com/agrahn/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) - Another unofficial Android AniList client
-- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [timschneeb/RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
-- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
@@ -455,7 +442,6 @@
 
 ## bash 
 
-- [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
 - [szermatt/emacs-bash-completion](https://github.com/szermatt/emacs-bash-completion) - Add programmable bash completion to Emacs shell-mode
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
@@ -481,6 +467,7 @@
 
 ## c 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
@@ -814,6 +801,7 @@
 
 ## developer-tools 
 
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -844,6 +832,7 @@
 
 ## discord 
 
+- [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
@@ -863,6 +852,7 @@
 
 ## documentation 
 
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -900,6 +890,7 @@
 
 ## electron 
 
+- [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 
@@ -1163,6 +1154,7 @@
 
 ## firefox 
 
+- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
@@ -1183,14 +1175,12 @@
 ## flutter 
 
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## flutter-apps 
 
-- [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
@@ -1511,7 +1501,6 @@
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
-- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -1591,7 +1580,6 @@
 
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
-- [ossappscollective/oss-weather](https://github.com/ossappscollective/oss-weather) - An OSS weather app for iOS/Android
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
@@ -1610,6 +1598,7 @@
 
 ## javascript 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
@@ -1636,14 +1625,8 @@
 
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
-- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
-- [ghostbyte-dev/pixelix](https://github.com/ghostbyte-dev/pixelix) - Pixelfed client for Android and iOS
-- [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
-- [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
-- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) - Another unofficial Android AniList client
 
 ## json 
@@ -1669,19 +1652,18 @@
 
 ## kotlin 
 
+- [FossifyOrg/Contacts](https://github.com/FossifyOrg/Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
+- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
+- [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
+- [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
+- [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
-- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
-- [ghostbyte-dev/pixelix](https://github.com/ghostbyte-dev/pixelix) - Pixelfed client for Android and iOS
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [android-password-store/kage](https://github.com/android-password-store/kage) - Kotlin implementation of the age file encryption format
-- [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-- [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
-- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
-- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 
 ## kubernetes 
@@ -1768,7 +1750,6 @@
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) - Немного о ядре Linux
-- [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -1878,6 +1859,7 @@
 
 ## lua 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) - Picker that doesn't get in your way
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
@@ -2042,17 +2024,14 @@
 
 ## mastodon 
 
+- [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
 - [rougier/mastodon-alt](https://github.com/rougier/mastodon-alt) - Emacs alternative mastodon layout
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 ## material-design 
 
-- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
-- [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 
 ## mcp 
 
@@ -2085,7 +2064,6 @@
 
 ## music 
 
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -2099,10 +2077,6 @@
 - [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin) - PostfixAdmin - web based virtual user administration interface for Postfix mail servers
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-
-## nativescript 
-
-- [ossappscollective/oss-weather](https://github.com/ossappscollective/oss-weather) - An OSS weather app for iOS/Android
 
 ## natural-language-processing 
 
@@ -2325,6 +2299,7 @@
 
 ## nodejs 
 
+- [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
@@ -2343,16 +2318,20 @@
 
 ## open-source 
 
+- [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
+- [FossifyOrg/Contacts](https://github.com/FossifyOrg/Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
+- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
+- [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
+- [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
+- [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
-- [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) - Un cliente de YouTube Music con Material Design 3, para Android
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
-- [ossappscollective/oss-weather](https://github.com/ossappscollective/oss-weather) - An OSS weather app for iOS/Android
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
 - [Metastem/Wikiless](https://github.com/Metastem/Wikiless) - Wikiless is a free, open-source Wikipedia alternative, focused on privacy. The project aims to deliver a more secure, anonymous browsing experience by minimizing data collection and tracking, ensuring
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -2393,14 +2372,16 @@
 
 ## others 
 
-- [harshadjs/orgfs](https://github.com/harshadjs/orgfs) - 
+- [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
+- [boxlabss/HexDroid](https://github.com/boxlabss/HexDroid) - An IRC Client for Android
+- [forkgram/TelegramAndroid](https://github.com/forkgram/TelegramAndroid) - Fork client of Telegram app for Android.
+- [YasserNull/shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
 - [Sonico98/exifaudio.yazi](https://github.com/Sonico98/exifaudio.yazi) - Preview audio files metadata on yazi
 - [kirasok/epub-preview.yazi](https://github.com/kirasok/epub-preview.yazi) - yazi plugin to preview epub files
 - [latiagertrutis/dirvish](https://github.com/latiagertrutis/dirvish) - A polished Dired with batteries included.
 - [emacs-gnuplot/gnuplot](https://github.com/emacs-gnuplot/gnuplot) - A major mode for Emacs for interacting with Gnuplot
 - [stylewarning/lisp-coalton-style](https://github.com/stylewarning/lisp-coalton-style) - Style notes for Lisp and Coalton programming.
-- [feel-co/smfh](https://github.com/feel-co/smfh) - Sleek Manifest File Handler
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [cl-ai-project/cl-mcp](https://github.com/cl-ai-project/cl-mcp) - 
 - [ragnard/gptel-magit](https://github.com/ragnard/gptel-magit) - 
@@ -2423,8 +2404,6 @@
 - [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [biglavis/LittleFox](https://github.com/biglavis/LittleFox) - A minimalistic, mouse centered CSS theme for FireFox.
-- [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
-- [qhy040404/FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - Turn off MIUI/HyperOS ads with minimal cost
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [mcandre/vimrc-mode](https://github.com/mcandre/vimrc-mode) - Enables syntax highlighting for .vimrc/_vimrc files
 - [Jason94/awesome-coalton](https://github.com/Jason94/awesome-coalton) - A collection of awesome Coalton libraries, tutorials, examples, and applications.
@@ -2435,7 +2414,6 @@
 - [Seafoam-Labs/Starfish](https://github.com/Seafoam-Labs/Starfish) - Depdency Viewer For Arch Packages
 - [cosmos72/schemesh](https://github.com/cosmos72/schemesh) - A Unix shell and Lisp REPL, fused together
 - [parenworks/sextant](https://github.com/parenworks/sextant) - Sextant - A Common Lisp Language Server Protocol (LSP) implementation
-- [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) - Source code of Package Manager, an Application to Manage your Apps.
 - [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainers=@water-sucks,@Sporif]
 - [casouri/ftable](https://github.com/casouri/ftable) - Fill (auto-layout) tables
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
@@ -2901,7 +2879,6 @@
 - [DreamMaoMao/easyjump.yazi](https://github.com/DreamMaoMao/easyjump.yazi) - mirror of https://gitee.com/DreamMaoMao
 - [dedukun/bookmarks.yazi](https://github.com/dedukun/bookmarks.yazi) - 
 - [odin-lang/examples](https://github.com/odin-lang/examples) - Examples of idiomatic Odin code
-- [kirthandev/MIUI-Debloater-official](https://github.com/kirthandev/MIUI-Debloater-official) - How to debloat your Xiaomi phone with ADB and Xiaomi Official Fastboot tool
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - Website with comprehensive comparisons, histories, and other information across many areas of computing and technology.
@@ -3086,7 +3063,6 @@
 - [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) - Proof-of-origin token provider plugin for yt-dlp
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux
-- [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
@@ -3135,7 +3111,6 @@
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 - [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a wayland wallpaper utility with IPC controls.
-- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
@@ -3204,7 +3179,6 @@
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [natsukagami/mpd-mpris](https://github.com/natsukagami/mpd-mpris) - An implementation of the MPRIS protocol for MPD.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [okuuva/auto-save.nvim](https://github.com/okuuva/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
@@ -3271,8 +3245,13 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
+## perl 
+
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
+
 ## php 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin) - PostfixAdmin - web based virtual user administration interface for Postfix mail servers
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
@@ -3297,8 +3276,9 @@
 
 ## privacy 
 
+- [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
+- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
-- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
@@ -3314,7 +3294,6 @@
 - [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
-- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -3340,7 +3319,6 @@
 - [d12frosted/vulpea-journal](https://github.com/d12frosted/vulpea-journal) - Modern daily journaling interface for Emacs with reactive sidebar widgets, built on vulpea
 - [d12frosted/vulpea-ui](https://github.com/d12frosted/vulpea-ui) - A widget-based sidebar for Emacs that displays contextual information (stats, outline, backlinks, links) for vulpea notes
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-- [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
@@ -3380,8 +3358,13 @@
 - [bzg/org-mode](https://github.com/bzg/org-mode) - This is a MIRROR only, do not send PR.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## pwa 
+
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+
 ## python 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
@@ -3475,6 +3458,7 @@
 
 ## ruby 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 
@@ -3590,7 +3574,6 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
-- [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -3600,7 +3583,6 @@
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
-- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -3643,8 +3625,6 @@
 
 ## shell 
 
-- [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
-- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
@@ -3715,13 +3695,13 @@
 
 ## telegram 
 
+- [Mercurygram/Mercurygram](https://github.com/Mercurygram/Mercurygram) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## terminal 
 
-- [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
@@ -3773,7 +3753,6 @@
 
 ## termux 
 
-- [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
@@ -3874,7 +3853,6 @@
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -4012,7 +3990,6 @@
 ## youtube 
 
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
