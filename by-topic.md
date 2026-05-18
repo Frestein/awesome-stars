@@ -3175,7 +3175,7 @@
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
-- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
+- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, secure, portable, multiprotocol bootloader and boot manager.
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [natsukagami/mpd-mpris](https://github.com/natsukagami/mpd-mpris) - An implementation of the MPRIS protocol for MPD.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
