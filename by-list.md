@@ -738,13 +738,7 @@
 
 ## 📬 Inbox
 
-- [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
-- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
-- [Mercurygram/Mercurygram](https://github.com/Mercurygram/Mercurygram) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
-- [forkgram/TelegramAndroid](https://github.com/forkgram/TelegramAndroid) - Fork client of Telegram app for Android.
-- [boxlabss/HexDroid](https://github.com/boxlabss/HexDroid) - An IRC Client for Android
-- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
-- [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
+- No repositories
 
 <a name="keyboard"></a>
 
@@ -1429,7 +1423,7 @@
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube plus other yt-dlp supported sites from your terminal
 - [Achno/gocheat](https://github.com/Achno/gocheat) - A beautiful customizable TUI Cheatsheet for keybindings,hotkeys and more in the terminal 
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
@@ -1617,6 +1611,8 @@
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
+- [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
+- [Flowseal/tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
 
 <a name="typst"></a>
 
