@@ -1159,6 +1159,8 @@
 
 ## Kotlin 
 
+- [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!
+- [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [pass-with-high-score/universal-installer](https://github.com/pass-with-high-score/universal-installer) - A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning.
 - [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Advance wallpaper manager app for Android with cool glassmorphic UI, tags, auto wallpaper, custom effects and multiple folder support and a native live wallpaper picker.
 - [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
@@ -1183,7 +1185,7 @@
 - [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - An android git client
 - [catpuppyapp/SshKeyMan](https://github.com/catpuppyapp/SshKeyMan) - Generate/Manage your ssh keys on Android
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 - [android-password-store/kage](https://github.com/android-password-store/kage) - Kotlin implementation of the age file encryption format
 - [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
@@ -1779,6 +1781,7 @@
 
 ## Rust 
 
+- [jondkinney/tensaku](https://github.com/jondkinney/tensaku) - Tensaku - Modern Screenshot Annotation.
 - [szaffarano/org-mcp-server](https://github.com/szaffarano/org-mcp-server) - MCP server for org-mode and org-roam knowledge base management
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
