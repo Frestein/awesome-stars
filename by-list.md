@@ -37,7 +37,6 @@
 - [agrahn/Android-Password-Store](https://github.com/agrahn/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
-- [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [mjaakko/NeoStumbler](https://github.com/mjaakko/NeoStumbler) - New stumbler application for contributing data to geolocation services
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - An android git client
@@ -67,6 +66,8 @@
 - [FossifyOrg/Contacts](https://github.com/FossifyOrg/Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
 - [YasserNull/shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
 - [gitnex-org/gitnex](https://github.com/gitnex-org/gitnex) - Android client for Forgejo(https://codeberg.org), Gitea(https://gitea.com) [OR your custom hosted server]. Mirror of https://codeberg.org/gitnex/GitNex
+- [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 
 <a name="art"></a>
 
@@ -741,24 +742,7 @@
 
 ## 📬 Inbox
 
-- [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
-- [fukamachi/qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
-- [sunilpaulmathew/AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - Source code of AppVaultX, a high-performance app management powered by Shizuku
-- [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Advance wallpaper manager app for Android with cool glassmorphic UI, tags, auto wallpaper, custom effects and multiple folder support and a native live wallpaper picker.
-- [pass-with-high-score/universal-installer](https://github.com/pass-with-high-score/universal-installer) - A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning.
-- [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-- [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!
-- [jondkinney/tensaku](https://github.com/jondkinney/tensaku) - Tensaku - Modern Screenshot Annotation.
-- [jagrat7/linux-wallpaper-engine](https://github.com/jagrat7/linux-wallpaper-engine) - A wallpaper management app for steam's wallpaper-engine ported for linux — browse, preview, scan for compatibility, and apply wallpapers.
-- [MikiDevLog/wallpaperengine-gui](https://github.com/MikiDevLog/wallpaperengine-gui) - Simple GUI for linux-wallpaperengine on C++.
-- [zacharee/MastodonRedirect](https://github.com/zacharee/MastodonRedirect) - Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.
-- [Turtlepaw/BlueskyRedirect](https://github.com/Turtlepaw/BlueskyRedirect) - Deep linking proxy for Bluesky clients on Android, allowing you to launch your selected client automatically.
-- [AhmetCanArslan/ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - Lightweight, no vpn firewall solution for Android 11+
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
-- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
-- [ironfox-oss/IronFox](https://github.com/ironfox-oss/IronFox) - Private, secure, user first web browser for Android. This is a read-only mirror of https://gitlab.com/ironfox-oss/IronFox.
+- No repositories
 
 <a name="keyboard"></a>
 
@@ -911,7 +895,6 @@
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
 - [hyprwm/hyprpwcenter](https://github.com/hyprwm/hyprpwcenter) - A GUI Pipewire control center
 - [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - A tui greeter (not built in rust) 
-- [MikiDevLog/wallpaperengine-gui](https://github.com/MikiDevLog/wallpaperengine-gui) - Simple GUI for linux-wallpaperengine on C++.
 - [coffebar/hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) - Per window keyboard layout (language) for Hyprland wayland compositor 
 - [nouritsu/hyprzoom](https://github.com/nouritsu/hyprzoom) - A simple yet feature rich zoom utility for Hyprland.
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
