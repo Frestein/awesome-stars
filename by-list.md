@@ -68,6 +68,7 @@
 - [gitnex-org/gitnex](https://github.com/gitnex-org/gitnex) - Android client for Forgejo(https://codeberg.org), Gitea(https://gitea.com) [OR your custom hosted server]. Mirror of https://codeberg.org/gitnex/GitNex
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
+- [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 
 <a name="art"></a>
 
@@ -385,7 +386,7 @@
 - [douo/magit-gptcommit](https://github.com/douo/magit-gptcommit) - Magit commit with help of gpt 
 - [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
 - [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
-- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
+- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - MOVED TO CODEBERG (https://codeberg.org/mclear-tools/tabspaces). This GitHub repo is an archived mirror.
 - [magit/ghub](https://github.com/magit/ghub) - Client libraries for the APIs of various Git forges
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
 - [yibie/superchat](https://github.com/yibie/superchat) - Provide a simpler and more user-friendly GPTel conversation interface.
@@ -465,7 +466,7 @@
 - [altermo/nelisp](https://github.com/altermo/nelisp) - Emacs LISP interpreter inside Neovim
 - [sshaw/git-link](https://github.com/sshaw/git-link) - Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
 - [purcell/package-lint](https://github.com/purcell/package-lint) - A linting library for elisp package metadata
-- [mclear-tools/consult-notes](https://github.com/mclear-tools/consult-notes) - Use consult to search notes
+- [mclear-tools/consult-notes](https://github.com/mclear-tools/consult-notes) - MOVED TO CODEBERG (https://codeberg.org/mclear-tools/consult-notes). Use consult to search notes. This GitHub repo is an archived mirror.
 - [karthink/consult-dir](https://github.com/karthink/consult-dir) - Insert paths into the minibuffer prompt in Emacs
 - [mohkale/consult-eglot](https://github.com/mohkale/consult-eglot) - Jump to workspace symbols with eglot and consult
 - [minad/consult-flycheck](https://github.com/minad/consult-flycheck) - Consult integration for Flycheck
