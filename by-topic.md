@@ -602,6 +602,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
@@ -2641,7 +2642,7 @@
 - [jgru/consult-org-roam](https://github.com/jgru/consult-org-roam) - A bunch of convenience functions for operating org-roam with the help of consult
 - [mohkale/consult-eglot](https://github.com/mohkale/consult-eglot) - Jump to workspace symbols with eglot and consult
 - [karthink/consult-dir](https://github.com/karthink/consult-dir) - Insert paths into the minibuffer prompt in Emacs
-- [mclear-tools/consult-notes](https://github.com/mclear-tools/consult-notes) - Use consult to search notes
+- [mclear-tools/consult-notes](https://github.com/mclear-tools/consult-notes) - MOVED TO CODEBERG (https://codeberg.org/mclear-tools/consult-notes). Use consult to search notes. This GitHub repo is an archived mirror.
 - [purcell/package-lint](https://github.com/purcell/package-lint) - A linting library for elisp package metadata
 - [ptsouchlos/modern-cv](https://github.com/ptsouchlos/modern-cv) - A modern resume template written in Typst, inspired by Awesome-CV
 - [aglet/sparkweather](https://github.com/aglet/sparkweather) - Sparkline weather forecasts in Emacs
@@ -2745,7 +2746,7 @@
 - [yibie/superchat](https://github.com/yibie/superchat) - Provide a simpler and more user-friendly GPTel conversation interface.
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
 - [magit/ghub](https://github.com/magit/ghub) - Client libraries for the APIs of various Git forges
-- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
+- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - MOVED TO CODEBERG (https://codeberg.org/mclear-tools/tabspaces). This GitHub repo is an archived mirror.
 - [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
 - [douo/magit-gptcommit](https://github.com/douo/magit-gptcommit) - Magit commit with help of gpt
 - [magit/orgit](https://github.com/magit/orgit) - Support for Org links to Magit buffers
@@ -3595,6 +3596,7 @@
 
 ## security 
 
+- [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [nikicat/gopass-secret-service](https://github.com/nikicat/gopass-secret-service) - D-Bus Secret Service provider using GoPass as backend - store secrets from any app in your GPG-encrypted password store
