@@ -744,6 +744,7 @@
 ## 📬 Inbox
 
 - [abougouffa/emacs-vim-file-locals](https://github.com/abougouffa/emacs-vim-file-locals) - Set Emacs editor options from Vim modeline
+- [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 
 <a name="keyboard"></a>
 
