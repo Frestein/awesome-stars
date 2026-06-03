@@ -728,6 +728,7 @@
 
 ## config 
 
+- [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
 
@@ -876,6 +877,7 @@
 
 ## dotfiles 
 
+- [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
@@ -3494,6 +3496,7 @@
 
 ## rust 
 
+- [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [szaffarano/org-mcp-server](https://github.com/szaffarano/org-mcp-server) - MCP server for org-mode and org-roam knowledge base management
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
