@@ -349,7 +349,6 @@
 - [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
-- [Metastem/Wikiless](https://github.com/Metastem/Wikiless) - Wikiless is a free, open-source Wikipedia alternative, focused on privacy. The project aims to deliver a more secure, anonymous browsing experience by minimizing data collection and tracking, ensuring
 - [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1511,7 +1510,7 @@
 - [turnerdev/janet-nix](https://github.com/turnerdev/janet-nix) - Nix helpers for Janet
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
-- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
+- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
 - [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
 - [marienz/nix-doom-emacs-unstraightened](https://github.com/marienz/nix-doom-emacs-unstraightened) - Builds Doom Emacs using Nix
