@@ -194,7 +194,6 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [pwmt/zathura-pdf-mupdf](https://github.com/pwmt/zathura-pdf-mupdf) - PDF support (mupdf backend) for zathura
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
-- [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [larsbrinkhoff/emacs-history](https://github.com/larsbrinkhoff/emacs-history) - Historical Emacs Software Preservation
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [Tomas-M/iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
@@ -250,6 +249,7 @@
 
 ## C++ 
 
+- [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) - Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
 - [ixray-team/ixray-1.6-stcop](https://github.com/ixray-team/ixray-1.6-stcop) - Stable repository of the modernized X-Ray 1.6 game engine
 - [themrdemonized/xray-monolith](https://github.com/themrdemonized/xray-monolith) - 
 - [OpenXRay/xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
@@ -275,7 +275,7 @@
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
-- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
+- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [optiscaler/fakenvapi](https://github.com/optiscaler/fakenvapi) - NVAPI library for spoofing an Nvidia GPU. With support for AntiLag 2, XeLL and LatencyFlex
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
@@ -776,7 +776,7 @@
 - [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [joostkremers/writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [jasonm23/autothemer](https://github.com/jasonm23/autothemer) - Conveniently create Emacs themes - watch Autothemer used by System Crafters https://www.youtube.com/watch?v=kCCIudu53Zg
@@ -1287,7 +1287,6 @@
 - [tasnimAlam/thumbnail.yazi](https://github.com/tasnimAlam/thumbnail.yazi) - A Yazi file manager plugin to open images in Swayimg gallery viewer
 - [saumyajyoti/omp.yazi](https://github.com/saumyajyoti/omp.yazi) - oh-my-posh prompt plugin for Yazi file manager
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
-- [DreamMaoMao/easyjump.yazi](https://github.com/DreamMaoMao/easyjump.yazi) - mirror of https://gitee.com/DreamMaoMao
 - [dedukun/bookmarks.yazi](https://github.com/dedukun/bookmarks.yazi) - 
 - [Lil-Dank/lazygit.yazi](https://github.com/Lil-Dank/lazygit.yazi) - lazygit plugin for yazi
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
