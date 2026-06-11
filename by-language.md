@@ -249,7 +249,8 @@
 
 ## C++ 
 
-- [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) - Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
+- [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
+- [optiscaler/OptiPatcher](https://github.com/optiscaler/OptiPatcher) - An ASI Plugin for OptiScaler to expose DLSS/DLSSG inputs without spoofing in supported games.
 - [ixray-team/ixray-1.6-stcop](https://github.com/ixray-team/ixray-1.6-stcop) - Stable repository of the modernized X-Ray 1.6 game engine
 - [themrdemonized/xray-monolith](https://github.com/themrdemonized/xray-monolith) - 
 - [OpenXRay/xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
@@ -415,7 +416,6 @@
 
 ## Emacs Lisp 
 
-- [abougouffa/emacs-vim-file-locals](https://github.com/abougouffa/emacs-vim-file-locals) - Set Emacs editor options from Vim modeline
 - [ahyatt/emacs-bluesky](https://github.com/ahyatt/emacs-bluesky) - An emacs client for Bluesky
 - [zabe40/elfeed-time](https://github.com/zabe40/elfeed-time) - Display an entry's length in elfeed
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
@@ -524,7 +524,6 @@
 - [DamianB-BitFlipper/magit-pre-commit.el](https://github.com/DamianB-BitFlipper/magit-pre-commit.el) - Emacs: pre-commit integration for Magit.
 - [bradmont/org-roam-tree](https://github.com/bradmont/org-roam-tree) - organize backlinks in the org-roam buffer as a tree
 - [yibie/org-headline-card](https://github.com/yibie/org-headline-card) - Convert Org-mode headlines and their contents into beautiful visual cards.
-- [nohzafk/consult-snapfile](https://github.com/nohzafk/consult-snapfile) - Instant file finding for Emacs, written in Rust
 - [progfolio/momacs](https://github.com/progfolio/momacs) - The Missing Emacs starter-kit!
 - [progfolio/blimpy](https://github.com/progfolio/blimpy) - Type the word BLIMPY in EMACS!!!
 - [gonewest818/elisp-lint](https://github.com/gonewest818/elisp-lint) - Basic linting for Emacs Lisp
@@ -1788,7 +1787,6 @@
 ## Rust 
 
 - [Revertron/Yggdrasil-ng](https://github.com/Revertron/Yggdrasil-ng) - Yggdrasil Network rewritten in Rust.
-- [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [jondkinney/tensaku](https://github.com/jondkinney/tensaku) - Tensaku - Modern Screenshot Annotation.
 - [szaffarano/org-mcp-server](https://github.com/szaffarano/org-mcp-server) - MCP server for org-mode and org-roam knowledge base management
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
