@@ -728,7 +728,6 @@
 
 ## config 
 
-- [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
 
@@ -877,7 +876,6 @@
 
 ## dotfiles 
 
-- [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
@@ -948,7 +946,6 @@
 - [d12frosted/vulpea-ui](https://github.com/d12frosted/vulpea-ui) - A widget-based sidebar for Emacs that displays contextual information (stats, outline, backlinks, links) for vulpea notes
 - [gavv/om-dash](https://github.com/gavv/om-dash) - Building blocks for org-based dashboards.
 - [jkitchin/scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
-- [nohzafk/consult-snapfile](https://github.com/nohzafk/consult-snapfile) - Instant file finding for Emacs, written in Rust
 - [gonewest818/elisp-lint](https://github.com/gonewest818/elisp-lint) - Basic linting for Emacs Lisp
 - [jtmoulia/elisp-koans](https://github.com/jtmoulia/elisp-koans) - Emacs Lisp Koans -- learn elisp through test-driven development.
 - [misohena/el-vkbd](https://github.com/misohena/el-vkbd) - A software keyboard implemented in Emacs Lisp that runs inside Emacs.
@@ -2394,10 +2391,10 @@
 
 ## others 
 
-- [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) - Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
+- [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
+- [optiscaler/OptiPatcher](https://github.com/optiscaler/OptiPatcher) - An ASI Plugin for OptiScaler to expose DLSS/DLSSG inputs without spoofing in supported games.
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [fniessen/refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Get organized and boost your productivity with our comprehensive Org mode syntax reference card! Get a quick access to helpful tips and tricks. #orgmode #syntax #productivity #referencecard
-- [abougouffa/emacs-vim-file-locals](https://github.com/abougouffa/emacs-vim-file-locals) - Set Emacs editor options from Vim modeline
 - [ahyatt/emacs-bluesky](https://github.com/ahyatt/emacs-bluesky) - An emacs client for Bluesky
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [jondkinney/tensaku](https://github.com/jondkinney/tensaku) - Tensaku - Modern Screenshot Annotation.
@@ -3495,7 +3492,6 @@
 
 ## rust 
 
-- [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [szaffarano/org-mcp-server](https://github.com/szaffarano/org-mcp-server) - MCP server for org-mode and org-roam knowledge base management
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
