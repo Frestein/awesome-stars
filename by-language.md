@@ -1511,7 +1511,6 @@
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [turnerdev/janet-nix](https://github.com/turnerdev/janet-nix) - Nix helpers for Janet
-- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
 - [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations.
 - [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
@@ -1587,6 +1586,7 @@
 - [Jason94/awesome-coalton](https://github.com/Jason94/awesome-coalton) - A collection of awesome Coalton libraries, tutorials, examples, and applications.
 - [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [james-stoup/org-mode-table-tutorial](https://github.com/james-stoup/org-mode-table-tutorial) - A simplified guide to mastering Org Mode table functions
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [schemedoc/awesome-scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources
@@ -1668,6 +1668,7 @@
 
 ## Python 
 
+- [Jollu8/C-INTERVIEW-QUESTIONS](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) - ВОПРОСЫ НА СОБЕСЕДОВАНИИ ПО С++
 - [Flowseal/tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
