@@ -2391,6 +2391,7 @@
 
 ## others 
 
+- [Jollu8/C-INTERVIEW-QUESTIONS](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) - ВОПРОСЫ НА СОБЕСЕДОВАНИИ ПО С++
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
 - [optiscaler/OptiPatcher](https://github.com/optiscaler/OptiPatcher) - An ASI Plugin for OptiScaler to expose DLSS/DLSSG inputs without spoofing in supported games.
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
