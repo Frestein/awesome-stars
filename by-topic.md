@@ -972,7 +972,7 @@
 - [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
 - [elisp-lsp/Ellsp](https://github.com/elisp-lsp/Ellsp) - Elisp Language Server
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
-- [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el) - Emacs package for searching code using ast-grep with `completing-read' interface or `consult'
+- [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el) - Emacs package for searching code with ast-grep via completing-read, consult, or ivy/counsel.
 - [minad/consult-flycheck](https://github.com/minad/consult-flycheck) - Consult integration for Flycheck
 - [sshaw/git-link](https://github.com/sshaw/git-link) - Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
 - [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el, a unified method to fold and unfold text in Emacs: outline, outline-indent, org-mode, markdown-mode, gfm-mode, vdiff, hideshow, fold-this, ts-fold, treesit-fold, vimish-fold...
@@ -1738,6 +1738,7 @@
 
 ## linux 
 
+- [ralgar/vkShade](https://github.com/ralgar/vkShade) - A ReShade-compatible Vulkan post-processing layer for Linux
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
@@ -2391,6 +2392,7 @@
 
 ## others 
 
+- [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
 - [Jollu8/C-INTERVIEW-QUESTIONS](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) - ВОПРОСЫ НА СОБЕСЕДОВАНИИ ПО С++
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
 - [optiscaler/OptiPatcher](https://github.com/optiscaler/OptiPatcher) - An ASI Plugin for OptiScaler to expose DLSS/DLSSG inputs without spoofing in supported games.
@@ -3124,7 +3126,7 @@
 - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [glfs-book/glfs](https://github.com/glfs-book/glfs) - This book covers the installation of graphics drivers, Steam, Wine, and more following a Linux From Scratch install.
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
-- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
+- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
