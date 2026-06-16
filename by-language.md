@@ -419,6 +419,7 @@
 
 ## Emacs Lisp 
 
+- [krvkir/org-mindmap](https://github.com/krvkir/org-mindmap) - Editable mindmaps for org-mode.
 - [ahyatt/emacs-bluesky](https://github.com/ahyatt/emacs-bluesky) - An emacs client for Bluesky
 - [zabe40/elfeed-time](https://github.com/zabe40/elfeed-time) - Display an entry's length in elfeed
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
@@ -478,7 +479,7 @@
 - [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K vi
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause GC and 100% Emacs compatibil
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
@@ -974,7 +975,6 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [gopasspw/gopass-hibp](https://github.com/gopasspw/gopass-hibp) - Gopass haveibeenpwnd.com integration
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Achno/gocheat](https://github.com/Achno/gocheat) - A beautiful customizable TUI Cheatsheet for keybindings,hotkeys and more in the terminal
 - [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) - Right imports sorting & code formatting tool (goimports alternative)
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -1032,6 +1032,7 @@
 - [chenyanming/shrface](https://github.com/chenyanming/shrface) - Extend eww/nov with org-mode features, archive web pages to org files with shr.
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - Website with comprehensive comparisons, histories, and other information across many areas of computing and technology.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [censortracker/censortracker](https://github.com/censortracker/censortracker) - Censor Tracker is a censorship circumvention extension for Google Chrome and Mozilla Firefox.
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -1671,6 +1672,7 @@
 
 ## Python 
 
+- [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
 - [Jollu8/C-INTERVIEW-QUESTIONS](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) - ВОПРОСЫ НА СОБЕСЕДОВАНИИ ПО С++
 - [Flowseal/tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
@@ -1789,6 +1791,7 @@
 
 ## Rust 
 
+- [koibtw/nvrs](https://github.com/koibtw/nvrs) - 🚦 fast new version checker for software releases 🦀
 - [Revertron/Yggdrasil-ng](https://github.com/Revertron/Yggdrasil-ng) - Yggdrasil Network rewritten in Rust.
 - [jondkinney/tensaku](https://github.com/jondkinney/tensaku) - Tensaku - Modern Screenshot Annotation.
 - [szaffarano/org-mcp-server](https://github.com/szaffarano/org-mcp-server) - MCP server for org-mode and org-roam knowledge base management
