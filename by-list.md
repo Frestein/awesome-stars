@@ -577,7 +577,7 @@
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause GC and 100% Emacs compatibility.
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
@@ -750,6 +750,9 @@
 - [ralgar/vkShade](https://github.com/ralgar/vkShade) - A ReShade-compatible Vulkan post-processing layer for Linux
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 - [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
+- [krvkir/org-mindmap](https://github.com/krvkir/org-mindmap) - Editable mindmaps for org-mode.
+- [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
+- [koibtw/nvrs](https://github.com/koibtw/nvrs) - 🚦 fast new version checker for software releases 🦀
 
 <a name="keyboard"></a>
 
