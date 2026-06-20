@@ -1168,6 +1168,7 @@
 
 ## Kotlin 
 
+- [amurcanov/tg-ws-proxy-android](https://github.com/amurcanov/tg-ws-proxy-android) - Android-форк популярного приложения Flowseal - tg-ws-proxy - локальный прокси-сервер MTProto с проксированием CF или без для частичного обхода проблем загрузки Telegram
 - [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
