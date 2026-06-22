@@ -921,6 +921,7 @@
 
 ## Go 
 
+- [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainers=@water-sucks,@Sporif]
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
