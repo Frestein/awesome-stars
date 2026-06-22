@@ -754,6 +754,7 @@
 - [krvkir/org-mindmap](https://github.com/krvkir/org-mindmap) - Editable mindmaps for org-mode.
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
 - [koibtw/nvrs](https://github.com/koibtw/nvrs) - 🚦 fast new version checker for software releases 🦀
+- [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 
 <a name="keyboard"></a>
 
