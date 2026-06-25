@@ -308,7 +308,6 @@
 - [kickingvegas/casual-avy](https://github.com/kickingvegas/casual-avy) - Casual Avy - An opinionated Transient menu for Avy.
 - [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) - 🧮 Literate programming for M-x calc
 - [bzg/org-mode](https://github.com/bzg/org-mode) - This is a MIRROR only, do not send PR.
-- [tecosaur/screenshot](https://github.com/tecosaur/screenshot) - Mirror of https://git.tecosaur.net/tec/screenshot.el
 - [protesilaos/fontaine](https://github.com/protesilaos/fontaine) - Set Emacs font configurations using presets
 - [konrad1977/flyover](https://github.com/konrad1977/flyover) - A beautiful inline overlay for Emacs (Flycheck \| Flymake)
 - [CeleritasCelery/rune](https://github.com/CeleritasCelery/rune) - Rust VM for Emacs
@@ -578,7 +577,7 @@
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause GC and 100% Emacs compatibility.
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
@@ -747,7 +746,6 @@
 
 ## 📬 Inbox
 
-- [Jollu8/C-INTERVIEW-QUESTIONS](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) - ВОПРОСЫ НА СОБЕСЕДОВАНИИ ПО С++
 - [ralgar/vkShade](https://github.com/ralgar/vkShade) - A ReShade-compatible Vulkan post-processing layer for Linux
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 - [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
@@ -756,6 +754,7 @@
 - [koibtw/nvrs](https://github.com/koibtw/nvrs) - 🚦 fast new version checker for software releases 🦀
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [xenodium/ytr](https://github.com/xenodium/ytr) - An Emacs package to stream YouTube audio (powered by yt-dlp and mpv)
+- [parenworks/clatter.el](https://github.com/parenworks/clatter.el) - An IRCv3-compliant IRC client for Emacs
 
 <a name="keyboard"></a>
 
@@ -1067,7 +1066,6 @@
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for _all_ projects files, not just opened ones.
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - Debugging in NeoVim the print() way!
@@ -1143,9 +1141,6 @@
 - [lumen-oss/rocks-dev.nvim](https://github.com/lumen-oss/rocks-dev.nvim) - A swiss-army knife for testing and developing rocks.nvim modules.
 - [lumen-oss/rocks-edit.nvim](https://github.com/lumen-oss/rocks-edit.nvim) - See useful diagnostics right from your rocks.toml
 - [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) - Collection of DOs and DON'Ts for modern Neovim Lua plugin development
-- [aileot/ex-colors.nvim](https://github.com/aileot/ex-colors.nvim) - 🌈 Optimize your favorite colorscheme!
-- [aileot/emission.nvim](https://github.com/aileot/emission.nvim) - ✨ Highlight arbitrary text changes by undo, redo, :substitute, etc.
-- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of Fennel macros cherry-picking the finest syntax from Vim script and Lua, compiled into the native Neovim API functions.
 - [cuducos/spellfile.nvim](https://github.com/cuducos/spellfile.nvim) - 🌕 Port of spellfile.vim to Lua without depending on netrw
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP renaming based on Neovim's command-preview feature.
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
@@ -1212,7 +1207,6 @@
 - [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of quality-of-life features related to folding.
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
-- [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) - 🕛 Zero-overhead Fennel JIT compiler at runtime of Neovim with safety rollbacks
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
 - [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) - 🌈 Add animated glow/highlight effects to your neovim operation (undo, redo, yank, paste and more) with simple APIs. Alternatives to highlight-undo.nvim and tiny-glimmer.nvim.
@@ -1525,7 +1519,7 @@
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
