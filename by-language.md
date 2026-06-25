@@ -156,6 +156,7 @@
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [Cudiph/cwcwm](https://github.com/Cudiph/cwcwm) - Hackable wayland compositor
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
+- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
@@ -275,7 +276,6 @@
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, Wayland Compositor
-- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
@@ -411,7 +411,7 @@
 ## Dart 
 
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
@@ -419,6 +419,7 @@
 
 ## Emacs Lisp 
 
+- [parenworks/clatter.el](https://github.com/parenworks/clatter.el) - An IRCv3-compliant IRC client for Emacs
 - [xenodium/ytr](https://github.com/xenodium/ytr) - An Emacs package to stream YouTube audio (powered by yt-dlp and mpv)
 - [krvkir/org-mindmap](https://github.com/krvkir/org-mindmap) - Editable mindmaps for org-mode.
 - [ahyatt/emacs-bluesky](https://github.com/ahyatt/emacs-bluesky) - An emacs client for Bluesky
@@ -480,7 +481,7 @@
 - [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause GC and 100% Emacs compatibil
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
@@ -725,7 +726,6 @@
 - [CeleritasCelery/rune](https://github.com/CeleritasCelery/rune) - Rust VM for Emacs
 - [konrad1977/flyover](https://github.com/konrad1977/flyover) - A beautiful inline overlay for Emacs (Flycheck | Flymake)
 - [protesilaos/fontaine](https://github.com/protesilaos/fontaine) - Set Emacs font configurations using presets
-- [tecosaur/screenshot](https://github.com/tecosaur/screenshot) - Mirror of https://git.tecosaur.net/tec/screenshot.el
 - [bzg/org-mode](https://github.com/bzg/org-mode) - This is a MIRROR only, do not send PR.
 - [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) - 🧮 Literate programming for M-x calc
 - [kickingvegas/casual-avy](https://github.com/kickingvegas/casual-avy) - Casual Avy - An opinionated Transient menu for Avy.
@@ -903,11 +903,8 @@
 ## Fennel 
 
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
-- [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) - 🕛 Zero-overhead Fennel JIT compiler at runtime of Neovim with safety rollbacks
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of Fennel macros cherry-picking the finest syntax from Vim script and Lua, compiled into the native Neovim API functions.
-- [aileot/emission.nvim](https://github.com/aileot/emission.nvim) - ✨ Highlight arbitrary text changes by undo, redo, :substitute, etc.
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 
@@ -1327,7 +1324,6 @@
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP renaming based on Neovim's command-preview feature.
 - [cuducos/spellfile.nvim](https://github.com/cuducos/spellfile.nvim) - 🌕 Port of spellfile.vim to Lua without depending on netrw
-- [aileot/ex-colors.nvim](https://github.com/aileot/ex-colors.nvim) - 🌈 Optimize your favorite colorscheme!
 - [mrcjkb/lua-typecheck-action](https://github.com/mrcjkb/lua-typecheck-action) - A GitHub action that lets you leverage sumneko lua-language-server and EmmyLua to statically type check lua code.
 - [lumen-oss/rocks-edit.nvim](https://github.com/lumen-oss/rocks-edit.nvim) - See useful diagnostics right from your rocks.toml
 - [lumen-oss/rocks-dev.nvim](https://github.com/lumen-oss/rocks-dev.nvim) - A swiss-army knife for testing and developing rocks.nvim modules.
@@ -1401,7 +1397,6 @@
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - Debugging in NeoVim the print() way!
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for _all_ projects files, not just opened ones.
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
@@ -1676,7 +1671,6 @@
 ## Python 
 
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
-- [Jollu8/C-INTERVIEW-QUESTIONS](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) - ВОПРОСЫ НА СОБЕСЕДОВАНИИ ПО С++
 - [Flowseal/tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
@@ -1868,7 +1862,7 @@
 - [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
