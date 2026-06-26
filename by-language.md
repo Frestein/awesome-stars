@@ -247,11 +247,11 @@
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
+- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - Real-time anime upscaling to 4K in mpv with lightweight super-resolution models
 
 ## C++ 
 
-- [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
+- [reakjra/vkSumi](https://github.com/reakjra/vkSumi) - Vulkan layer for color grading for Linux games.
 - [ralgar/vkShade](https://github.com/ralgar/vkShade) - A ReShade-compatible Vulkan post-processing layer for Linux
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
 - [optiscaler/OptiPatcher](https://github.com/optiscaler/OptiPatcher) - An ASI Plugin for OptiScaler to expose DLSS/DLSSG inputs without spoofing in supported games.
@@ -419,9 +419,6 @@
 
 ## Emacs Lisp 
 
-- [parenworks/clatter.el](https://github.com/parenworks/clatter.el) - An IRCv3-compliant IRC client for Emacs
-- [xenodium/ytr](https://github.com/xenodium/ytr) - An Emacs package to stream YouTube audio (powered by yt-dlp and mpv)
-- [krvkir/org-mindmap](https://github.com/krvkir/org-mindmap) - Editable mindmaps for org-mode.
 - [ahyatt/emacs-bluesky](https://github.com/ahyatt/emacs-bluesky) - An emacs client for Bluesky
 - [zabe40/elfeed-time](https://github.com/zabe40/elfeed-time) - Display an entry's length in elfeed
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
@@ -469,7 +466,6 @@
 - [abcdw/emacs-arei](https://github.com/abcdw/emacs-arei) - Asynchronous Reliable Extensible IDE for Guile Scheme
 - [Kirth/ewm-consult](https://github.com/Kirth/ewm-consult) - EWM Consult integration/extension
 - [JonWaltman/pcmpl-args.el](https://github.com/JonWaltman/pcmpl-args.el) - Enhanced shell completion in Emacs
-- [yibie/chai](https://github.com/yibie/chai) - "拆" (chāi) — to dismantle, break down, and digest complex knowledge into your own understanding.
 - [Jeremias-A-Queiroz/eConky](https://github.com/Jeremias-A-Queiroz/eConky) - A side-buffer dashboard for Emacs inspired by Conky.
 - [juliapath/evil-numbers](https://github.com/juliapath/evil-numbers) - Increment and decrement numbers in Emacs
 - [Prgebish/flash](https://github.com/Prgebish/flash) - Flash-style navigation for Emacs — jump to any location with search labels
@@ -481,7 +477,6 @@
 - [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
 - [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
@@ -518,7 +513,6 @@
 - [protesilaos/ef-themes](https://github.com/protesilaos/ef-themes) - Colourful and legible themes for GNU Emacs
 - [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
 - [d12frosted/widget-extra](https://github.com/d12frosted/widget-extra) - Extra widgets that extend built-in library
-- [eval-exec/eee.el](https://github.com/eval-exec/eee.el) - Launch TUI commands in an external terminal asynchronously💪 , seamlessly integrating callbacks within Emacs⚡. Elevate your Emacs experience with eee.el 🥰
 - [fabcontigiani/consult-vulpea](https://github.com/fabcontigiani/consult-vulpea) - Use Consult in tandem with Vulpea
 - [d12frosted/vulpea-journal](https://github.com/d12frosted/vulpea-journal) - Modern daily journaling interface for Emacs with reactive sidebar widgets, built on vulpea
 - [d12frosted/vulpea-ui](https://github.com/d12frosted/vulpea-ui) - A widget-based sidebar for Emacs that displays contextual information (stats, outline, backlinks, links) for vulpea notes
@@ -529,7 +523,6 @@
 - [jkitchin/scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
 - [DamianB-BitFlipper/magit-pre-commit.el](https://github.com/DamianB-BitFlipper/magit-pre-commit.el) - Emacs: pre-commit integration for Magit.
 - [bradmont/org-roam-tree](https://github.com/bradmont/org-roam-tree) - organize backlinks in the org-roam buffer as a tree
-- [yibie/org-headline-card](https://github.com/yibie/org-headline-card) - Convert Org-mode headlines and their contents into beautiful visual cards.
 - [progfolio/momacs](https://github.com/progfolio/momacs) - The Missing Emacs starter-kit!
 - [progfolio/blimpy](https://github.com/progfolio/blimpy) - Type the word BLIMPY in EMACS!!!
 - [gonewest818/elisp-lint](https://github.com/gonewest818/elisp-lint) - Basic linting for Emacs Lisp
@@ -547,8 +540,6 @@
 - [flycheck/flycheck-eglot](https://github.com/flycheck/flycheck-eglot) - Flycheck support for eglot
 - [d12frosted/vui.el](https://github.com/d12frosted/vui.el) - Declarative, component-based UI library for Emacs. React-like components with state, hooks, reconciliation, and layouts - rendered using native Emacs widgets.
 - [jorgenschaefer/emacs-buttercup](https://github.com/jorgenschaefer/emacs-buttercup) - Behavior-Driven Emacs Lisp Testing
-- [anuvyklack/hel](https://github.com/anuvyklack/hel) - Helix emulation layer for Emacs
-- [emacs-circe/circe](https://github.com/emacs-circe/circe) - Circe, a Client for IRC in Emacs
 - [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
 - [antrmn/org-rnote](https://github.com/antrmn/org-rnote) - Rnote integration for Org Mode
 - [SebastianMeisel/tesseract.el](https://github.com/SebastianMeisel/tesseract.el) - Emacs integretion for Tesseract OCR
@@ -621,7 +612,6 @@
 - [alphapapa/org-protocol-capture-html](https://github.com/alphapapa/org-protocol-capture-html) - Capture HTML from the browser selection into Emacs as org-mode content
 - [yantar92/org-capture-ref](https://github.com/yantar92/org-capture-ref) - Extract metadata/bibtex info from websites for org-capture
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
-- [yibie/org-luhmann](https://github.com/yibie/org-luhmann) - Luhmann's numbering system for org-mode
 - [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
 - [xzz53/mu4e-alert](https://github.com/xzz53/mu4e-alert) - Desktop notifications and modeline display for mu4e
 - [Artawower/file-info.el](https://github.com/Artawower/file-info.el) - All necessary information about current file in hydra + posframe
@@ -652,7 +642,6 @@
 - [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
 - [eshelyaron/semel](https://github.com/eshelyaron/semel) - Semantic highlighting for Emacs Lisp
 - [k-talo/volatile-highlights.el](https://github.com/k-talo/volatile-highlights.el) - Transient visual feedback for edits in Emacs. STATUS: *STABLE*
-- [yibie/superchat](https://github.com/yibie/superchat) - Provide a simpler and more user-friendly GPTel conversation interface.
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
 - [magit/ghub](https://github.com/magit/ghub) - Client libraries for the APIs of various Git forges
 - [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - MOVED TO CODEBERG (https://codeberg.org/mclear-tools/tabspaces). This GitHub repo is an archived mirror.
@@ -719,7 +708,6 @@
 - [LionyxML/emacs-kick](https://github.com/LionyxML/emacs-kick) - A feature rich Emacs (kickstarter) config for (neo)vi(m)mers
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
 - [lorniu/gt.el](https://github.com/lorniu/gt.el) - Translator on Emacs.  Support multiple engines such as Google, Bing, deepL, StarDict and Youdao, also support LLMs like ChatGPT, DeepSeek and so on.
-- [yibie/grid-table](https://github.com/yibie/grid-table) - A native table system for Emacs! Supports rich text, formula calculation, and plugin extensions
 - [TeMPOraL/nyan-mode](https://github.com/TeMPOraL/nyan-mode) - Nyan Cat for Emacs! Nyanyanyanyanyanyanyanyanyan!
 - [qdot/deldo](https://github.com/qdot/deldo) - Deldo is a sex toy control and teledildonics mode for Emacs
 - [rejeep/drag-stuff.el](https://github.com/rejeep/drag-stuff.el) - Drag stuff around in Emacs
@@ -731,7 +719,6 @@
 - [kickingvegas/casual-avy](https://github.com/kickingvegas/casual-avy) - Casual Avy - An opinionated Transient menu for Avy.
 - [kickingvegas/casual](https://github.com/kickingvegas/casual) - A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.
 - [kljohann/mpv.el](https://github.com/kljohann/mpv.el) - control mpv for easy note taking
-- [yibie/org-embed](https://github.com/yibie/org-embed) - An Emacs package for embedding various content in Org-mode.
 - [armindarvish/consult-gh](https://github.com/armindarvish/consult-gh) - An Interactive interface for "GitHub CLI" client inside GNU Emacs using Consult
 - [ryuslash/git-auto-commit-mode](https://github.com/ryuslash/git-auto-commit-mode) - Automatically commit to git after each save
 - [shingo256/trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
@@ -786,8 +773,6 @@
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [jasonm23/autothemer](https://github.com/jasonm23/autothemer) - Conveniently create Emacs themes - watch Autothemer used by System Crafters https://www.youtube.com/watch?v=kCCIudu53Zg
 - [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
-- [yibie/org-supertag](https://github.com/yibie/org-supertag) - Implement a modern note-taking app style in Org-mode.
-- [yibie/org-include-inline](https://github.com/yibie/org-include-inline) - A minor mode for Org mode that displays #+INCLUDE directive contents inline within your Org buffers.
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [jdtsmith/eglot-booster](https://github.com/jdtsmith/eglot-booster) - Boost eglot using lsp-booster
 - [linktohack/evil-commentary](https://github.com/linktohack/evil-commentary) - Comment stuff out. A port of vim-commentary
@@ -1257,7 +1242,6 @@
 - [uhs-robert/recycle-bin.yazi](https://github.com/uhs-robert/recycle-bin.yazi) - 🗑️ recycle-bin.yazi is a Recycle Bin for Yazi with browse, restore, and cleanup capabilities. Give  your files a second chance before they're garbage collected!
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) - free AI completion plugin for neovim
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Async library for Neovim plugins
-- [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) - 🌈 Add animated glow/highlight effects to your neovim operation (undo, redo, yank, paste and more) with simple APIs. Alternatives to highlight-undo.nvim and tiny-glimmer.nvim.
 - [AnirudhG07/custom-shell.yazi](https://github.com/AnirudhG07/custom-shell.yazi) - Set your custom-shell as default shell in yazi!
 - [uhs-robert/sshfs.yazi](https://github.com/uhs-robert/sshfs.yazi) - 📡 Integrates SSH and SSHFS into the Yazi terminal file manager, letting you mount remote systems, browse and edit remote files like local ones, open interactive SSH terminals, select custom remote pat
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
@@ -1449,7 +1433,7 @@
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Provides Nerd Font icons (glyphs) for use by neovim plugins
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
@@ -1787,7 +1771,6 @@
 
 ## Rust 
 
-- [koibtw/nvrs](https://github.com/koibtw/nvrs) - 🚦 fast new version checker for software releases 🦀
 - [Revertron/Yggdrasil-ng](https://github.com/Revertron/Yggdrasil-ng) - Yggdrasil Network rewritten in Rust.
 - [jondkinney/tensaku](https://github.com/jondkinney/tensaku) - Tensaku - Modern Screenshot Annotation.
 - [szaffarano/org-mcp-server](https://github.com/szaffarano/org-mcp-server) - MCP server for org-mode and org-roam knowledge base management
