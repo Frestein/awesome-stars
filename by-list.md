@@ -879,7 +879,6 @@
 - [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop) - Desktop Environment based on GNUstep welcoming to switchers
 - [LeChatP/RootAsRole](https://github.com/LeChatP/RootAsRole) - A better alternative to sudo(-rs)/su • ⚡ Blazing fast • 🛡️ Memory-safe • 🔐 Security-oriented
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
-- [hyprwm/hyprqt6engine](https://github.com/hyprwm/hyprqt6engine) - QT6 Theme Provider for Hyprland
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools (read-only mirror)
 - [dracut-ng/dracut](https://github.com/dracut-ng/dracut) - dracut - the event driven initramfs infrastructure
 - [coderonline/base16-vtrgb](https://github.com/coderonline/base16-vtrgb) - virtual terminal color schemes to be used with setvtrgb
