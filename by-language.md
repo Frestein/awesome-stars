@@ -97,8 +97,8 @@
 
 ## C 
 
+- [kavau/atrium](https://github.com/kavau/atrium) - A Wayland display manager for Linux with first-class multiseat support.
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
-- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [PipeWire/wireplumber](https://github.com/PipeWire/wireplumber) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/wireplumber/)
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
