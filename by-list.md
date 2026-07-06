@@ -735,7 +735,7 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [kavau/atrium](https://github.com/kavau/atrium) - A Wayland display manager for Linux with first-class multiseat support.
 
 <a name="keyboard"></a>
 
