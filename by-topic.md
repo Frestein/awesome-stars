@@ -1755,6 +1755,7 @@
 
 ## linux 
 
+- [kavau/atrium](https://github.com/kavau/atrium) - A Wayland display manager for Linux with first-class multiseat support.
 - [reakjra/vkSumi](https://github.com/reakjra/vkSumi) - Vulkan layer for color grading for Linux games.
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [ralgar/vkShade](https://github.com/ralgar/vkShade) - A ReShade-compatible Vulkan post-processing layer for Linux
