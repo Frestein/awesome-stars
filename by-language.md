@@ -475,7 +475,6 @@
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
 - [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
 - [QiangF/org-extra-emphasis](https://github.com/QiangF/org-extra-emphasis) - Extra Emphasis markers for Emacs Org mode
-- [juergenhoetzel/pkgbuild-mode](https://github.com/juergenhoetzel/pkgbuild-mode) - Major mode for editing PKGBUILD files
 - [elken/eshell-p10k](https://github.com/elken/eshell-p10k) - p10k prompt framework for eshell
 - [iostapyshyn/eshell-vterm](https://github.com/iostapyshyn/eshell-vterm) - Run eshell-visual-commands in Vterm
 - [xuchunyang/shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
