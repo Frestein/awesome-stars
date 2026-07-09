@@ -2146,7 +2146,6 @@
 - [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim) - doom-emacs' doom-one Lua port for Neovim
 - [andersevenrud/nvim_context_vt](https://github.com/andersevenrud/nvim_context_vt) - Virtual text context for neovim treesitter
 - [gn0/nvim-web-server](https://github.com/gn0/nvim-web-server) - Turn Neovim into a web server
-- [sj2tpgk/nvim-eldoc](https://github.com/sj2tpgk/nvim-eldoc) - Eldoc for Neovim! (mirrored from https://codeberg.org/sj2tpgk/nvim-eldoc)
 - [WilliamHsieh/overlook.nvim](https://github.com/WilliamHsieh/overlook.nvim) - Stackable popups for Neovim. Peek around the code without overlooking the bigger picture.
 - [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management for Neovim
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Async library for Neovim plugins
