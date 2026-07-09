@@ -1191,7 +1191,6 @@
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) - free AI completion plugin for neovim
 - [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management for Neovim
 - [WilliamHsieh/overlook.nvim](https://github.com/WilliamHsieh/overlook.nvim) - Stackable popups for Neovim. Peek around the code without overlooking the bigger picture.
-- [sj2tpgk/nvim-eldoc](https://github.com/sj2tpgk/nvim-eldoc) - Eldoc for Neovim! (mirrored from https://codeberg.org/sj2tpgk/nvim-eldoc)
 - [gn0/nvim-web-server](https://github.com/gn0/nvim-web-server) - Turn Neovim into a web server
 - [andersevenrud/nvim_context_vt](https://github.com/andersevenrud/nvim_context_vt) - Virtual text context for neovim treesitter
 - [BirdeeHub/lze](https://github.com/BirdeeHub/lze) - A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
