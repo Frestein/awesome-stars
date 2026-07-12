@@ -733,8 +733,7 @@
 
 ## 📬 Inbox
 
-- [kavau/atrium](https://github.com/kavau/atrium) - A Wayland display manager for Linux with first-class multiseat support.
-- [z80dev/uv-mode](https://github.com/z80dev/uv-mode) - emacs integration for uv virtual environments
+- No repositories
 
 <a name="keyboard"></a>
 
