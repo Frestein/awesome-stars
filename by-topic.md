@@ -117,7 +117,6 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
-- [jekyll](#jekyll)
 - [jetpack-compose](#jetpack-compose)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
@@ -1643,10 +1642,6 @@
 - [Zeioth/compiler.nvim](https://github.com/Zeioth/compiler.nvim) - Neovim compiler for building and running your code without having to configure anything
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
-## jekyll 
-
-- [precondition/precondition.github.io](https://github.com/precondition/precondition.github.io) - Personal Weblog with tools and guides for QMK keyboards. Home of the home row mods guide
-
 ## jetpack-compose 
 
 - [pass-with-high-score/universal-installer](https://github.com/pass-with-high-score/universal-installer) - A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning.
@@ -2615,8 +2610,6 @@
 - [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
 - [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
 - [clojure/clojurescript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
-- [denilsonsa/gimp-palettes](https://github.com/denilsonsa/gimp-palettes) - RGB color palettes for Gimp
-- [loloolooo/photoshop-keymap-for-gimp](https://github.com/loloolooo/photoshop-keymap-for-gimp) - This extension ports popular Photoshop keyboard shortcuts to GIMP.
 - [antrmn/org-rnote](https://github.com/antrmn/org-rnote) - Rnote integration for Org Mode
 - [SebastianMeisel/tesseract.el](https://github.com/SebastianMeisel/tesseract.el) - Emacs integretion for Tesseract OCR
 - [nouritsu/hyprzoom](https://github.com/nouritsu/hyprzoom) - A simple yet feature rich zoom utility for Hyprland.
@@ -2812,7 +2805,6 @@
 - [yuja/tree-sitter-qmljs](https://github.com/yuja/tree-sitter-qmljs) - QML grammar for the tree-sitter parsing library
 - [xhcoding/qml-ts-mode](https://github.com/xhcoding/qml-ts-mode) - Emacs major mode for editing Qt Declarative (QML) code.
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
-- [lepisma/org-krita](https://github.com/lepisma/org-krita) - Krita sketches in Org
 - [po5/celebi](https://github.com/po5/celebi) - mpv script to restore properties from past sessions
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [emacsmirror/zoxide](https://github.com/emacsmirror/zoxide) - Find file by zoxide
@@ -2913,7 +2905,6 @@
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [Bad-ptr/persp-mode.el](https://github.com/Bad-ptr/persp-mode.el) - named perspectives(set of buffers/window configs) for emacs
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
@@ -3858,7 +3849,6 @@
 - [AdguardTeam/AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra) - AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren't enough.
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [tophf/mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
-- [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 
 ## v2ray 
 
