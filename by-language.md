@@ -347,9 +347,7 @@
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [jj-for-everyone/jj-for-everyone.github.io](https://github.com/jj-for-everyone/jj-for-everyone.github.io) - A Jujutsu tutorial that requires no previous experience with Git or other version control systems.
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
-- [precondition/precondition.github.io](https://github.com/precondition/precondition.github.io) - Personal Weblog with tools and guides for QMK keyboards. Home of the home row mods guide
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
@@ -672,7 +670,6 @@
 - [tanrax/org-social.el](https://github.com/tanrax/org-social.el) - Emacs client for Org Social
 - [hron/dock.el](https://github.com/hron/dock.el) - Integrate desktop environment's taskbar/dock with Emacs
 - [hron/org-agenda-dock](https://github.com/hron/org-agenda-dock) - Integrate org-mode with Gnome's Dock or KDE's taskbar
-- [lepisma/org-krita](https://github.com/lepisma/org-krita) - Krita sketches in Org
 - [emacsmirror/zoxide](https://github.com/emacsmirror/zoxide) - Find file by zoxide
 - [ml729/org-habit-stats](https://github.com/ml729/org-habit-stats) - Stats and visuals for Emacs org-mode habits
 - [gs-101/emacs-master](https://github.com/gs-101/emacs-master) - Guix channel for the latest Emacs from the master branch.
@@ -1571,7 +1568,6 @@
 - [schemedoc/awesome-scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
-- [loloolooo/photoshop-keymap-for-gimp](https://github.com/loloolooo/photoshop-keymap-for-gimp) - This extension ports popular Photoshop keyboard shortcuts to GIMP.
 - [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [xenodesire/awesome-lem](https://github.com/xenodesire/awesome-lem) - A curated list of lem editor resources.
 - [npupko/awesome-helix](https://github.com/npupko/awesome-helix) - A curated list of awesome Helix editor resources, plugins, themes, and tools.
@@ -1661,7 +1657,6 @@
 - [nmoroze/tclint](https://github.com/nmoroze/tclint) - Modern dev tools for Tcl • includes a linter, formatter, and editor integration.
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
-- [denilsonsa/gimp-palettes](https://github.com/denilsonsa/gimp-palettes) - RGB color palettes for Gimp
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [AzuredBlue/mpv-anilist-updater](https://github.com/AzuredBlue/mpv-anilist-updater) - MPV Script for AniList, Automatically updates your anilist with anime that you watch.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
@@ -2058,7 +2053,6 @@
 - [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) - Proof-of-origin token provider plugin for yt-dlp
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
