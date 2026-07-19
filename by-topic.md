@@ -120,7 +120,6 @@
 - [language](#language)
 - [languages](#languages)
 - [laravel](#laravel)
-- [latex](#latex)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -819,7 +818,6 @@
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
@@ -855,6 +853,7 @@
 
 ## emacs 
 
+- [abidanBrito/sleek-modeline](https://github.com/abidanBrito/sleek-modeline) - A minimal and elegant modeline for Emacs.
 - [zabe40/elfeed-time](https://github.com/zabe40/elfeed-time) - Display an entry's length in elfeed
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [alphapapa/org-make-toc](https://github.com/alphapapa/org-make-toc) - Automatic tables of contents for Org-mode files
@@ -923,7 +922,6 @@
 - [dandavison/magit-delta](https://github.com/dandavison/magit-delta) - Use delta (https://github.com/dandavison/delta) when viewing diffs in Magit
 - [agzam/browser-hist.el](https://github.com/agzam/browser-hist.el) - Search through browser history, in Emacs
 - [tanrax/awesome-org-social](https://github.com/tanrax/awesome-org-social) - Set of tools and resources for Social Org
-- [rjekker/password-store-menu](https://github.com/rjekker/password-store-menu) - A better, more complete user interface for password-store
 - [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in Emacs
 - [emacs-vs/ts-docstr](https://github.com/emacs-vs/ts-docstr) - A document string minor mode using tree-sitter
 - [emacs-vs/cognitive-complexity](https://github.com/emacs-vs/cognitive-complexity) - Show cognitive complexity of code in Emacs 29+ (treesit-based)
@@ -970,19 +968,15 @@
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple, extensible LLM client for Emacs
 - [hlissner/emacs-solaire-mode](https://github.com/hlissner/emacs-solaire-mode) - If only certain buffers could be so grossly incandescent.
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
-- [doomemacs/snippets](https://github.com/doomemacs/snippets) - The Doom Emacs snippets library
 - [narendraj9/hledger-mode](https://github.com/narendraj9/hledger-mode) - An Emacs major mode for Hledger
 - [edkolev/evil-goggles](https://github.com/edkolev/evil-goggles) - Display visual hint on evil edit operations
 - [vedang/pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 - [spudlyo/clipetty](https://github.com/spudlyo/clipetty) - Manipulate the system (clip)board with (e)macs from a (tty)
 - [benotn/kkp](https://github.com/benotn/kkp) - Emacs support for the Kitty Keyboard Protocol
 - [doomemacs/themes](https://github.com/doomemacs/themes) - A megapack of themes for GNU Emacs.
-- [Artawower/blamer.el](https://github.com/Artawower/blamer.el) - A git blame plugin for emacs inspired by VS Code's GitLens plugin
 - [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit
 - [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
-- [AndreaCrotti/yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
-- [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Terminate Emacs Buffers Automatically to Enhance Performance
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
 - [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Auto Byte/Native-Compile all Elisp files, to Speed up Emacs
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Indentation based Folding for Emacs (Supersedes legacy packages such as origami.el and yafolding.el)
@@ -1146,7 +1140,6 @@
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
-- [Artawower/blamer.el](https://github.com/Artawower/blamer.el) - A git blame plugin for emacs inspired by VS Code's GitLens plugin
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [alphapapa/magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
@@ -1232,7 +1225,6 @@
 
 - [amurcanov/tg-ws-proxy-android](https://github.com/amurcanov/tg-ws-proxy-android) - Android-форк популярного приложения Flowseal - tg-ws-proxy - локальный прокси-сервер MTProto с проксированием CF или без для частичного обхода проблем загрузки Telegram
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
-- [nikicat/gopass-secret-service](https://github.com/nikicat/gopass-secret-service) - D-Bus Secret Service provider using GoPass as backend - store secrets from any app in your GPG-encrypted password store
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
@@ -1457,7 +1449,6 @@
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -1539,10 +1530,6 @@
 
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 
-## latex 
-
-- [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
-
 ## learning 
 
 - [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
@@ -1566,7 +1553,6 @@
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [7mind/kanata-switcher](https://github.com/7mind/kanata-switcher) - Kanata layer switcher based on focused application, for *all* Linux desktop environments  (Wayland and X11)
-- [nikicat/gopass-secret-service](https://github.com/nikicat/gopass-secret-service) - D-Bus Secret Service provider using GoPass as backend - store secrets from any app in your GPG-encrypted password store
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
@@ -1786,7 +1772,6 @@
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [tree-sitter-grammars/tree-sitter-markdown](https://github.com/tree-sitter-grammars/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2467,18 +2452,13 @@
 - [7696122/evil-terminal-cursor-changer](https://github.com/7696122/evil-terminal-cursor-changer) - :smiling_imp: Chagning cursor by mode for evil on terminal.
 - [tarsius/hl-todo](https://github.com/tarsius/hl-todo) - Highlight TODO keywords
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
-- [nflath/sudo-edit](https://github.com/nflath/sudo-edit) - Utilities for opening files with sudo
-- [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
-- [arnm/ob-mermaid](https://github.com/arnm/ob-mermaid) - Generate mermaid diagrams within Emacs org-mode babel
 - [joostkremers/writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [gpg/gnupg](https://github.com/gpg/gnupg) - The GNU Privacy Guard. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentatio
 - [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
 - [marchaesen/st-wl](https://github.com/marchaesen/st-wl) - st for wayland - in sync with upstream suckless st
 - [jjsullivan5196/wvkbd](https://github.com/jjsullivan5196/wvkbd) - On-screen keyboard for wlroots
-- [linktohack/evil-commentary](https://github.com/linktohack/evil-commentary) - Comment stuff out. A port of vim-commentary
-- [emacsmirror/geiser](https://github.com/emacsmirror/geiser) - GNU Emacs and Scheme talk to each other
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - [MIRROR] The path to GNUrvana
@@ -2489,7 +2469,6 @@
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [melpa/melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
 - [minad/osm](https://github.com/minad/osm) - :earth_africa: osm.el - OpenStreetMap viewer for Emacs
-- [radian-software/prescient.el](https://github.com/radian-software/prescient.el) - ☄️ Simple but effective sorting and filtering for Emacs.
 - [radian-software/apheleia](https://github.com/radian-software/apheleia) - 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
@@ -2579,7 +2558,6 @@
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [gopasspw/gopass-hibp](https://github.com/gopasspw/gopass-hibp) - Gopass haveibeenpwnd.com integration
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [grimsteel/pass-secret-service](https://github.com/grimsteel/pass-secret-service) - Implementation of org.freedesktop.secrets using `pass`
 - [hunkyburrito/xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser) - xdg-desktop-portal backend for choosing files with your favorite file chooser
 - [Vladimir-csp/app2unit](https://github.com/Vladimir-csp/app2unit) - Launches Desktop Entries as Systemd user units
 - [mrxdst/webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Adds a hook that allows mpv to stream torrents
@@ -3015,7 +2993,6 @@
 - [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
-- [nikicat/gopass-secret-service](https://github.com/nikicat/gopass-secret-service) - D-Bus Secret Service provider using GoPass as backend - store secrets from any app in your GPG-encrypted password store
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -3242,7 +3219,6 @@
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
