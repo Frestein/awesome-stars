@@ -66,7 +66,6 @@
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
-- [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [XSLT](#xslt)
@@ -129,7 +128,6 @@
 - [marlam/msmtp](https://github.com/marlam/msmtp) - SMTP client with sendmail compatible interface
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [facebook/openzl](https://github.com/facebook/openzl) - A novel data compression framework
-- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [evanpurkhiser/linux-vt-setcolors](https://github.com/evanpurkhiser/linux-vt-setcolors) - Utility tool to set the linux VT default color palette
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
@@ -195,7 +193,6 @@
 - [elogind/elogind](https://github.com/elogind/elogind) - The systemd project's "logind", extracted to a standalone package
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror) - mirror analyzer for arch linux
@@ -262,7 +259,6 @@
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
-- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [hyprwm/hyprpwcenter](https://github.com/hyprwm/hyprpwcenter) - A GUI Pipewire control center
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -303,9 +299,6 @@
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent) - A polkit authentication agent written in hyprtoolkit
@@ -328,7 +321,6 @@
 
 - [postsolar/tree-sitter-kanata](https://github.com/postsolar/tree-sitter-kanata) - Kanata grammar for Tree-sitter
 - [justinmk/tree-sitter-ini](https://github.com/justinmk/tree-sitter-ini) - tree-sitter grammar/parser for INI files
-- [tree-sitter-grammars/tree-sitter-diff](https://github.com/tree-sitter-grammars/tree-sitter-diff) - A tree-sitter grammar for `diff` output
 
 ## CSS 
 
@@ -348,7 +340,6 @@
 - [ilevd/clojure-like](https://github.com/ilevd/clojure-like) - List of Clojure-like projects including programming languages, ports, dialects, compilers, interpreters etc
 - [clojure/clojurescript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
 - [humorless/fennel-fp-neovim](https://github.com/humorless/fennel-fp-neovim) - A series of articles exploring Fennel and Functional Programming in Neovim
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## CoffeeScript 
 
@@ -626,7 +617,6 @@
 - [sinic/ednc](https://github.com/sinic/ednc) - The Emacs Desktop Notification Center helps you manage all your desktop notifications without leaving Emacs.
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [yilkalargaw/org-auto-tangle](https://github.com/yilkalargaw/org-auto-tangle) - a simple emacs package to allow org file tangling upon save
-- [hylang/hy-mode](https://github.com/hylang/hy-mode) - Hy mode for Emacs
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [polymode/poly-org](https://github.com/polymode/poly-org) - Polymode for org-mode
 - [polymode/polymode](https://github.com/polymode/polymode) - Framework for Multiple Major Modes in Emacs (core library)
@@ -767,7 +757,6 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [gopasspw/gopass-hibp](https://github.com/gopasspw/gopass-hibp) - Gopass haveibeenpwnd.com integration
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Achno/gocheat](https://github.com/Achno/gocheat) - A beautiful customizable TUI Cheatsheet for keybindings,hotkeys and more in the terminal
 - [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) - Right imports sorting & code formatting tool (goimports alternative)
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -887,6 +876,7 @@
 - [6cdh/tree-sitter-scheme](https://github.com/6cdh/tree-sitter-scheme) - Scheme parser for tree-sitter
 - [TravonteD/tree-sitter-fennel](https://github.com/TravonteD/tree-sitter-fennel) - Treesitter grammar for the Fennel programming language
 - [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
+- [tree-sitter-grammars/tree-sitter-diff](https://github.com/tree-sitter-grammars/tree-sitter-diff) - A tree-sitter grammar for `diff` output
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [tree-sitter-grammars/tree-sitter-luap](https://github.com/tree-sitter-grammars/tree-sitter-luap) - Lua patterns grammar for tree-sitter
 - [tree-sitter-grammars/tree-sitter-luau](https://github.com/tree-sitter-grammars/tree-sitter-luau) - luau grammar for tree-sitter
@@ -996,6 +986,7 @@
 
 ## Lua 
 
+- [brahmkshatriya/material-osc](https://github.com/brahmkshatriya/material-osc) - Quality of life OSC for MPV
 - [nvim-mini/mini.hipatterns](https://github.com/nvim-mini/mini.hipatterns) - Highlight patterns in text. Part of 'mini.nvim' library.
 - [Sonico98/exifaudio.yazi](https://github.com/Sonico98/exifaudio.yazi) - Preview audio files metadata on yazi
 - [kirasok/epub-preview.yazi](https://github.com/kirasok/epub-preview.yazi) - yazi plugin to preview epub files
@@ -1179,7 +1170,6 @@
 ## Odin 
 
 - [odin-lang/examples](https://github.com/odin-lang/examples) - Examples of idiomatic Odin code
-- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 
 ## Org 
 
@@ -1320,7 +1310,6 @@
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [gentoo/portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
-- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [C0rn3j/sc-controller](https://github.com/C0rn3j/sc-controller) - User-mode driver and GTK3 based GUI for game controllers, including but not limited to Steam Controller
 - [elParaguayo/qtile-extras](https://github.com/elParaguayo/qtile-extras) - Somewhere to store things I create for qtile that probably won't end up in the official repo
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
@@ -1486,7 +1475,6 @@
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
@@ -1588,8 +1576,6 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
-- [stal-ix/stalix](https://github.com/stal-ix/stalix) - STAtically LInked LInuX, based on IX package manager
-- [stal-ix/ix](https://github.com/stal-ix/ix) - ix package manager, statically build packages, for darwin/linux, with clang
 - [CachyOS/copr-linux-cachyos](https://github.com/CachyOS/copr-linux-cachyos) - CachyOS Packages for Fedora
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
@@ -1670,10 +1656,6 @@
 ## Typst 
 
 - [ptsouchlos/modern-cv](https://github.com/ptsouchlos/modern-cv) - A modern resume template written in Typst, inspired by Awesome-CV
-
-## V 
-
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vala 
 
