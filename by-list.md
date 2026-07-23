@@ -190,7 +190,6 @@
 - [rmuslimov/browse-at-remote](https://github.com/rmuslimov/browse-at-remote) - Browse target page on github/bitbucket from emacs buffers
 - [magit/git-modes](https://github.com/magit/git-modes) - Emacs major modes for Git configuration files
 - [xuchunyang/elisp-demos](https://github.com/xuchunyang/elisp-demos) - Demonstrate Emacs Lisp APIs
-- [sinic/ednc](https://github.com/sinic/ednc) - The Emacs Desktop Notification Center helps you manage all your desktop notifications without leaving Emacs.
 - [kuanyui/tldr.el](https://github.com/kuanyui/tldr.el) - tldr client for Emacs
 - [shingo256/trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
 - [ryuslash/git-auto-commit-mode](https://github.com/ryuslash/git-auto-commit-mode) - Automatically commit to git after each save
@@ -210,38 +209,12 @@
 - [andreasjansson/language-detection.el](https://github.com/andreasjansson/language-detection.el) - Automatic programming language detection of code snippets, in Emacs Lisp
 - [magit/orgit](https://github.com/magit/orgit) - Support for Org links to Magit buffers
 - [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
-- [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
-- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - MOVED TO CODEBERG (https://codeberg.org/mclear-tools/tabspaces). This GitHub repo is an archived mirror.
-- [magit/ghub](https://github.com/magit/ghub) - Client libraries for the APIs of various Git forges
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
 - [k-talo/volatile-highlights.el](https://github.com/k-talo/volatile-highlights.el) - Transient visual feedback for edits in Emacs. STATUS: *STABLE*
-- [eshelyaron/semel](https://github.com/eshelyaron/semel) - Semantic highlighting for Emacs Lisp
 - [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
-- [hexmode/mediawiki-el](https://github.com/hexmode/mediawiki-el) - Emacs interface to edit any mediawiki site
-- [tanrax/org-social-relay](https://github.com/tanrax/org-social-relay) - Org Social Relay is a P2P system that acts as an intermediary between all social.org files
-- [tanrax/org-social-static-preview](https://github.com/tanrax/org-social-static-preview) - Tool for generating HTML previews from Org Social files
-- [tanrax/lobsters.el](https://github.com/tanrax/lobsters.el) - Lobsters client for Emacs
-- [rainstormstudio/treemacs-nerd-icons](https://github.com/rainstormstudio/treemacs-nerd-icons) - 
-- [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
-- [alphapapa/activities.el](https://github.com/alphapapa/activities.el) - Activities for Emacs (suspend and resume activities, i.e. frames/tabs and their windows, buffers)
-- [unhammer/org-rich-yank](https://github.com/unhammer/org-rich-yank) - 📋 Rich text clipboard for org-mode: Paste as a #+BEGIN_SRC block of correct mode, with link to where it came from
-- [isamert/orgmdb.el](https://github.com/isamert/orgmdb.el) - An Emacs/org-mode watchlist manager and OMDb API client
-- [SqrtMinusOne/reverso.el](https://github.com/SqrtMinusOne/reverso.el) - Emacs client for https://www.reverso.net/: translation, grammar check, context and synonyms search
 - [SqrtMinusOne/pomm.el](https://github.com/SqrtMinusOne/pomm.el) - Implementation of Pomodoro and Third Time techniques for Emacs
-- [telotortium/org-pomodoro-third-time](https://github.com/telotortium/org-pomodoro-third-time) - Adapt org-pomodoro to implement the Third Time system
 - [lorniu/org-expose-emphasis-markers](https://github.com/lorniu/org-expose-emphasis-markers) - Automatically show hidden emphasis markers at point in org mode.
 - [seagle0128/grip-mode](https://github.com/seagle0128/grip-mode) - Instant Github-flavored Markdown/Org preview using grip
-- [spegoraro/org-alert](https://github.com/spegoraro/org-alert) - System notifications of org agenda items
-- [doppelc/org-notifications](https://github.com/doppelc/org-notifications) - Desktop notifications for your org-agenda/org-mode items
-- [Elilif/org-heatmap](https://github.com/Elilif/org-heatmap) - Show heatmap in org-mode.
-- [minad/affe](https://github.com/minad/affe) - :monkey: affe.el - Asynchronous Fuzzy Finder for Emacs
-- [alphapapa/snow.el](https://github.com/alphapapa/snow.el) - Let it snow in Emacs!
-- [bkaestner/redacted.el](https://github.com/bkaestner/redacted.el) - 
-- [larsmagne/meme](https://github.com/larsmagne/meme) - An Emacs meme generator
-- [larsmagne/eplot](https://github.com/larsmagne/eplot) - Emacs library for creating charts
-- [emacsmirror/emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
-- [Artawower/turbo-log](https://github.com/Artawower/turbo-log) - Fast log message inserting for quick debug.
-- [Artawower/file-info.el](https://github.com/Artawower/file-info.el) - All necessary information about current file in hydra + posframe
 - [xzz53/mu4e-alert](https://github.com/xzz53/mu4e-alert) - Desktop notifications and modeline display for mu4e
 - [D4lj337/Emacs-performance](https://github.com/D4lj337/Emacs-performance) - Few of the settings for speeding up the Emacs.
 - [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
@@ -254,21 +227,15 @@
 - [open-spaced-repetition/lisp-fsrs](https://github.com/open-spaced-repetition/lisp-fsrs) - Common/Emacs Lisp implementation for FSRS
 - [sachac/subed](https://github.com/sachac/subed) - subed is a subtitle editor for Emacs
 - [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
-- [ginqi7/leetcode-emacs](https://github.com/ginqi7/leetcode-emacs) - an emacs plugin to write leetcode programs
-- [kaiwk/leetcode.el](https://github.com/kaiwk/leetcode.el) - An Emacs LeetCode client.
-- [openscad/emacs-scad-mode](https://github.com/openscad/emacs-scad-mode) - OpenSCAD Emacs mode
-- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - A native Emacs buffer to interact with LLM agents powered by ACP
 - [cbowdon/daemons.el](https://github.com/cbowdon/daemons.el) - An Emacs UI for managing init system services 
 - [holomorph/systemd-mode](https://github.com/holomorph/systemd-mode) - Major mode for editing systemd units
 - [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
 - [chenyanming/nov-xwidget](https://github.com/chenyanming/nov-xwidget) - The best epub reader in Emacs
 - [galdor/rfc-mode](https://github.com/galdor/rfc-mode) - An Emacs major mode to read and browse RFC documents.
 - [doomelpa/evil-org-mode](https://github.com/doomelpa/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
-- [egregius313/gfm-alerts.el](https://github.com/egregius313/gfm-alerts.el) - 
 - [jamescherti/elispcomp](https://github.com/jamescherti/elispcomp) - Elispcomp: Compile Elisp code from the command-line (Emacs Lisp code)
 - [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el, a unified method to fold and unfold text in Emacs: outline, outline-indent, org-mode, markdown-mode, gfm-mode, vdiff, hideshow, fold-this, ts-fold, treesit-fold, vimish-fold...
 - [jwiegley/ecard](https://github.com/jwiegley/ecard) - Library for representing vCard data using EIEIO classes
-- [tanrax/org-social-rss-bridge](https://github.com/tanrax/org-social-rss-bridge) - A simple bridge that converts RSS/Atom feeds into Org Social format.
 - [LemonBreezes/emacs-fish-completion](https://github.com/LemonBreezes/emacs-fish-completion) - Fish completion for Emacs and Eshell
 - [xenodium/wasabi](https://github.com/xenodium/wasabi) - A WhatsApp Emacs client powered by wuzapi and whatsmeow.
 - [t4ccer/agenix.el](https://github.com/t4ccer/agenix.el) - Transparent editing for agenix secrets inside Emacs
@@ -361,7 +328,6 @@
 - [cashmeredev/kitty-graphics.el](https://github.com/cashmeredev/kitty-graphics.el) - Display images, video, and scaled text directly in terminal Emacs (emacs -nw) using the Kitty graphics protocol, tmux or Sixel
 - [gggion/let-completion.el](https://github.com/gggion/let-completion.el) - Let-binding values in Elisp completion
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
-- [whhone/markdown-indent-mode](https://github.com/whhone/markdown-indent-mode) - An Emacs minor mode for dynamic virtual indentation in Markdown, similar to org-indent-mode in Org mode.
 - [emacsorphanage/quickrun](https://github.com/emacsorphanage/quickrun) - Run command quickly. This packages is inspired quickrun.vim
 - [kickingvegas/anju](https://github.com/kickingvegas/anju) - An Elisp package for customizing Emacs mouse interactions.
 - [tali713/esxml](https://github.com/tali713/esxml) - An elisp library for working with xml, esxml and sxml.
@@ -486,8 +452,7 @@
 
 ## 📬 Inbox
 
-- [kn66/flex-x](https://github.com/kn66/flex-x) - 
-- [zHaOdANiuu/material-icon.el](https://github.com/zHaOdANiuu/material-icon.el) - material icon for emacs
+- No repositories
 
 <a name="keyboard"></a>
 
