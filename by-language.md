@@ -156,7 +156,6 @@
 - [hufrea/byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
-- [falconindy/expac](https://github.com/falconindy/expac) - alpm data extraction utility
 - [firelzrd/bore-scheduler](https://github.com/firelzrd/bore-scheduler) - BORE (Burst-Oriented Response Enhancer) CPU Scheduler
 - [Irqbalance/irqbalance](https://github.com/Irqbalance/irqbalance) - The irqbalance source tree - The new official site for irqbalance
 - [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
@@ -270,6 +269,7 @@
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [openSUSE/snapper](https://github.com/openSUSE/snapper) - Manage filesystem snapshots and allow undo of system modifications
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
+- [falconindy/expac](https://github.com/falconindy/expac) - alpm data extraction utility
 - [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer) - Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
 - [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
@@ -388,8 +388,6 @@
 
 ## Emacs Lisp 
 
-- [zHaOdANiuu/material-icon.el](https://github.com/zHaOdANiuu/material-icon.el) - material icon for emacs
-- [kn66/flex-x](https://github.com/kn66/flex-x) - 
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
 - [latiagertrutis/dirvish](https://github.com/latiagertrutis/dirvish) - A polished Dired with batteries included.
@@ -418,7 +416,6 @@
 - [tali713/esxml](https://github.com/tali713/esxml) - An elisp library for working with xml, esxml and sxml.
 - [kickingvegas/anju](https://github.com/kickingvegas/anju) - An Elisp package for customizing Emacs mouse interactions.
 - [emacsorphanage/quickrun](https://github.com/emacsorphanage/quickrun) - Run command quickly. This packages is inspired quickrun.vim
-- [whhone/markdown-indent-mode](https://github.com/whhone/markdown-indent-mode) - An Emacs minor mode for dynamic virtual indentation in Markdown, similar to org-indent-mode in Org mode.
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [gggion/let-completion.el](https://github.com/gggion/let-completion.el) - Let-binding values in Elisp completion
 - [cashmeredev/kitty-graphics.el](https://github.com/cashmeredev/kitty-graphics.el) - Display images, video, and scaled text directly in terminal Emacs (emacs -nw) using the Kitty graphics protocol, tmux or Sixel
@@ -508,14 +505,9 @@
 - [chenyanming/nov-xwidget](https://github.com/chenyanming/nov-xwidget) - The best epub reader in Emacs
 - [galdor/rfc-mode](https://github.com/galdor/rfc-mode) - An Emacs major mode to read and browse RFC documents.
 - [doomelpa/evil-org-mode](https://github.com/doomelpa/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
-- [egregius313/gfm-alerts.el](https://github.com/egregius313/gfm-alerts.el) - 
 - [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
 - [holomorph/systemd-mode](https://github.com/holomorph/systemd-mode) - Major mode for editing systemd units
 - [cbowdon/daemons.el](https://github.com/cbowdon/daemons.el) - An Emacs UI for managing init system services
-- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - A native Emacs buffer to interact with LLM agents powered by ACP
-- [openscad/emacs-scad-mode](https://github.com/openscad/emacs-scad-mode) - OpenSCAD Emacs mode
-- [kaiwk/leetcode.el](https://github.com/kaiwk/leetcode.el) - An Emacs LeetCode client.
-- [ginqi7/leetcode-emacs](https://github.com/ginqi7/leetcode-emacs) - an emacs plugin to write leetcode programs
 - [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [sachac/subed](https://github.com/sachac/subed) - subed is a subtitle editor for Emacs
 - [bohonghuang/org-inc](https://github.com/bohonghuang/org-inc) - Perform incremental learning inside Org-mode
@@ -526,36 +518,12 @@
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
 - [xzz53/mu4e-alert](https://github.com/xzz53/mu4e-alert) - Desktop notifications and modeline display for mu4e
-- [Artawower/file-info.el](https://github.com/Artawower/file-info.el) - All necessary information about current file in hydra + posframe
-- [Artawower/turbo-log](https://github.com/Artawower/turbo-log) - Fast log message inserting for quick debug.
-- [emacsmirror/emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
-- [larsmagne/eplot](https://github.com/larsmagne/eplot) - Emacs library for creating charts
-- [larsmagne/meme](https://github.com/larsmagne/meme) - An Emacs meme generator
-- [bkaestner/redacted.el](https://github.com/bkaestner/redacted.el) - 
-- [alphapapa/snow.el](https://github.com/alphapapa/snow.el) - Let it snow in Emacs!
-- [minad/affe](https://github.com/minad/affe) - :monkey: affe.el - Asynchronous Fuzzy Finder for Emacs
-- [Elilif/org-heatmap](https://github.com/Elilif/org-heatmap) - Show heatmap in org-mode.
-- [doppelc/org-notifications](https://github.com/doppelc/org-notifications) - Desktop notifications for your org-agenda/org-mode items
-- [spegoraro/org-alert](https://github.com/spegoraro/org-alert) - System notifications of org agenda items
 - [seagle0128/grip-mode](https://github.com/seagle0128/grip-mode) - Instant Github-flavored Markdown/Org preview using grip
 - [lorniu/org-expose-emphasis-markers](https://github.com/lorniu/org-expose-emphasis-markers) - Automatically show hidden emphasis markers at point in org mode.
-- [telotortium/org-pomodoro-third-time](https://github.com/telotortium/org-pomodoro-third-time) - Adapt org-pomodoro to implement the Third Time system
 - [SqrtMinusOne/pomm.el](https://github.com/SqrtMinusOne/pomm.el) - Implementation of Pomodoro and Third Time techniques for Emacs
-- [SqrtMinusOne/reverso.el](https://github.com/SqrtMinusOne/reverso.el) - Emacs client for https://www.reverso.net/: translation, grammar check, context and synonyms search
-- [isamert/orgmdb.el](https://github.com/isamert/orgmdb.el) - An Emacs/org-mode watchlist manager and OMDb API client
-- [unhammer/org-rich-yank](https://github.com/unhammer/org-rich-yank) - 📋 Rich text clipboard for org-mode: Paste as a #+BEGIN_SRC block of correct mode, with link to where it came from
-- [alphapapa/activities.el](https://github.com/alphapapa/activities.el) - Activities for Emacs (suspend and resume activities, i.e. frames/tabs and their windows, buffers)
-- [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
-- [rainstormstudio/treemacs-nerd-icons](https://github.com/rainstormstudio/treemacs-nerd-icons) - 
-- [tanrax/lobsters.el](https://github.com/tanrax/lobsters.el) - Lobsters client for Emacs
-- [hexmode/mediawiki-el](https://github.com/hexmode/mediawiki-el) - Emacs interface to edit any mediawiki site
 - [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
-- [eshelyaron/semel](https://github.com/eshelyaron/semel) - Semantic highlighting for Emacs Lisp
 - [k-talo/volatile-highlights.el](https://github.com/k-talo/volatile-highlights.el) - Transient visual feedback for edits in Emacs. STATUS: *STABLE*
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
-- [magit/ghub](https://github.com/magit/ghub) - Client libraries for the APIs of various Git forges
-- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - MOVED TO CODEBERG (https://codeberg.org/mclear-tools/tabspaces). This GitHub repo is an archived mirror.
-- [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 - [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
 - [magit/orgit](https://github.com/magit/orgit) - Support for Org links to Magit buffers
 - [andreasjansson/language-detection.el](https://github.com/andreasjansson/language-detection.el) - Automatic programming language detection of code snippets, in Emacs Lisp
@@ -573,7 +541,6 @@
 - [ryuslash/git-auto-commit-mode](https://github.com/ryuslash/git-auto-commit-mode) - Automatically commit to git after each save
 - [shingo256/trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
 - [kuanyui/tldr.el](https://github.com/kuanyui/tldr.el) - tldr client for Emacs
-- [sinic/ednc](https://github.com/sinic/ednc) - The Emacs Desktop Notification Center helps you manage all your desktop notifications without leaving Emacs.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [xuchunyang/elisp-demos](https://github.com/xuchunyang/elisp-demos) - Demonstrate Emacs Lisp APIs
 - [magit/git-modes](https://github.com/magit/git-modes) - Emacs major modes for Git configuration files
@@ -817,7 +784,6 @@
 - [tree-sitter-grammars/tree-sitter-tcl](https://github.com/tree-sitter-grammars/tree-sitter-tcl) - TCL grammar for tree-sitter
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
-- [openscad/tree-sitter-openscad](https://github.com/openscad/tree-sitter-openscad) - Incremental parser for OpenSCAD using tree-sitter
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [the-mikedavis/tree-sitter-git-commit](https://github.com/the-mikedavis/tree-sitter-git-commit) - A tree-sitter grammar for git commit messages
@@ -1162,7 +1128,7 @@
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
+- [piotrkulpinski/open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) - Curated list of open source alternatives to proprietary software.
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - 
 - [qutebrowser/qutebrowser-extensions](https://github.com/qutebrowser/qutebrowser-extensions) - Extension ideas (and at some point code) for qutebrowser
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -1218,14 +1184,11 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
-- [tanrax/org-social-rss-bridge](https://github.com/tanrax/org-social-rss-bridge) - A simple bridge that converts RSS/Atom feeds into Org Social format.
 - [jamescherti/elispcomp](https://github.com/jamescherti/elispcomp) - Elispcomp: Compile Elisp code from the command-line (Emacs Lisp code)
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [gicrisf/swapforqute](https://github.com/gicrisf/swapforqute) - Redirect and clean URLs in qutebrowser.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
-- [tanrax/org-social-static-preview](https://github.com/tanrax/org-social-static-preview) - Tool for generating HTML previews from Org Social files
-- [tanrax/org-social-relay](https://github.com/tanrax/org-social-relay) - Org Social Relay is a P2P system that acts as an intermediary between all social.org files
 - [tree-sitter-grammars/tree-sitter-qmldir](https://github.com/tree-sitter-grammars/tree-sitter-qmldir) - qmldir grammar for tree-sitter
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -1296,7 +1259,6 @@
 
 - [Ronin-CK/HyprQuickFrame](https://github.com/Ronin-CK/HyprQuickFrame) - Minimal Screenshot Utility for hyprland
 - [gcompris/GCompris-qt](https://github.com/gcompris/GCompris-qt) - GCompris in Qt Quick - Mirror of https://invent.kde.org/education/gcompris
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 
 ## Ruby 
 
@@ -1343,7 +1305,6 @@
 - [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [nouritsu/hyprzoom](https://github.com/nouritsu/hyprzoom) - A simple yet feature rich zoom utility for Hyprland.
-- [Leathong/openscad-LSP](https://github.com/Leathong/openscad-LSP) - A LSP (Language Server Protocol) server for OpenSCAD.
 - [wayvr-org/wayvr](https://github.com/wayvr-org/wayvr) - Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR.
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
@@ -1496,6 +1457,7 @@
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - Read-only mirror of Chaotic-AUR's main repository. Issues and bug reports welcome! 📑
 - [agzam/mxp](https://github.com/agzam/mxp) - Shell script for piping things in and out of Emacs buffers
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [coderonline/base16-vtrgb](https://github.com/coderonline/base16-vtrgb) - virtual terminal color schemes to be used with setvtrgb
 - [dracut-ng/dracut](https://github.com/dracut-ng/dracut) - dracut - the event driven initramfs infrastructure
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools (read-only mirror)
