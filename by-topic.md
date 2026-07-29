@@ -74,7 +74,6 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
-- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -253,7 +252,6 @@
 - [Frestein/pkgbuilds](https://github.com/Frestein/pkgbuilds) - [mirror] 📦 Frestein's PKGBUILDs
 - [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
-- [dracut-ng/dracut](https://github.com/dracut-ng/dracut) - dracut - the event driven initramfs infrastructure
 - [fosskers/cargo-aur](https://github.com/fosskers/cargo-aur) - Prepare Rust projects to be released on the Arch Linux User Repository.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
@@ -343,6 +341,7 @@
 
 ## c 
 
+- [storaged-project/udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -351,7 +350,6 @@
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [tree-sitter/tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
-- [wlrfx/scenefx](https://github.com/wlrfx/scenefx) - A drop-in replacement for the wlroots scene API that allows wayland compositors to render surfaces with eye-candy effects
 - [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. Synced every hour. We don't handle Pull Requests.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -362,7 +360,6 @@
 - [bus1/dbus-broker](https://github.com/bus1/dbus-broker) - Linux D-Bus Message Broker
 - [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 
@@ -374,7 +371,6 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 
 ## c-sharp 
 
@@ -430,7 +426,6 @@
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [paulopacitti/gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) - 🏭 convert any image to the gruvbox pallete
-- [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
@@ -871,10 +866,6 @@
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
-## gui 
-
-- [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
-
 ## hacking 
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -886,7 +877,6 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-- [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
@@ -1086,10 +1076,10 @@
 
 ## linux 
 
+- [storaged-project/udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [reakjra/vkSumi](https://github.com/reakjra/vkSumi) - Vulkan layer for color grading for Linux games.
-- [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [ralgar/vkShade](https://github.com/ralgar/vkShade) - A ReShade-compatible Vulkan post-processing layer for Linux
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
@@ -1111,7 +1101,6 @@
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
 - [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard. mouse, touchpad and touchscreen actions to system actions
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
-- [evanpurkhiser/linux-vt-setcolors](https://github.com/evanpurkhiser/linux-vt-setcolors) - Utility tool to set the linux VT default color palette
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) - Немного о ядре Linux
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -1122,14 +1111,12 @@
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
-- [desultory/ugrd](https://github.com/desultory/ugrd) - A minimalistic and user friendly POSIX initramfs generator, designed for encrypted systems
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
 - [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
-- [wlrfx/scenefx](https://github.com/wlrfx/scenefx) - A drop-in replacement for the wlroots scene API that allows wayland compositors to render surfaces with eye-candy effects
 - [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit
 - [franzos/awesome-guix](https://github.com/franzos/awesome-guix) - Docs, Channels, example configs and more - Guix is Awesome
 - [gentoo/gentoo](https://github.com/gentoo/gentoo) - [MIRROR] Official Gentoo ebuild repository
@@ -1141,7 +1128,6 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
-- [hyprland-community/hyprland-autoname-workspaces](https://github.com/hyprland-community/hyprland-autoname-workspaces) - Hyprland autoname workspaces 🪟 [maintainers=@cyrinux,@maximbaz, @shivros]
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
@@ -1153,7 +1139,6 @@
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland
-- [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [bus1/dbus-broker](https://github.com/bus1/dbus-broker) - Linux D-Bus Message Broker
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
@@ -1183,7 +1168,6 @@
 - [nvim-mini/mini.hipatterns](https://github.com/nvim-mini/mini.hipatterns) - Highlight patterns in text. Part of 'mini.nvim' library.
 - [tree-sitter-grammars/tree-sitter-lua](https://github.com/tree-sitter-grammars/tree-sitter-lua) - Lua grammar for tree-sitter
 - [uhs-robert/recycle-bin.yazi](https://github.com/uhs-robert/recycle-bin.yazi) - 🗑️ recycle-bin.yazi is a Recycle Bin for Yazi with browse, restore, and cleanup capabilities. Give  your files a second chance before they're garbage collected!
-- [Cudiph/cwcwm](https://github.com/Cudiph/cwcwm) - Hackable wayland compositor
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [tasnimAlam/thumbnail.yazi](https://github.com/tasnimAlam/thumbnail.yazi) - A Yazi file manager plugin to open images in Swayimg gallery viewer
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
@@ -1401,6 +1385,7 @@
 
 ## others 
 
+- [polkit-org/polkit](https://github.com/polkit-org/polkit) - polkit (formerly PolicyKit) is a toolkit for defining and handling authorizations. It is used for allowing unprivileged processes to speak to privileged processes.
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
@@ -1557,7 +1542,6 @@
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
 - [seagle0128/grip-mode](https://github.com/seagle0128/grip-mode) - Instant Github-flavored Markdown/Org preview using grip
 - [lorniu/org-expose-emphasis-markers](https://github.com/lorniu/org-expose-emphasis-markers) - Automatically show hidden emphasis markers at point in org mode.
-- [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [peterfication/mux.yazi](https://github.com/peterfication/mux.yazi) - Yazi previewer multiplexer
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools (read-only mirror)
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
@@ -1572,14 +1556,12 @@
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [isamert/corg.el](https://github.com/isamert/corg.el) - 🍾 Auto complete org-mode source/dynamic block headers seamlessly
 - [Shallow-Seek/djvu-view.yazi](https://github.com/Shallow-Seek/djvu-view.yazi) - djvu preview for Yazi file browser
-- [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop) - Desktop Environment based on GNUstep welcoming to switchers
 - [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) - Automatic conversion of the NetBSD pkgsrc CVS module, use with care
 - [freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
 - [openbsd/ports](https://github.com/openbsd/ports) - Read-only git conversion of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
 - [postsolar/tree-sitter-kanata](https://github.com/postsolar/tree-sitter-kanata) - Kanata grammar for Tree-sitter
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
-- [evanpurkhiser/mkinitcpio-colors](https://github.com/evanpurkhiser/mkinitcpio-colors) - Provides a hook for Arch Linux's mkinitcpio utility to set VT colors during early userspace
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
 - [NetBSD/src](https://github.com/NetBSD/src) - Automatic conversion of the NetBSD src CVS module, use with care. Please submit bugs/changes via https://gnats.netbsd.org
 - [tree-sitter-grammars/tree-sitter-qmldir](https://github.com/tree-sitter-grammars/tree-sitter-qmldir) - qmldir grammar for tree-sitter
@@ -1609,23 +1591,19 @@
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
 - [yuja/tree-sitter-qmljs](https://github.com/yuja/tree-sitter-qmljs) - QML grammar for the tree-sitter parsing library
 - [xhcoding/qml-ts-mode](https://github.com/xhcoding/qml-ts-mode) - Emacs major mode for editing Qt Declarative (QML) code.
-- [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [po5/celebi](https://github.com/po5/celebi) - mpv script to restore properties from past sessions
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [fishinthecalculator/gocix](https://github.com/fishinthecalculator/gocix) - This project aims at implementing a Guix native experience for services that are not yet guixable
 - [Kayizoku/mpv-rename](https://github.com/Kayizoku/mpv-rename) - 
-- [Sublimeful/wlsbg](https://github.com/Sublimeful/wlsbg) - Wallpaper tool with shader support for Wayland compositors
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [AnirudhG07/custom-shell.yazi](https://github.com/AnirudhG07/custom-shell.yazi) - Set your custom-shell as default shell in yazi!
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
-- [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, Wayland Compositor
 - [stumpwm/mahogany](https://github.com/stumpwm/mahogany) - A stumpwm like Wayland compositor
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [nonguix/nonguix](https://github.com/nonguix/nonguix) - Nonguix mirror – pull requests ignored, please use upstream for that
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
-- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
@@ -1639,8 +1617,6 @@
 - [boydaihungst/gvfs.yazi](https://github.com/boydaihungst/gvfs.yazi) - gvfs.yazi uses gvfs and gio from glib to transparently mount and unmount devices in read/write mode, allowing you to navigate inside, view, and edit individual or groups of files.
 - [ArniDagur/python-adblock](https://github.com/ArniDagur/python-adblock) - Brave's adblock library in Python
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
-- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
-- [CachyOS/copr-linux-cachyos](https://github.com/CachyOS/copr-linux-cachyos) - CachyOS Packages for Fedora
 - [hufrea/byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [optiscaler/fakenvapi](https://github.com/optiscaler/fakenvapi) - NVAPI library for spoofing an Nvidia GPU. With support for AntiLag 2, XeLL and LatencyFlex
@@ -1648,20 +1624,15 @@
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
 - [saumyajyoti/omp.yazi](https://github.com/saumyajyoti/omp.yazi) - oh-my-posh prompt plugin for Yazi file manager
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
-- [wesbarnett/snap-pac](https://github.com/wesbarnett/snap-pac) - Pacman hooks that use snapper to create pre/post btrfs snapshots like openSUSE's YaST
-- [hirak99/yabsnap](https://github.com/hirak99/yabsnap) - Btrfs Scheduled Snapshot Manager for Arch
-- [openSUSE/snapper](https://github.com/openSUSE/snapper) - Manage filesystem snapshots and allow undo of system modifications
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [falconindy/expac](https://github.com/falconindy/expac) - alpm data extraction utility
-- [firelzrd/bore-scheduler](https://github.com/firelzrd/bore-scheduler) - BORE (Burst-Oriented Response Enhancer) CPU Scheduler
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [Irqbalance/irqbalance](https://github.com/Irqbalance/irqbalance) - The irqbalance source tree - The new official site for irqbalance
 - [ryuslash/git-auto-commit-mode](https://github.com/ryuslash/git-auto-commit-mode) - Automatically commit to git after each save
 - [shingo256/trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-- [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer) - Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 - [dedukun/bookmarks.yazi](https://github.com/dedukun/bookmarks.yazi) - 
 - [odin-lang/examples](https://github.com/odin-lang/examples) - Examples of idiomatic Odin code
@@ -1687,7 +1658,6 @@
 - [purcell/ibuffer-vc](https://github.com/purcell/ibuffer-vc) - Let Emacs' ibuffer-mode group files by git project etc., and show file state
 - [purcell/ibuffer-projectile](https://github.com/purcell/ibuffer-projectile) - Group buffers in Emacs ibuffer-mode by their projectile root directory
 - [flatwhatson/flycheck-guile](https://github.com/flatwhatson/flycheck-guile) - A Flycheck checker for GNU Guile
-- [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [tarsius/hl-todo](https://github.com/tarsius/hl-todo) - Highlight TODO keywords
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
@@ -1696,8 +1666,6 @@
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [gpg/gnupg](https://github.com/gpg/gnupg) - The GNU Privacy Guard. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentatio
 - [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
-- [marchaesen/st-wl](https://github.com/marchaesen/st-wl) - st for wayland - in sync with upstream suckless st
-- [jjsullivan5196/wvkbd](https://github.com/jjsullivan5196/wvkbd) - On-screen keyboard for wlroots
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - [MIRROR] The path to GNUrvana
@@ -1763,11 +1731,9 @@
 - [ufo5260987423/scheme-langserver](https://github.com/ufo5260987423/scheme-langserver) - Scheme language server
 - [zefr0x/ianny](https://github.com/zefr0x/ianny) - Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [elogind/elogind](https://github.com/elogind/elogind) - The systemd project's "logind", extracted to a standalone package
 - [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) - Proof-of-origin token provider plugin for yt-dlp
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
-- [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror) - mirror analyzer for arch linux
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
@@ -1795,9 +1761,7 @@
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
-- [max-baz/wluma](https://github.com/max-baz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
-- [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 - [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a wayland wallpaper utility with IPC controls.
@@ -1857,7 +1821,6 @@
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -1980,7 +1943,6 @@
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [LaurenceWarne/qute-code-hint](https://github.com/LaurenceWarne/qute-code-hint) - A Qutebrowser user script for hinting and copying code
-- [desultory/ugrd](https://github.com/desultory/ugrd) - A minimalistic and user friendly POSIX initramfs generator, designed for encrypted systems
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [gentoo/portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
@@ -2010,7 +1972,6 @@
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
-- [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 
 ## rails 
 
@@ -2069,7 +2030,6 @@
 - [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
-- [hyprland-community/hyprland-autoname-workspaces](https://github.com/hyprland-community/hyprland-autoname-workspaces) - Hyprland autoname workspaces 🪟 [maintainers=@cyrinux,@maximbaz, @shivros]
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
 - [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An interactive update notifier & applier for Arch Linux that assists you with important pre / post update tasks (including a systray applet and extensive CLI).
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -2209,8 +2169,6 @@
 ## terminal 
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-- [coderonline/base16-vtrgb](https://github.com/coderonline/base16-vtrgb) - virtual terminal color schemes to be used with setvtrgb
-- [evanpurkhiser/linux-vt-setcolors](https://github.com/evanpurkhiser/linux-vt-setcolors) - Utility tool to set the linux VT default color palette
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -2248,7 +2206,6 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [uhs-robert/sshfs.yazi](https://github.com/uhs-robert/sshfs.yazi) - 📡 Integrates SSH and SSHFS into the Yazi terminal file manager, letting you mount remote systems, browse and edit remote files like local ones, open interactive SSH terminals, select custom remote pat
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
-- [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
@@ -2269,7 +2226,6 @@
 
 ## ubuntu 
 
-- [dracut-ng/dracut](https://github.com/dracut-ng/dracut) - dracut - the event driven initramfs infrastructure
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 
 ## userscript 
