@@ -491,7 +491,6 @@
 
 ## discord 
 
-- [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 
 ## django 
@@ -1846,7 +1845,6 @@
 
 ## userscript 
 
-- [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
 - [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
