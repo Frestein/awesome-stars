@@ -19,9 +19,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
-- [clash](#clash)
 - [cli](#cli)
-- [cloud](#cloud)
 - [code](#code)
 - [code-quality](#code-quality)
 - [command-line](#command-line)
@@ -30,7 +28,6 @@
 - [cpp](#cpp)
 - [cryptography](#cryptography)
 - [css](#css)
-- [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [deno](#deno)
 - [design](#design)
@@ -45,19 +42,13 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
-- [embedded](#embedded)
 - [emoji](#emoji)
-- [esp32](#esp32)
 - [firebase](#firebase)
 - [firefox](#firefox)
-- [flask](#flask)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
-- [game-development](#game-development)
-- [game-engine](#game-engine)
-- [gamedev](#gamedev)
 - [gaming](#gaming)
 - [git](#git)
 - [github](#github)
@@ -65,7 +56,6 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
-- [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -73,10 +63,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
-- [information-gathering](#information-gathering)
-- [instagram](#instagram)
 - [ios](#ios)
-- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [jetpack-compose](#jetpack-compose)
@@ -86,7 +73,6 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
-- [laravel](#laravel)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -98,7 +84,6 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
-- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -110,19 +95,16 @@
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
-- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
-- [pentesting](#pentesting)
 - [perl](#perl)
 - [phishing](#phishing)
 - [php](#php)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
-- [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -131,9 +113,7 @@
 - [python3](#python3)
 - [qt](#qt)
 - [rails](#rails)
-- [raspberry-pi](#raspberry-pi)
 - [react](#react)
-- [rest-api](#rest-api)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -153,7 +133,6 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [userscript](#userscript)
-- [v2ray](#v2ray)
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -193,18 +172,15 @@
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A multi-platform document and e-book reader.
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
-- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) - Android permission explorer 🧑‍✈️
 - [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [mjaakko/NeoStumbler](https://github.com/mjaakko/NeoStumbler) - New stumbler application for contributing data to geolocation services
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [agrahn/Android-Password-Store](https://github.com/agrahn/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
@@ -225,8 +201,6 @@
 
 - [exiftool/exiftool](https://github.com/exiftool/exiftool) - ExifTool meta information reader/writer
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
-- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## archlinux 
@@ -265,12 +239,8 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
-- [piotrkulpinski/open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) - Curated list of open source alternatives to proprietary software.
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## awesome-list 
 
@@ -287,12 +257,8 @@
 - [franzos/awesome-guix](https://github.com/franzos/awesome-guix) - Docs, Channels, example configs and more - Guix is Awesome
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
-- [piotrkulpinski/open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) - Curated list of open source alternatives to proprietary software.
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## bash 
 
@@ -305,7 +271,6 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 ## c 
 
@@ -314,7 +279,6 @@
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [tree-sitter/tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. Synced every hour. We don't handle Pull Requests.
@@ -357,14 +321,8 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
-- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-
-## clash 
-
-- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
-- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
 ## cli 
 
@@ -372,7 +330,6 @@
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
-- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -395,12 +352,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-
-## cloud 
-
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## code 
 
@@ -424,7 +376,6 @@
 
 ## compiler 
 
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## config 
@@ -450,10 +401,6 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 
-## cybersecurity 
-
-- [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-
 ## dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -478,16 +425,12 @@
 ## development 
 
 - [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) - Collection of DOs and DON'Ts for modern Neovim Lua plugin development
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
 
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## discord 
 
@@ -501,8 +444,6 @@
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
@@ -510,7 +451,6 @@
 
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 ## dotfiles 
 
@@ -520,7 +460,6 @@
 
 ## education 
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
 
 ## electron 
@@ -566,7 +505,6 @@
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
 - [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Auto Byte/Native-Compile all Elisp files, to Speed up Emacs
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Indentation based Folding for Emacs (Supersedes legacy packages such as origami.el and yafolding.el)
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
 - [svaante/dape](https://github.com/svaante/dape) - Debug Adapter Protocol for Emacs
 - [alphapapa/magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 - [alexluigit/dirvish](https://github.com/alexluigit/dirvish) - A polished Dired with batteries included.
@@ -587,17 +525,9 @@
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 
-## embedded 
-
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-
 ## emoji 
 
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland
-
-## esp32 
-
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## firebase 
 
@@ -617,13 +547,8 @@
 - [censortracker/censortracker](https://github.com/censortracker/censortracker) - Censor Tracker is a censorship circumvention extension for Google Chrome and Mozilla Firefox.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 
-## flask 
-
-- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-
 ## flutter 
 
-- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
@@ -642,18 +567,6 @@
 
 - [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 
-## game-development 
-
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-
-## game-engine 
-
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-
-## gamedev 
-
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-
 ## gaming 
 
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
@@ -663,16 +576,13 @@
 
 - [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [sshaw/git-link](https://github.com/sshaw/git-link) - Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
 - [the-mikedavis/tree-sitter-git-commit](https://github.com/the-mikedavis/tree-sitter-git-commit) - A tree-sitter grammar for git commit messages
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
-- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [alphapapa/magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -693,36 +603,27 @@
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 ## golang 
 
 - [amurcanov/tg-ws-proxy-android](https://github.com/amurcanov/tg-ws-proxy-android) - Android-форк популярного приложения Flowseal - tg-ws-proxy - локальный прокси-сервер MTProto с проксированием CF или без для частичного обхода проблем загрузки Telegram
-- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
-- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
@@ -740,25 +641,18 @@
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
-## hacking 
-
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
 ## hacktoberfest 
 
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official Haskell IDE support via the language server protocol (LSP)
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 - [rexim/org-cliplink](https://github.com/rexim/org-cliplink) - Insert org-mode links from clipboard
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -771,7 +665,6 @@
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
-- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -784,16 +677,13 @@
 ## haskell 
 
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official Haskell IDE support via the language server protocol (LSP)
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## html 
 
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
-- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [tree-sitter/tree-sitter-html](https://github.com/tree-sitter/tree-sitter-html) - HTML grammar for Tree-sitter
 - [jeremy-compostella/org-msg](https://github.com/jeremy-compostella/org-msg) - OrgMsg is a GNU/Emacs global minor mode mixing up Org mode and Message mode to compose and reply to emails in a Outlook HTML friendly style.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
@@ -804,13 +694,11 @@
 - [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## https 
 
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## icon-font 
 
@@ -820,44 +708,25 @@
 
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 
-## information-gathering 
-
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-
-## instagram 
-
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
 ## ios 
 
-- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-## iot 
-
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## java 
 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
-- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 
 ## javascript 
 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
 ## jetpack-compose 
 
@@ -870,7 +739,6 @@
 
 ## json 
 
-- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [aconchillo/guile-json](https://github.com/aconchillo/guile-json) - JSON module for Guile
 - [tree-sitter/tree-sitter-json](https://github.com/tree-sitter/tree-sitter-json) - JSON grammar for tree-sitter
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -901,22 +769,15 @@
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
 ## language 
 
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## languages 
 
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
-
-## laravel 
-
-- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 
 ## learning 
 
@@ -939,7 +800,6 @@
 - [7mind/kanata-switcher](https://github.com/7mind/kanata-switcher) - Kanata layer switcher based on focused application, for *all* Linux desktop environments  (Wayland and X11)
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -951,14 +811,11 @@
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
-- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 - [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit
 - [franzos/awesome-guix](https://github.com/franzos/awesome-guix) - Docs, Channels, example configs and more - Guix is Awesome
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
-- [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
@@ -977,10 +834,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 ## login 
 
@@ -1026,27 +880,22 @@
 ## macos 
 
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 ## malware 
 
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web 
-- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
@@ -1070,10 +919,6 @@
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 
-## microsoft 
-
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-
 ## mobile 
 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -1089,7 +934,6 @@
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 
 ## natural-language-processing 
@@ -1147,7 +991,6 @@
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
 ## obsidian 
 
@@ -1164,13 +1007,10 @@
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
-- [piotrkulpinski/open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) - Curated list of open source alternatives to proprietary software.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## opengl 
 
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
@@ -1178,10 +1018,6 @@
 ## operating-system 
 
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
-
-## osint 
-
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
 ## others 
 
@@ -1219,9 +1055,7 @@
 - [chenxiaolong/BasicSync](https://github.com/chenxiaolong/BasicSync) - A simple app for running Syncthing on Android
 - [anthraxx/linux-hardened](https://github.com/anthraxx/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
-- [C24Be/AS_Network_List](https://github.com/C24Be/AS_Network_List) - Blacklists generator of subnets of Russian government agencies for blocking them on one's servers.
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
-- [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [gggion/let-completion.el](https://github.com/gggion/let-completion.el) - Let-binding values in Elisp completion
 - [cashmeredev/kitty-graphics.el](https://github.com/cashmeredev/kitty-graphics.el) - Display images, video, and scaled text directly in terminal Emacs (emacs -nw) using the Kitty graphics protocol, tmux or Sixel
 - [abcdw/emacs-arei](https://github.com/abcdw/emacs-arei) - Asynchronous Reliable Extensible IDE for Guile Scheme
@@ -1249,11 +1083,7 @@
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - Read-only mirror of Chaotic-AUR's main repository. Issues and bug reports welcome! 📑
 - [walles/moor](https://github.com/walles/moor) - Moor is a pager. It's designed to just do the right thing without any configuration.
 - [janet-lang/jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib
-- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
-- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
-- [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
-- [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [flycheck/flycheck-eglot](https://github.com/flycheck/flycheck-eglot) - Flycheck support for eglot
 - [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
 - [SqrtMinusOne/dotfiles](https://github.com/SqrtMinusOne/dotfiles) - This road is never-ending
@@ -1273,7 +1103,6 @@
 - [Trevoke/org-ts-mode](https://github.com/Trevoke/org-ts-mode) - 
 - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel
 - [robert-strandh/SICL](https://github.com/robert-strandh/SICL) - A fresh implementation of Common Lisp
-- [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [macydnah/office.yazi](https://github.com/macydnah/office.yazi) - Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards
 - [iliana/emojos.in](https://github.com/iliana/emojos.in) - [MOVED] https://codeberg.org/iliana/emojos.app
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
@@ -1296,7 +1125,6 @@
 - [seagle0128/grip-mode](https://github.com/seagle0128/grip-mode) - Instant Github-flavored Markdown/Org preview using grip
 - [lorniu/org-expose-emphasis-markers](https://github.com/lorniu/org-expose-emphasis-markers) - Automatically show hidden emphasis markers at point in org mode.
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools (read-only mirror)
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
 - [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
@@ -1346,7 +1174,6 @@
 - [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [boydaihungst/save-clipboard-to-file.yazi](https://github.com/boydaihungst/save-clipboard-to-file.yazi) - Yazi plugin to paste clipboard content to file.
-- [ArniDagur/python-adblock](https://github.com/ArniDagur/python-adblock) - Brave's adblock library in Python
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [hufrea/byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
@@ -1373,7 +1200,6 @@
 - [doomemacs/modules](https://github.com/doomemacs/modules) - Official module library for Doom Emacs
 - [doomemacs/modules-contrib](https://github.com/doomemacs/modules-contrib) - Community-contributed modules for Doom Emacs.
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [purcell/ibuffer-vc](https://github.com/purcell/ibuffer-vc) - Let Emacs' ibuffer-mode group files by git project etc., and show file state
 - [purcell/ibuffer-projectile](https://github.com/purcell/ibuffer-projectile) - Group buffers in Emacs ibuffer-mode by their projectile root directory
 - [flatwhatson/flycheck-guile](https://github.com/flatwhatson/flycheck-guile) - A Flycheck checker for GNU Guile
@@ -1409,7 +1235,6 @@
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [pwmt/zathura-pdf-mupdf](https://github.com/pwmt/zathura-pdf-mupdf) - PDF support (mupdf backend) for zathura
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [ferreum/mpv-skipsilence](https://github.com/ferreum/mpv-skipsilence) - Increase playback speed during silence - a revolution in attention-deficit induction technology.
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit
@@ -1419,7 +1244,6 @@
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [minad/corfu](https://github.com/minad/corfu) - :desert_island: corfu.el - COmpletion in Region FUnction
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
-- [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [bitingsock/ytdl-preload](https://github.com/bitingsock/ytdl-preload) - mpv script to precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. It will delete the directory on exit.
 - [emacsmirror/fennel-mode](https://github.com/emacsmirror/fennel-mode) - A major-mode for editing Fennel code
 - [iwalton3/default-shader-pack](https://github.com/iwalton3/default-shader-pack) - Preconfigured set of MPV shaders and configurations for MPV Shim media clients.
@@ -1430,19 +1254,14 @@
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [rainstormstudio/nerd-icons.el](https://github.com/rainstormstudio/nerd-icons.el) - 
 - [mrcjkb/lua-typecheck-action](https://github.com/mrcjkb/lua-typecheck-action) - A GitHub action that lets you leverage sumneko lua-language-server and EmmyLua to statically type check lua code.
-- [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [redguardtoo/evil-nerd-commenter](https://github.com/redguardtoo/evil-nerd-commenter) - Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork) - An online repository of user scripts.
 - [Anomalocaridid/handlr-regex](https://github.com/Anomalocaridid/handlr-regex) - Fork of handlr with support for regex
 - [ufo5260987423/scheme-langserver](https://github.com/ufo5260987423/scheme-langserver) - Scheme language server
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) - Proof-of-origin token provider plugin for yt-dlp
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
-- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
-- [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion.
@@ -1451,7 +1270,6 @@
 - [hunkyburrito/xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser) - xdg-desktop-portal backend for choosing files with your favorite file chooser
 - [christoph-heinrich/mpv-quality-menu](https://github.com/christoph-heinrich/mpv-quality-menu) - A userscript for MPV that allows you to change the streamed video and audio quality (ytdl-format) on the fly.
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) - FMHY Filterlist
-- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
@@ -1463,9 +1281,7 @@
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 - [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a wayland wallpaper utility with IPC controls.
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
-- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
@@ -1485,7 +1301,6 @@
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -1511,9 +1326,7 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv
-- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad.
-- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## p2p 
@@ -1535,10 +1348,6 @@
 
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 
-## pentesting 
-
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-
 ## perl 
 
 - [exiftool/exiftool](https://github.com/exiftool/exiftool) - ExifTool meta information reader/writer
@@ -1554,7 +1363,6 @@
 
 ## powershell 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
@@ -1562,25 +1370,18 @@
 
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
-- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
-- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -1590,10 +1391,6 @@
 - [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-## programming 
-
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## programming-language 
 
@@ -1620,11 +1417,9 @@
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [LaurenceWarne/qute-code-hint](https://github.com/LaurenceWarne/qute-code-hint) - A Qutebrowser user script for hinting and copying code
-- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -1632,11 +1427,9 @@
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
 ## python3 
 
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
@@ -1649,19 +1442,10 @@
 
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 
-## raspberry-pi 
-
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-
 ## react 
 
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-
-## rest-api 
-
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 
 ## ruby 
 
@@ -1672,14 +1456,11 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
-- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
-- [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
@@ -1709,39 +1490,25 @@
 - [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
-- [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
-- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## security-tools 
 
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
 ## self-hosted 
 
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 
 ## server 
 
@@ -1755,7 +1522,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
-- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
@@ -1768,8 +1534,6 @@
 ## software 
 
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## sql 
 
@@ -1788,7 +1552,6 @@
 - [amurcanov/tg-ws-proxy-android](https://github.com/amurcanov/tg-ws-proxy-android) - Android-форк популярного приложения Flowseal - tg-ws-proxy - локальный прокси-сервер MTProto с проксированием CF или без для частичного обхода проблем загрузки Telegram
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## terminal 
 
@@ -1799,7 +1562,6 @@
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [benotn/kkp](https://github.com/benotn/kkp) - Emacs support for the Kitty Keyboard Protocol
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -1814,7 +1576,6 @@
 ## termux 
 
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## testing 
 
@@ -1833,12 +1594,10 @@
 ## twitter 
 
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## typescript 
 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
@@ -1851,12 +1610,6 @@
 - [AdguardTeam/AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra) - AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren't enough.
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [tophf/mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
-
-## v2ray 
-
-- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
-- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
-- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
 ## video 
 
@@ -1891,10 +1644,7 @@
 
 ## vpn 
 
-- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
-- [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 
 ## vue 
 
@@ -1903,7 +1653,6 @@
 ## web 
 
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 
@@ -1919,8 +1668,6 @@
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
@@ -1930,11 +1677,9 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 ## xml 
 
-- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [tree-sitter-grammars/tree-sitter-xml](https://github.com/tree-sitter-grammars/tree-sitter-xml) - XML & DTD grammars for tree-sitter
 
 ## youtube 
@@ -1944,7 +1689,6 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
