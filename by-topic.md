@@ -65,7 +65,6 @@
 - [jetpack-compose](#jetpack-compose)
 - [json](#json)
 - [kotlin](#kotlin)
-- [language](#language)
 - [languages](#languages)
 - [library](#library)
 - [linux](#linux)
@@ -96,7 +95,6 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
-- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -180,7 +178,6 @@
 
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [Frestein/pkgbuilds](https://github.com/Frestein/pkgbuilds) - [mirror] 📦 Frestein's PKGBUILDs
-- [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
@@ -336,7 +333,6 @@
 
 ## cpp 
 
-- [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
 
 ## cryptography 
@@ -498,7 +494,6 @@
 
 ## git 
 
-- [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [sshaw/git-link](https://github.com/sshaw/git-link) - Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
@@ -523,21 +518,14 @@
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
-- [golang/go](https://github.com/golang/go) - The Go programming language
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 ## golang 
 
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [golang/go](https://github.com/golang/go) - The Go programming language
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
 ## google 
@@ -646,10 +634,6 @@
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
-
-## language 
-
-- [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## languages 
 
@@ -893,7 +877,6 @@
 - [chenxiaolong/BasicSync](https://github.com/chenxiaolong/BasicSync) - A simple app for running Syncthing on Android
 - [anthraxx/linux-hardened](https://github.com/anthraxx/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
-- [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [gggion/let-completion.el](https://github.com/gggion/let-completion.el) - Let-binding values in Elisp completion
 - [cashmeredev/kitty-graphics.el](https://github.com/cashmeredev/kitty-graphics.el) - Display images, video, and scaled text directly in terminal Emacs (emacs -nw) using the Kitty graphics protocol, tmux or Sixel
 - [abcdw/emacs-arei](https://github.com/abcdw/emacs-arei) - Asynchronous Reliable Extensible IDE for Guile Scheme
@@ -903,7 +886,6 @@
 - [magit/with-editor](https://github.com/magit/with-editor) - Use the Emacsclient as the $EDITOR of child processes
 - [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi) - The first Yazi plugin for customizing both header-line and status-line.
 - [akreisher/eshell-syntax-highlighting](https://github.com/akreisher/eshell-syntax-highlighting) - Syntax highlighting for Eshell
-- [Nomadcxx/jellywatch](https://github.com/Nomadcxx/jellywatch) - 
 - [Frestein/russian-layout.mpv](https://github.com/Frestein/russian-layout.mpv) - [mirror] Russian layout bindings for mpv
 - [hababr/Imagus-Reborn](https://github.com/hababr/Imagus-Reborn) - 
 - [nmoroze/tclint](https://github.com/nmoroze/tclint) - Modern dev tools for Tcl • includes a linter, formatter, and editor integration.
@@ -931,7 +913,6 @@
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [tytso/e2fsprogs](https://github.com/tytso/e2fsprogs) - Ext2/3/4 file system utilities
 - [doomelpa/evil-org-mode](https://github.com/doomelpa/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
-- [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
 - [gicrisf/swapforqute](https://github.com/gicrisf/swapforqute) - Redirect and clean URLs in qutebrowser.
 - [holomorph/systemd-mode](https://github.com/holomorph/systemd-mode) - Major mode for editing systemd units
 - [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
@@ -952,7 +933,6 @@
 - [andreasjansson/language-detection.el](https://github.com/andreasjansson/language-detection.el) - Automatic programming language detection of code snippets, in Emacs Lisp
 - [bohonghuang/org-srs](https://github.com/bohonghuang/org-srs) - A feature-rich and flexible spaced repetition system inside Org-mode
 - [wwwjfy/emacs-fish](https://github.com/wwwjfy/emacs-fish) - fish-mode for emacs
-- [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [isamert/corg.el](https://github.com/isamert/corg.el) - 🍾 Auto complete org-mode source/dynamic block headers seamlessly
 - [Shallow-Seek/djvu-view.yazi](https://github.com/Shallow-Seek/djvu-view.yazi) - djvu preview for Yazi file browser
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
@@ -990,7 +970,6 @@
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [purcell/ibuffer-vc](https://github.com/purcell/ibuffer-vc) - Let Emacs' ibuffer-mode group files by git project etc., and show file state
 - [purcell/ibuffer-projectile](https://github.com/purcell/ibuffer-projectile) - Group buffers in Emacs ibuffer-mode by their projectile root directory
-- [flatwhatson/flycheck-guile](https://github.com/flatwhatson/flycheck-guile) - A Flycheck checker for GNU Guile
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [tarsius/hl-todo](https://github.com/tarsius/hl-todo) - Highlight TODO keywords
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
@@ -1047,7 +1026,6 @@
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion.
-- [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [hunkyburrito/xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser) - xdg-desktop-portal backend for choosing files with your favorite file chooser
 - [christoph-heinrich/mpv-quality-menu](https://github.com/christoph-heinrich/mpv-quality-menu) - A userscript for MPV that allows you to change the streamed video and audio quality (ytdl-format) on the fly.
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) - FMHY Filterlist
@@ -1070,7 +1048,6 @@
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
 - [Vladimir-csp/xdg-terminal-exec](https://github.com/Vladimir-csp/xdg-terminal-exec) - Proposal for XDG Default Terminal Execution Specification and shell-based reference implementation.
-- [nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver) - golangci-lint language server
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -1149,10 +1126,6 @@
 ## productivity 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-## programming-language 
-
-- [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## project-management 
 
