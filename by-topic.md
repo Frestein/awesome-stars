@@ -90,7 +90,6 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
-- [phishing](#phishing)
 - [php](#php)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -102,6 +101,7 @@
 - [python3](#python3)
 - [qt](#qt)
 - [react](#react)
+- [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
 - [security-tools](#security-tools)
@@ -738,7 +738,6 @@
 ## malware 
 
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web 
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -849,6 +848,7 @@
 
 ## others 
 
+- [AmanoTeam/Goregram](https://github.com/AmanoTeam/Goregram) - A Telegram fork with minimal extra features
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
 - [Frestein/recent.mpv](https://github.com/Frestein/recent.mpv) - Recently played videos menu
 - [KKV9/compress.yazi](https://github.com/KKV9/compress.yazi) - A Yazi plugin that compresses selected files to an archive.
@@ -1085,12 +1085,9 @@
 
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 
-## phishing 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-
 ## php 
 
+- [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 
 ## powershell 
@@ -1107,7 +1104,6 @@
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -1133,6 +1129,7 @@
 
 ## python 
 
+- [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
@@ -1161,6 +1158,10 @@
 
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+
+## ruby 
+
+- [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 
 ## rust 
 
