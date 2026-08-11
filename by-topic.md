@@ -101,7 +101,6 @@
 - [python3](#python3)
 - [qt](#qt)
 - [react](#react)
-- [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
 - [security-tools](#security-tools)
@@ -848,7 +847,6 @@
 
 ## others 
 
-- [AmanoTeam/Goregram](https://github.com/AmanoTeam/Goregram) - A Telegram fork with minimal extra features
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
 - [Frestein/recent.mpv](https://github.com/Frestein/recent.mpv) - Recently played videos menu
 - [KKV9/compress.yazi](https://github.com/KKV9/compress.yazi) - A Yazi plugin that compresses selected files to an archive.
@@ -1087,7 +1085,6 @@
 
 ## php 
 
-- [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 
 ## powershell 
@@ -1129,7 +1126,6 @@
 
 ## python 
 
-- [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
@@ -1158,10 +1154,6 @@
 
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-
-## ruby 
-
-- [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 
 ## rust 
 
