@@ -225,8 +225,7 @@
 
 ## 📬 Inbox
 
-- [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
-- [AmanoTeam/Goregram](https://github.com/AmanoTeam/Goregram) - A Telegram fork with minimal extra features
+- No repositories
 
 <a name="mpv"></a>
 
