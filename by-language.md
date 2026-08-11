@@ -335,7 +335,6 @@
 
 ## Java 
 
-- [AmanoTeam/Goregram](https://github.com/AmanoTeam/Goregram) - A Telegram fork with minimal extra features
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [gitnex-org/gitnex](https://github.com/gitnex-org/gitnex) - Android client for Forgejo(https://codeberg.org), Gitea(https://gitea.com) [OR your custom hosted server]. Mirror of https://codeberg.org/gitnex/GitNex
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
@@ -482,7 +481,6 @@
 
 ## Others 
 
-- [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [CachyOS/proton-cachyos](https://github.com/CachyOS/proton-cachyos) - Compatibility tool for Steam Play based on Wine and additional components
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
