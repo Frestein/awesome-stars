@@ -854,6 +854,7 @@
 
 ## others 
 
+- [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
 - [Frestein/recent.mpv](https://github.com/Frestein/recent.mpv) - Recently played videos menu
