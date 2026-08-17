@@ -228,6 +228,8 @@
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
+- [thkoch2001/rau](https://github.com/thkoch2001/rau) - Emacs/Wayland based Window Manager in pure elisp with the help of River
+- [retransmission/retransmission](https://github.com/retransmission/retransmission) - Shift Transmission to a higher gear. A fast, easy and free Bittorrent Client For macOS, Windows and Linux 
 
 <a name="mpv"></a>
 
