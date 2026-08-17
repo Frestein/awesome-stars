@@ -855,6 +855,8 @@
 
 ## others 
 
+- [retransmission/retransmission](https://github.com/retransmission/retransmission) - Shift Transmission to a higher gear. A fast, easy and free Bittorrent Client For macOS, Windows and Linux
+- [thkoch2001/rau](https://github.com/thkoch2001/rau) - Emacs/Wayland based Window Manager in pure elisp with the help of River
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
