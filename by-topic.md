@@ -892,7 +892,6 @@
 - [catpuppyapp/SshKeyMan](https://github.com/catpuppyapp/SshKeyMan) - Generate/Manage your ssh keys on Android
 - [ArthurHeymans/emacs-tramp-rpc](https://github.com/ArthurHeymans/emacs-tramp-rpc) - High-performance TRAMP backend using JSON-RPC instead of shell parsing
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
-- [flycheck/flycheck-eglot](https://github.com/flycheck/flycheck-eglot) - Flycheck support for eglot
 - [SqrtMinusOne/dotfiles](https://github.com/SqrtMinusOne/dotfiles) - This road is never-ending
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
 - [purcell/page-break-lines](https://github.com/purcell/page-break-lines) - Emacs: display ugly ^L page breaks as tidy horizontal lines
