@@ -387,6 +387,7 @@
 
 ## emacs 
 
+- [yibie/org-other-agenda](https://github.com/yibie/org-other-agenda) - A different view of your Org agenda: a clickable calendar, proportional time blocks, multi-day bars and full-text search, rendered with TextUI.
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
