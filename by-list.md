@@ -230,6 +230,7 @@
 - [thkoch2001/rau](https://github.com/thkoch2001/rau) - Emacs/Wayland based Window Manager in pure elisp with the help of River
 - [retransmission/retransmission](https://github.com/retransmission/retransmission) - Shift Transmission to a higher gear. A fast, easy and free Bittorrent Client For macOS, Windows and Linux 
 - [cxa/eaglet](https://github.com/cxa/eaglet) - Emacs Eglot Additions
+- [yibie/org-other-agenda](https://github.com/yibie/org-other-agenda) - A different view of your Org agenda: a clickable calendar, proportional time blocks, multi-day bars and full-text search, rendered with TextUI.
 
 <a name="mpv"></a>
 
