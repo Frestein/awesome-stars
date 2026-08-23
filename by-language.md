@@ -165,6 +165,8 @@
 
 ## Emacs Lisp 
 
+- [yibie/org-other-agenda](https://github.com/yibie/org-other-agenda) - A different view of your Org agenda: a clickable calendar, proportional time blocks, multi-day bars and full-text search, rendered with TextUI.
+- [cxa/eaglet](https://github.com/cxa/eaglet) - Emacs Eglot Additions
 - [thkoch2001/rau](https://github.com/thkoch2001/rau) - Emacs/Wayland based Window Manager in pure elisp with the help of River
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
