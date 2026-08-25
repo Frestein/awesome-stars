@@ -30,7 +30,6 @@
 - [Org](#org)
 - [Others](#others)
 - [Pascal](#pascal)
-- [Perl](#perl)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -116,9 +115,7 @@
 
 ## C++ 
 
-- [retransmission/retransmission](https://github.com/retransmission/retransmission) - Shift Transmission to a higher gear. A fast, easy and free Bittorrent Client For macOS, Windows and Linux
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
-- [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
@@ -165,9 +162,6 @@
 
 ## Emacs Lisp 
 
-- [yibie/org-other-agenda](https://github.com/yibie/org-other-agenda) - A different view of your Org agenda: a clickable calendar, proportional time blocks, multi-day bars and full-text search, rendered with TextUI.
-- [cxa/eaglet](https://github.com/cxa/eaglet) - Emacs Eglot Additions
-- [thkoch2001/rau](https://github.com/thkoch2001/rau) - Emacs/Wayland based Window Manager in pure elisp with the help of River
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
@@ -512,10 +506,6 @@
 
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an easy graphical interface to configure linux gaming applications
 
-## Perl 
-
-- [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
-
 ## Python 
 
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
@@ -565,7 +555,6 @@
 
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - Official tldr client written in Rust.
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
-- [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [7mind/kanata-switcher](https://github.com/7mind/kanata-switcher) - Kanata layer switcher based on focused application, for *all* Linux desktop environments  (Wayland and X11)
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
