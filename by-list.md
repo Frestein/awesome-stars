@@ -224,7 +224,8 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [Gleek/org-timegrid](https://github.com/Gleek/org-timegrid) - An SVG week calendar for Emacs, backed by Org files. Drag to create, move and resize; a read-only day strip for Org Agenda.
+- [kvist-lang/kvist](https://github.com/kvist-lang/kvist) - A native, statically typed Lisp with a REPL that compiles to Odin.
 
 <a name="mpv"></a>
 
