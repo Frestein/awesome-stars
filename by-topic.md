@@ -20,7 +20,6 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
-- [clojure](#clojure)
 - [code](#code)
 - [code-quality](#code-quality)
 - [command-line](#command-line)
@@ -95,7 +94,6 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
-- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -301,10 +299,6 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
-## clojure 
-
-- [kvist-lang/kvist](https://github.com/kvist-lang/kvist) - A native, statically typed Lisp with a REPL that compiles to Odin.
-
 ## code 
 
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -326,7 +320,6 @@
 
 ## compiler 
 
-- [kvist-lang/kvist](https://github.com/kvist-lang/kvist) - A native, statically typed Lisp with a REPL that compiles to Odin.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## config 
@@ -843,7 +836,6 @@
 
 ## others 
 
-- [Gleek/org-timegrid](https://github.com/Gleek/org-timegrid) - An SVG week calendar for Emacs, backed by Org files. Drag to create, move and resize; a read-only day strip for Org Agenda.
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
 - [Frestein/recent.mpv](https://github.com/Frestein/recent.mpv) - Recently played videos menu
@@ -1109,10 +1101,6 @@
 ## productivity 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-## programming-language 
-
-- [kvist-lang/kvist](https://github.com/kvist-lang/kvist) - A native, statically typed Lisp with a REPL that compiles to Odin.
 
 ## project-management 
 
