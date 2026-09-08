@@ -27,7 +27,6 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Nim](#nim)
-- [Odin](#odin)
 - [Org](#org)
 - [Others](#others)
 - [Pascal](#pascal)
@@ -161,7 +160,6 @@
 
 ## Emacs Lisp 
 
-- [Gleek/org-timegrid](https://github.com/Gleek/org-timegrid) - An SVG week calendar for Emacs, backed by Org files. Drag to create, move and resize; a read-only day strip for Org Agenda.
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
@@ -473,10 +471,6 @@
 ## Nim 
 
 - [tridactyl/native_messenger](https://github.com/tridactyl/native_messenger) - Native messenger for Tridactyl, a vim-like web-extension.
-
-## Odin 
-
-- [kvist-lang/kvist](https://github.com/kvist-lang/kvist) - A native, statically typed Lisp with a REPL that compiles to Odin.
 
 ## Org 
 
