@@ -160,6 +160,10 @@
 
 ## Emacs Lisp 
 
+- [yibie/epub-reader](https://github.com/yibie/epub-reader) - A native Emacs EPUB reader built on TextUI: width-aware CJK/Latin typography, stable reading locators, bookmarks and annotations
+- [yibie/textui](https://github.com/yibie/textui) - Responsive layouts for declarative, interactive Emacs buffers
+- [yibie/org-table-widget](https://github.com/yibie/org-table-widget) - Display Org tables as responsive pixel-aligned widgets
+- [casouri/valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
