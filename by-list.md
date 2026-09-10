@@ -224,7 +224,10 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [casouri/valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
+- [yibie/org-table-widget](https://github.com/yibie/org-table-widget) - Display Org tables as responsive pixel-aligned widgets
+- [yibie/textui](https://github.com/yibie/textui) - Responsive layouts for declarative, interactive Emacs buffers
+- [yibie/epub-reader](https://github.com/yibie/epub-reader) - A native Emacs EPUB reader built on TextUI: width-aware CJK/Latin typography, stable reading locators, bookmarks and annotations
 
 <a name="mpv"></a>
 
