@@ -836,6 +836,10 @@
 
 ## others 
 
+- [yibie/epub-reader](https://github.com/yibie/epub-reader) - A native Emacs EPUB reader built on TextUI: width-aware CJK/Latin typography, stable reading locators, bookmarks and annotations
+- [yibie/textui](https://github.com/yibie/textui) - Responsive layouts for declarative, interactive Emacs buffers
+- [yibie/org-table-widget](https://github.com/yibie/org-table-widget) - Display Org tables as responsive pixel-aligned widgets
+- [casouri/valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
 - [Frestein/recent.mpv](https://github.com/Frestein/recent.mpv) - Recently played videos menu
