@@ -224,7 +224,10 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [linx-systems/clamui](https://github.com/linx-systems/clamui) - ClamAV Desktop application ( GUI )
+- [pfeifferj/cockpit-pacman](https://github.com/pfeifferj/cockpit-pacman) - A Cockpit plugin for Arch Linux package management using direct alpm.rs integration
+- [benapetr/TuxManager](https://github.com/benapetr/TuxManager) - It's like Windows Task Manager, but for GNU/Linux
+- [bradford-smith94/informant](https://github.com/bradford-smith94/informant) - An Arch Linux News reader and pacman hook
 
 <a name="mpv"></a>
 
