@@ -113,6 +113,7 @@
 
 ## C++ 
 
+- [benapetr/TuxManager](https://github.com/benapetr/TuxManager) - It's like Windows Task Manager, but for GNU/Linux
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
@@ -504,6 +505,8 @@
 
 ## Python 
 
+- [bradford-smith94/informant](https://github.com/bradford-smith94/informant) - An Arch Linux News reader and pacman hook
+- [linx-systems/clamui](https://github.com/linx-systems/clamui) - ClamAV Desktop application ( GUI )
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [anufrievroman/waypaper](https://github.com/anufrievroman/waypaper) - GUI wallpaper manager for Wayland and Xorg Linux systems
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
@@ -633,6 +636,7 @@
 
 ## TypeScript 
 
+- [pfeifferj/cockpit-pacman](https://github.com/pfeifferj/cockpit-pacman) - A Cockpit plugin for Arch Linux package management using direct alpm.rs integration
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
 - [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) - Proof-of-origin token provider plugin for yt-dlp
