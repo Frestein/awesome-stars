@@ -386,6 +386,8 @@
 
 ## emacs 
 
+- [Gleek/excalimacs](https://github.com/Gleek/excalimacs) - Edit Excalidraw drawings in Emacs
+- [yibie/excali-mode](https://github.com/yibie/excali-mode) - Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
