@@ -226,6 +226,7 @@
 
 - [yibie/excali-mode](https://github.com/yibie/excali-mode) - Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API
 - [Gleek/excalimacs](https://github.com/Gleek/excalimacs) - Edit Excalidraw drawings in Emacs
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
 <a name="mpv"></a>
 
