@@ -227,6 +227,8 @@
 - [yibie/excali-mode](https://github.com/yibie/excali-mode) - Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API
 - [Gleek/excalimacs](https://github.com/Gleek/excalimacs) - Edit Excalidraw drawings in Emacs
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [jim60105/bgutil-ytdlp-pot-provider-rs](https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs) - Proof-of-origin token provider plugin for yt-dlp in Rust (Rust)
+- [rougier/tootle](https://github.com/rougier/tootle) - A tiny, text-only, read-only, emoji-free Mastodon client for Emacs.
 
 <a name="mpv"></a>
 
