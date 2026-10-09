@@ -840,6 +840,7 @@
 
 ## others 
 
+- [atgreen/evergreen](https://github.com/atgreen/evergreen) - Evergreen Common Lisp
 - [abcdw/guile-ares-rs](https://github.com/abcdw/guile-ares-rs) - Asyncronous Extensible Reliable Scheme RPC Server for Guile. Mirror of https://git.sr.ht/~abcdw/guile-ares-rs
 - [rougier/tootle](https://github.com/rougier/tootle) - A tiny, text-only, read-only, emoji-free Mastodon client for Emacs.
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
