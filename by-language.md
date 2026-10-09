@@ -551,6 +551,7 @@
 
 ## Rust 
 
+- [atgreen/evergreen](https://github.com/atgreen/evergreen) - Evergreen Common Lisp
 - [jim60105/bgutil-ytdlp-pot-provider-rs](https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs) - Proof-of-origin token provider plugin for yt-dlp in Rust (Rust)
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - Official tldr client written in Rust.
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
