@@ -160,9 +160,6 @@
 
 ## Emacs Lisp 
 
-- [rougier/tootle](https://github.com/rougier/tootle) - A tiny, text-only, read-only, emoji-free Mastodon client for Emacs.
-- [Gleek/excalimacs](https://github.com/Gleek/excalimacs) - Edit Excalidraw drawings in Emacs
-- [yibie/excali-mode](https://github.com/yibie/excali-mode) - Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
@@ -555,8 +552,6 @@
 
 ## Rust 
 
-- [atgreen/evergreen](https://github.com/atgreen/evergreen) - Evergreen Common Lisp
-- [jim60105/bgutil-ytdlp-pot-provider-rs](https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs) - Proof-of-origin token provider plugin for yt-dlp in Rust (Rust)
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - Official tldr client written in Rust.
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -643,7 +638,6 @@
 
 ## TypeScript 
 
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
 - [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) - Proof-of-origin token provider plugin for yt-dlp
