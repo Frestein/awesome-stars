@@ -224,7 +224,7 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A lightweight suite of useful Emacs functions
 
 <a name="mpv"></a>
 
