@@ -387,6 +387,7 @@
 
 ## emacs 
 
+- [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A lightweight suite of useful Emacs functions
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
