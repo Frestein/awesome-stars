@@ -225,6 +225,7 @@
 ## 📬 Inbox
 
 - [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A lightweight suite of useful Emacs functions
+- [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 
 <a name="mpv"></a>
 
