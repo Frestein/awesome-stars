@@ -387,7 +387,6 @@
 
 ## emacs 
 
-- [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A lightweight suite of useful Emacs functions
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
@@ -838,7 +837,6 @@
 
 ## others 
 
-- [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 - [abcdw/guile-ares-rs](https://github.com/abcdw/guile-ares-rs) - Asyncronous Extensible Reliable Scheme RPC Server for Guile. Mirror of https://git.sr.ht/~abcdw/guile-ares-rs
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
