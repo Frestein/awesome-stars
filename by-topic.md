@@ -387,6 +387,7 @@
 
 ## emacs 
 
+- [dmgerman/bookmark-gt](https://github.com/dmgerman/bookmark-gt) - Module for emacs to enhance its bookmarking system
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
