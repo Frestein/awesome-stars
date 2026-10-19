@@ -224,7 +224,7 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [dmgerman/bookmark-gt](https://github.com/dmgerman/bookmark-gt) - Module for emacs to enhance its bookmarking system
 
 <a name="mpv"></a>
 
