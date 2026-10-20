@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
+- [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
@@ -152,6 +153,10 @@
 ## CoffeeScript 
 
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
+
+## Common Lisp 
+
+- [parenworks/rhizome](https://github.com/parenworks/rhizome) - StumpWM-style window manager for the River Wayland compositor, written in Common Lisp
 
 ## Dart 
 
@@ -297,6 +302,7 @@
 
 ## Go 
 
+- [whhone/guix-pull-ready](https://github.com/whhone/guix-pull-ready) - Find the newest GNU Guix commit with 100% prebuilt substitutes ready on Cuirass to avoid local builds during guix pull.
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [rszyma/kanata-tray](https://github.com/rszyma/kanata-tray) - Tray Icon for Kanata
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
