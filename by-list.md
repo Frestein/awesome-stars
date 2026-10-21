@@ -227,6 +227,12 @@
 - [dmgerman/bookmark-gt](https://github.com/dmgerman/bookmark-gt) - Module for emacs to enhance its bookmarking system
 - [parenworks/rhizome](https://github.com/parenworks/rhizome) - StumpWM-style window manager for the River Wayland compositor, written in Common Lisp
 - [whhone/guix-pull-ready](https://github.com/whhone/guix-pull-ready) - Find the newest GNU Guix commit with 100% prebuilt substitutes ready on Cuirass to avoid local builds during guix pull.
+- [lisp-mirror/nodgui](https://github.com/lisp-mirror/nodgui) - NOT ALWAYS IN SYNC · Tk bindings - https://codeberg.org/cage/nodgui
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
+- [lgse/strata](https://github.com/lgse/strata) - The best file manager on Linux
+- [obentoo/bentoo](https://github.com/obentoo/bentoo) - A user-friendly Stage5 of Gentoo Linux. https://t.me/bentoolinux
+- [anlar/tewi](https://github.com/anlar/tewi) - Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge, rTorrent)
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 
 <a name="mpv"></a>
 
@@ -315,6 +321,8 @@
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
+- [FoamScience/xonsh-language-server](https://github.com/FoamScience/xonsh-language-server) - An LSP for Xonsh python-shell 
 
 <a name="shell"></a>
 
@@ -481,6 +489,7 @@
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - Official tldr client written in Rust.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 <a name="typst"></a>
 
