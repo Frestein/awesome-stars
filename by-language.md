@@ -166,6 +166,7 @@
 
 ## Emacs Lisp 
 
+- [aard-fi/elneo](https://github.com/aard-fi/elneo) - 
 - [dmgerman/bookmark-gt](https://github.com/dmgerman/bookmark-gt) - Module for emacs to enhance its bookmarking system
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
