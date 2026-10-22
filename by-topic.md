@@ -869,6 +869,7 @@
 
 ## others 
 
+- [aard-fi/elneo](https://github.com/aard-fi/elneo) - 
 - [obentoo/bentoo](https://github.com/obentoo/bentoo) - A user-friendly Stage5 of Gentoo Linux. https://t.me/bentoolinux
 - [lisp-mirror/nodgui](https://github.com/lisp-mirror/nodgui) - NOT ALWAYS IN SYNC · Tk bindings - https://codeberg.org/cage/nodgui
 - [whhone/guix-pull-ready](https://github.com/whhone/guix-pull-ready) - Find the newest GNU Guix commit with 100% prebuilt substitutes ready on Cuirass to avoid local builds during guix pull.
