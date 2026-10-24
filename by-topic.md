@@ -40,6 +40,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [downloader](#downloader)
 - [electron](#electron)
 - [emacs](#emacs)
 - [emoji](#emoji)
@@ -402,6 +403,10 @@
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [Frestein/dotfiles](https://github.com/Frestein/dotfiles) - [mirror] 🐐 Some goatshit
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## electron 
 
@@ -869,6 +874,9 @@
 
 ## others 
 
+- [atgreen/openldk](https://github.com/atgreen/openldk) - A JIT Compiler and Runtime for Java in Common Lisp
+- [atgreen/evergreen-compose](https://github.com/atgreen/evergreen-compose) - Build native Android apps in Common Lisp with Evergreen Compose.
+- [braiins/llm-jail](https://github.com/braiins/llm-jail) - A Nix script for running CLI coding tools in an isolated MicroVM environment
 - [aard-fi/elneo](https://github.com/aard-fi/elneo) - 
 - [obentoo/bentoo](https://github.com/obentoo/bentoo) - A user-friendly Stage5 of Gentoo Linux. https://t.me/bentoolinux
 - [lisp-mirror/nodgui](https://github.com/lisp-mirror/nodgui) - NOT ALWAYS IN SYNC · Tk bindings - https://codeberg.org/cage/nodgui
