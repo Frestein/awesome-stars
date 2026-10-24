@@ -29,6 +29,7 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Org](#org)
 - [Others](#others)
 - [Pascal](#pascal)
@@ -156,6 +157,7 @@
 
 ## Common Lisp 
 
+- [atgreen/evergreen-compose](https://github.com/atgreen/evergreen-compose) - Build native Android apps in Common Lisp with Evergreen Compose.
 - [lisp-mirror/nodgui](https://github.com/lisp-mirror/nodgui) - NOT ALWAYS IN SYNC · Tk bindings - https://codeberg.org/cage/nodgui
 - [parenworks/rhizome](https://github.com/parenworks/rhizome) - StumpWM-style window manager for the River Wayland compositor, written in Common Lisp
 
@@ -345,6 +347,7 @@
 
 ## Java 
 
+- [atgreen/openldk](https://github.com/atgreen/openldk) - A JIT Compiler and Runtime for Java in Common Lisp
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [gitnex-org/gitnex](https://github.com/gitnex-org/gitnex) - Android client for Forgejo(https://codeberg.org), Gitea(https://gitea.com) [OR your custom hosted server]. Mirror of https://codeberg.org/gitnex/GitNex
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
@@ -482,6 +485,10 @@
 ## Nim 
 
 - [tridactyl/native_messenger](https://github.com/tridactyl/native_messenger) - Native messenger for Tridactyl, a vim-like web-extension.
+
+## Nix 
+
+- [braiins/llm-jail](https://github.com/braiins/llm-jail) - A Nix script for running CLI coding tools in an isolated MicroVM environment
 
 ## Org 
 
