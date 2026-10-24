@@ -234,6 +234,9 @@
 - [anlar/tewi](https://github.com/anlar/tewi) - Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge, rTorrent)
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [aard-fi/elneo](https://github.com/aard-fi/elneo) - 
+- [braiins/llm-jail](https://github.com/braiins/llm-jail) - A Nix script for running CLI coding tools in an isolated MicroVM environment
+- [atgreen/evergreen-compose](https://github.com/atgreen/evergreen-compose) - Build native Android apps in Common Lisp with Evergreen Compose.
+- [atgreen/openldk](https://github.com/atgreen/openldk) - A JIT Compiler and Runtime for Java in Common Lisp
 
 <a name="mpv"></a>
 
