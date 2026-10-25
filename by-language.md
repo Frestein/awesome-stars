@@ -11,7 +11,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
-- [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
@@ -29,7 +28,6 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Nim](#nim)
-- [Nix](#nix)
 - [Org](#org)
 - [Others](#others)
 - [Pascal](#pascal)
@@ -155,12 +153,6 @@
 
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
-## Common Lisp 
-
-- [atgreen/evergreen-compose](https://github.com/atgreen/evergreen-compose) - Build native Android apps in Common Lisp with Evergreen Compose.
-- [lisp-mirror/nodgui](https://github.com/lisp-mirror/nodgui) - NOT ALWAYS IN SYNC · Tk bindings - https://codeberg.org/cage/nodgui
-- [parenworks/rhizome](https://github.com/parenworks/rhizome) - StumpWM-style window manager for the River Wayland compositor, written in Common Lisp
-
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -168,8 +160,6 @@
 
 ## Emacs Lisp 
 
-- [aard-fi/elneo](https://github.com/aard-fi/elneo) - 
-- [dmgerman/bookmark-gt](https://github.com/dmgerman/bookmark-gt) - Module for emacs to enhance its bookmarking system
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
@@ -306,7 +296,6 @@
 
 ## Go 
 
-- [whhone/guix-pull-ready](https://github.com/whhone/guix-pull-ready) - Find the newest GNU Guix commit with 100% prebuilt substitutes ready on Cuirass to avoid local builds during guix pull.
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [rszyma/kanata-tray](https://github.com/rszyma/kanata-tray) - Tray Icon for Kanata
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
@@ -347,7 +336,6 @@
 
 ## Java 
 
-- [atgreen/openldk](https://github.com/atgreen/openldk) - A JIT Compiler and Runtime for Java in Common Lisp
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [gitnex-org/gitnex](https://github.com/gitnex-org/gitnex) - Android client for Forgejo(https://codeberg.org), Gitea(https://gitea.com) [OR your custom hosted server]. Mirror of https://codeberg.org/gitnex/GitNex
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
@@ -486,10 +474,6 @@
 
 - [tridactyl/native_messenger](https://github.com/tridactyl/native_messenger) - Native messenger for Tridactyl, a vim-like web-extension.
 
-## Nix 
-
-- [braiins/llm-jail](https://github.com/braiins/llm-jail) - A Nix script for running CLI coding tools in an isolated MicroVM environment
-
 ## Org 
 
 - [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
@@ -523,7 +507,6 @@
 
 ## Python 
 
-- [anlar/tewi](https://github.com/anlar/tewi) - Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge, rTorrent)
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [FoamScience/xonsh-language-server](https://github.com/FoamScience/xonsh-language-server) - An LSP for Xonsh python-shell
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
@@ -571,9 +554,6 @@
 
 ## Rust 
 
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [lgse/strata](https://github.com/lgse/strata) - The best file manager on Linux
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - Official tldr client written in Rust.
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -629,7 +609,6 @@
 
 ## Shell 
 
-- [obentoo/bentoo](https://github.com/obentoo/bentoo) - A user-friendly Stage5 of Gentoo Linux. https://t.me/bentoolinux
 - [Frestein/pkgbuilds](https://github.com/Frestein/pkgbuilds) - [mirror] 📦 Frestein's PKGBUILDs
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools (read-only mirror)
