@@ -87,7 +87,6 @@
 - [neovim](#neovim)
 - [node](#node)
 - [nodejs](#nodejs)
-- [npm](#npm)
 - [obsidian](#obsidian)
 - [open-source](#open-source)
 - [opengl](#opengl)
@@ -414,7 +413,6 @@
 
 ## emacs 
 
-- [dmgerman/bookmark-gt](https://github.com/dmgerman/bookmark-gt) - Module for emacs to enhance its bookmarking system
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
@@ -622,7 +620,6 @@
 
 ## javascript 
 
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
@@ -662,7 +659,6 @@
 
 ## linux 
 
-- [lgse/strata](https://github.com/lgse/strata) - The best file manager on Linux
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [anufrievroman/waypaper](https://github.com/anufrievroman/waypaper) - GUI wallpaper manager for Wayland and Xorg Linux systems
@@ -838,18 +834,12 @@
 
 ## node 
 
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 
 ## nodejs 
 
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-
-## npm 
-
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 
 ## obsidian 
 
@@ -874,14 +864,6 @@
 
 ## others 
 
-- [atgreen/openldk](https://github.com/atgreen/openldk) - A JIT Compiler and Runtime for Java in Common Lisp
-- [atgreen/evergreen-compose](https://github.com/atgreen/evergreen-compose) - Build native Android apps in Common Lisp with Evergreen Compose.
-- [braiins/llm-jail](https://github.com/braiins/llm-jail) - A Nix script for running CLI coding tools in an isolated MicroVM environment
-- [aard-fi/elneo](https://github.com/aard-fi/elneo) - 
-- [obentoo/bentoo](https://github.com/obentoo/bentoo) - A user-friendly Stage5 of Gentoo Linux. https://t.me/bentoolinux
-- [lisp-mirror/nodgui](https://github.com/lisp-mirror/nodgui) - NOT ALWAYS IN SYNC · Tk bindings - https://codeberg.org/cage/nodgui
-- [whhone/guix-pull-ready](https://github.com/whhone/guix-pull-ready) - Find the newest GNU Guix commit with 100% prebuilt substitutes ready on Cuirass to avoid local builds during guix pull.
-- [parenworks/rhizome](https://github.com/parenworks/rhizome) - StumpWM-style window manager for the River Wayland compositor, written in Common Lisp
 - [abcdw/guile-ares-rs](https://github.com/abcdw/guile-ares-rs) - Asyncronous Extensible Reliable Scheme RPC Server for Guile. Mirror of https://git.sr.ht/~abcdw/guile-ares-rs
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
@@ -1107,7 +1089,6 @@
 
 ## package-manager 
 
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [typst-community/utpm](https://github.com/typst-community/utpm) - A package manager for local and remote Typst packages.
 - [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
@@ -1164,7 +1145,6 @@
 
 ## python 
 
-- [anlar/tewi](https://github.com/anlar/tewi) - Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge, rTorrent)
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
@@ -1200,8 +1180,6 @@
 
 ## rust 
 
-- [lgse/strata](https://github.com/lgse/strata) - The best file manager on Linux
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - Official tldr client written in Rust.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
@@ -1307,7 +1285,6 @@
 
 ## tui 
 
-- [anlar/tewi](https://github.com/anlar/tewi) - Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge, rTorrent)
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
