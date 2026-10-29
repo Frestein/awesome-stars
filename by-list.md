@@ -224,7 +224,8 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [GunduLabs/gaze](https://github.com/GunduLabs/gaze) - Facial authentication for Linux
+- [benvvalk/tree-guide.el](https://github.com/benvvalk/tree-guide.el) - visual guides for lisp editing
 
 <a name="mpv"></a>
 
