@@ -226,6 +226,12 @@
 
 - [GunduLabs/gaze](https://github.com/GunduLabs/gaze) - Facial authentication for Linux
 - [benvvalk/tree-guide.el](https://github.com/benvvalk/tree-guide.el) - visual guides for lisp editing
+- [kickingvegas/mdired](https://github.com/kickingvegas/mdired) - Run SIMD-style operations on marked Emacs Dired items.
+- [fniessen/gptel-commit-msg](https://github.com/fniessen/gptel-commit-msg) - Generate commit messages from diffs with GPTel
+- [WJCFerguson/journalctl](https://github.com/WJCFerguson/journalctl) - Emacs Journald Log Viewer
+- [SebastianMeisel/journalctl-mode](https://github.com/SebastianMeisel/journalctl-mode) - Major mode to view journalctl's output in Emacs
+- [wingo/whippet](https://github.com/wingo/whippet) - A work-in-progress garbage collector for Guile
+- [jglouis/korgnote](https://github.com/jglouis/korgnote) - A cross-platform Org-mode editor with proper agenda and calendar views..
 
 <a name="mpv"></a>
 
