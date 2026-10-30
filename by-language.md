@@ -58,6 +58,7 @@
 
 ## C 
 
+- [wingo/whippet](https://github.com/wingo/whippet) - A work-in-progress garbage collector for Guile
 - [francma/wob](https://github.com/francma/wob) - Lightweight overlay volume, brightness (or anything) bar for Wayland
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [polkit-org/polkit](https://github.com/polkit-org/polkit) - polkit (formerly PolicyKit) is a toolkit for defining and handling authorizations. It is used for allowing unprivileged processes to speak to privileged processes.
@@ -160,6 +161,10 @@
 
 ## Emacs Lisp 
 
+- [SebastianMeisel/journalctl-mode](https://github.com/SebastianMeisel/journalctl-mode) - Major mode to view journalctl's output in Emacs
+- [WJCFerguson/journalctl](https://github.com/WJCFerguson/journalctl) - Emacs Journald Log Viewer
+- [fniessen/gptel-commit-msg](https://github.com/fniessen/gptel-commit-msg) - Generate commit messages from diffs with GPTel
+- [kickingvegas/mdired](https://github.com/kickingvegas/mdired) - Run SIMD-style operations on marked Emacs Dired items.
 - [benvvalk/tree-guide.el](https://github.com/benvvalk/tree-guide.el) - visual guides for lisp editing
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
@@ -372,6 +377,7 @@
 
 ## Kotlin 
 
+- [jglouis/korgnote](https://github.com/jglouis/korgnote) - A cross-platform Org-mode editor with proper agenda and calendar views..
 - [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [YasserNull/shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
