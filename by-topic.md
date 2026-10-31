@@ -659,7 +659,6 @@
 
 ## linux 
 
-- [GunduLabs/gaze](https://github.com/GunduLabs/gaze) - Facial authentication for Linux
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [anufrievroman/waypaper](https://github.com/anufrievroman/waypaper) - GUI wallpaper manager for Wayland and Xorg Linux systems
@@ -865,13 +864,6 @@
 
 ## others 
 
-- [jglouis/korgnote](https://github.com/jglouis/korgnote) - A cross-platform Org-mode editor with proper agenda and calendar views..
-- [wingo/whippet](https://github.com/wingo/whippet) - A work-in-progress garbage collector for Guile
-- [SebastianMeisel/journalctl-mode](https://github.com/SebastianMeisel/journalctl-mode) - Major mode to view journalctl's output in Emacs
-- [WJCFerguson/journalctl](https://github.com/WJCFerguson/journalctl) - Emacs Journald Log Viewer
-- [fniessen/gptel-commit-msg](https://github.com/fniessen/gptel-commit-msg) - Generate commit messages from diffs with GPTel
-- [kickingvegas/mdired](https://github.com/kickingvegas/mdired) - Run SIMD-style operations on marked Emacs Dired items.
-- [benvvalk/tree-guide.el](https://github.com/benvvalk/tree-guide.el) - visual guides for lisp editing
 - [abcdw/guile-ares-rs](https://github.com/abcdw/guile-ares-rs) - Asyncronous Extensible Reliable Scheme RPC Server for Guile. Mirror of https://git.sr.ht/~abcdw/guile-ares-rs
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
