@@ -238,6 +238,7 @@
 
 ## c 
 
+- [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
 - [storaged-project/udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
@@ -370,6 +371,7 @@
 
 ## developer-tools 
 
+- [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
