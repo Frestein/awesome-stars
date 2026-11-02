@@ -224,7 +224,7 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’ 
 
 <a name="mpv"></a>
 
