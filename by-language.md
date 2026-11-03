@@ -58,7 +58,6 @@
 
 ## C 
 
-- [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
 - [francma/wob](https://github.com/francma/wob) - Lightweight overlay volume, brightness (or anything) bar for Wayland
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [polkit-org/polkit](https://github.com/polkit-org/polkit) - polkit (formerly PolicyKit) is a toolkit for defining and handling authorizations. It is used for allowing unprivileged processes to speak to privileged processes.
@@ -161,12 +160,12 @@
 
 ## Emacs Lisp 
 
+- [alberti42/fork-pdf-tools](https://github.com/alberti42/fork-pdf-tools) - Fork of pdf-tools for Emacs
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [purcell/diredfl](https://github.com/purcell/diredfl) - Extra Emacs font lock rules for a more colourful dired
-- [ymarco/auto-activating-snippets](https://github.com/ymarco/auto-activating-snippets) - Snippets for Emacs that expand as you type
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [mcandre/vimrc-mode](https://github.com/mcandre/vimrc-mode) - Enables syntax highlighting for .vimrc/_vimrc files
