@@ -6,6 +6,7 @@
 ## Contents
 
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [api](#api)
 - [archlinux](#archlinux)
@@ -169,6 +170,12 @@
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
+## android-app 
+
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+
 ## angular 
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -238,7 +245,6 @@
 
 ## c 
 
-- [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
 - [storaged-project/udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
@@ -371,7 +377,6 @@
 
 ## developer-tools 
 
-- [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -865,6 +870,7 @@
 
 ## others 
 
+- [alberti42/fork-pdf-tools](https://github.com/alberti42/fork-pdf-tools) - Fork of pdf-tools for Emacs
 - [abcdw/guile-ares-rs](https://github.com/abcdw/guile-ares-rs) - Asyncronous Extensible Reliable Scheme RPC Server for Guile. Mirror of https://git.sr.ht/~abcdw/guile-ares-rs
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
@@ -885,7 +891,6 @@
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
 - [kirasok/epub-preview.yazi](https://github.com/kirasok/epub-preview.yazi) - yazi plugin to preview epub files
 - [purcell/diredfl](https://github.com/purcell/diredfl) - Extra Emacs font lock rules for a more colourful dired
-- [ymarco/auto-activating-snippets](https://github.com/ymarco/auto-activating-snippets) - Snippets for Emacs that expand as you type
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [mcandre/vimrc-mode](https://github.com/mcandre/vimrc-mode) - Enables syntax highlighting for .vimrc/_vimrc files
 - [Frestein/qute-translate-popup](https://github.com/Frestein/qute-translate-popup) - [mirror] 🌐 Display selected text translation in a Qutebrowser popup window
