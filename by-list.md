@@ -224,6 +224,8 @@
 ## 📬 Inbox
 
 - [alberti42/fork-pdf-tools](https://github.com/alberti42/fork-pdf-tools) - Fork of pdf-tools for Emacs
+- [stefanoconiglio/emacs-texpresso-view](https://github.com/stefanoconiglio/emacs-texpresso-view) - Live LaTeX preview inside Emacs: the page beside the source, updated as you type, built on TeXpresso
+- [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 
 <a name="mpv"></a>
 
