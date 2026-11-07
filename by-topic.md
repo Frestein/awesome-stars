@@ -127,6 +127,7 @@
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vscode](#vscode)
 - [vue](#vue)
 - [web](#web)
 - [windows](#windows)
@@ -876,6 +877,7 @@
 
 ## others 
 
+- [benzanol/et](https://github.com/benzanol/et) - A complete type system for Emacs
 - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [alberti42/fork-pdf-tools](https://github.com/alberti42/fork-pdf-tools) - Fork of pdf-tools for Emacs
 - [abcdw/guile-ares-rs](https://github.com/abcdw/guile-ares-rs) - Asyncronous Extensible Reliable Scheme RPC Server for Guile. Mirror of https://git.sr.ht/~abcdw/guile-ares-rs
@@ -1062,7 +1064,6 @@
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [hyprwm/contrib](https://github.com/hyprwm/contrib) - Community scripts and utilities for Hypr projects
 - [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent) - A polkit authentication agent written in hyprtoolkit
-- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
 - [Vladimir-csp/xdg-terminal-exec](https://github.com/Vladimir-csp/xdg-terminal-exec) - Proposal for XDG Default Terminal Execution Specification and shell-based reference implementation.
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
@@ -1343,6 +1344,10 @@
 ## visual-studio-code 
 
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
+
+## vscode 
+
+- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 
 ## vue 
 
