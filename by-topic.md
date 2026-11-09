@@ -665,6 +665,7 @@
 
 ## latex 
 
+- [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [stefanoconiglio/emacs-texpresso-view](https://github.com/stefanoconiglio/emacs-texpresso-view) - Live LaTeX preview inside Emacs: the page beside the source, updated as you type, built on TeXpresso
 
 ## library 
@@ -673,7 +674,7 @@
 
 ## linux 
 
-- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [anufrievroman/waypaper](https://github.com/anufrievroman/waypaper) - GUI wallpaper manager for Wayland and Xorg Linux systems
 - [storaged-project/udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
@@ -713,7 +714,7 @@
 
 ## login 
 
-- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 
 ## lua 
@@ -1297,7 +1298,7 @@
 
 ## tui 
 
-- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
