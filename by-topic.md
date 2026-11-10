@@ -281,7 +281,7 @@
 ## chrome-extension 
 
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension made by EFF to stop companies from spying on you online
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
@@ -632,7 +632,7 @@
 
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension made by EFF to stop companies from spying on you online
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
@@ -1128,7 +1128,7 @@
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension made by EFF to stop companies from spying on you online
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
