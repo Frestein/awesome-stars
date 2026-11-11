@@ -58,6 +58,7 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -247,6 +248,7 @@
 
 ## c 
 
+- [yappologistic/CUI](https://github.com/yappologistic/CUI) - Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.
 - [storaged-project/udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
@@ -565,6 +567,10 @@
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
+## gui 
+
+- [yappologistic/CUI](https://github.com/yappologistic/CUI) - Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.
+
 ## hacktoberfest 
 
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - Official tldr client written in Rust.
@@ -878,6 +884,7 @@
 
 ## others 
 
+- [xiaoxinghu/diff-review](https://github.com/xiaoxinghu/diff-review) - Review a git diff in Emacs the way a pull request page does: real files, inline removed lines, a file tree beside the review, viewed marks that clear when a file changes
 - [benzanol/et](https://github.com/benzanol/et) - A complete type system for Emacs
 - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [alberti42/fork-pdf-tools](https://github.com/alberti42/fork-pdf-tools) - Fork of pdf-tools for Emacs
