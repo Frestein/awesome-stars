@@ -613,7 +613,6 @@
 ## Shell 
 
 - [Frestein/pkgbuilds](https://github.com/Frestein/pkgbuilds) - [mirror] 📦 Frestein's PKGBUILDs
-- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools (read-only mirror)
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
 - [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
