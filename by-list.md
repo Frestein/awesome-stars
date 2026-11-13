@@ -230,6 +230,7 @@
 - [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [xiaoxinghu/diff-review](https://github.com/xiaoxinghu/diff-review) - Review a git diff in Emacs the way a pull request page does: real files, inline removed lines, a file tree beside the review, viewed marks that clear when a file changes
 - [yappologistic/CUI](https://github.com/yappologistic/CUI) - Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.
+- [joaotavora/hermit](https://github.com/joaotavora/hermit) - Emacs completion frontend that keeps to itself
 
 <a name="mpv"></a>
 
