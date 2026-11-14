@@ -884,9 +884,7 @@
 
 ## others 
 
-- [joaotavora/hermit](https://github.com/joaotavora/hermit) - Emacs completion frontend that keeps to itself
 - [xiaoxinghu/diff-review](https://github.com/xiaoxinghu/diff-review) - Review a git diff in Emacs the way a pull request page does: real files, inline removed lines, a file tree beside the review, viewed marks that clear when a file changes
-- [benzanol/et](https://github.com/benzanol/et) - A complete type system for Emacs
 - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [alberti42/fork-pdf-tools](https://github.com/alberti42/fork-pdf-tools) - Fork of pdf-tools for Emacs
 - [abcdw/guile-ares-rs](https://github.com/abcdw/guile-ares-rs) - Asyncronous Extensible Reliable Scheme RPC Server for Guile. Mirror of https://git.sr.ht/~abcdw/guile-ares-rs
