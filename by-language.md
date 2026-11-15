@@ -48,7 +48,6 @@
 ## Adblock Filter List 
 
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-- [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners
 
@@ -58,8 +57,6 @@
 
 ## C 
 
-- [yappologistic/CUI](https://github.com/yappologistic/CUI) - Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.
-- [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [francma/wob](https://github.com/francma/wob) - Lightweight overlay volume, brightness (or anything) bar for Wayland
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [polkit-org/polkit](https://github.com/polkit-org/polkit) - polkit (formerly PolicyKit) is a toolkit for defining and handling authorizations. It is used for allowing unprivileged processes to speak to privileged processes.
@@ -161,9 +158,6 @@
 
 ## Emacs Lisp 
 
-- [xiaoxinghu/diff-review](https://github.com/xiaoxinghu/diff-review) - Review a git diff in Emacs the way a pull request page does: real files, inline removed lines, a file tree beside the review, viewed marks that clear when a file changes
-- [stefanoconiglio/emacs-texpresso-view](https://github.com/stefanoconiglio/emacs-texpresso-view) - Live LaTeX preview inside Emacs: the page beside the source, updated as you type, built on TeXpresso
-- [alberti42/fork-pdf-tools](https://github.com/alberti42/fork-pdf-tools) - Fork of pdf-tools for Emacs
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
@@ -508,7 +502,6 @@
 
 ## Python 
 
-- [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [FoamScience/xonsh-language-server](https://github.com/FoamScience/xonsh-language-server) - An LSP for Xonsh python-shell
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
@@ -621,6 +614,7 @@
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
+- [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web 
