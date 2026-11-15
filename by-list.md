@@ -223,12 +223,7 @@
 
 ## 📬 Inbox
 
-- [alberti42/fork-pdf-tools](https://github.com/alberti42/fork-pdf-tools) - Fork of pdf-tools for Emacs
-- [stefanoconiglio/emacs-texpresso-view](https://github.com/stefanoconiglio/emacs-texpresso-view) - Live LaTeX preview inside Emacs: the page beside the source, updated as you type, built on TeXpresso
-- [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
-- [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
-- [xiaoxinghu/diff-review](https://github.com/xiaoxinghu/diff-review) - Review a git diff in Emacs the way a pull request page does: real files, inline removed lines, a file tree beside the review, viewed marks that clear when a file changes
-- [yappologistic/CUI](https://github.com/yappologistic/CUI) - Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.
+- No repositories
 
 <a name="mpv"></a>
 
