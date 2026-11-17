@@ -421,6 +421,7 @@
 
 ## emacs 
 
+- [szymonwilczek/au-themes](https://github.com/szymonwilczek/au-themes) - Calm, low-glare themes for Emacs
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
