@@ -223,7 +223,7 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [szymonwilczek/au-themes](https://github.com/szymonwilczek/au-themes) - Calm, low-glare themes for Emacs
 
 <a name="mpv"></a>
 
