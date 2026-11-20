@@ -223,7 +223,7 @@
 
 ## 📬 Inbox
 
-- No repositories
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 
 <a name="mpv"></a>
 
