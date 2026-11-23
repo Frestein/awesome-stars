@@ -5,6 +5,9 @@
 
 ## Contents
 
+- [agent](#agent)
+- [ai](#ai)
+- [ai-agents](#ai-agents)
 - [android](#android)
 - [android-app](#android-app)
 - [angular](#angular)
@@ -42,6 +45,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [downloader](#downloader)
+- [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
 - [emacs](#emacs)
 - [emoji](#emoji)
@@ -82,6 +86,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -91,6 +96,7 @@
 - [nodejs](#nodejs)
 - [obsidian](#obsidian)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opengl](#opengl)
 - [others](#others)
 - [p2p](#p2p)
@@ -135,6 +141,19 @@
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
+
+## agent 
+
+- [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) - Autolith is a self-modifiable general purpose Lisp AI agent
+
+## ai 
+
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
+- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
+
+## ai-agents 
+
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 
 ## android 
 
@@ -245,6 +264,7 @@
 
 ## bash 
 
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -300,10 +320,12 @@
 
 ## claude 
 
+- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## claude-code 
 
+- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## cli 
@@ -425,12 +447,17 @@
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
+## dsh-plugin 
+
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+
 ## electron 
 
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 
 ## emacs 
 
+- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
@@ -681,6 +708,7 @@
 
 ## linux 
 
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
@@ -722,6 +750,8 @@
 
 ## llm 
 
+- [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) - Autolith is a self-modifiable general purpose Lisp AI agent
+- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
 - [ciddwd/overlay-translator](https://github.com/ciddwd/overlay-translator) - 无需 ROOT 的开源 Android 屏幕实时翻译工具，适合游戏、视觉小说和漫画。支持端侧与云端 OCR、离线 LLM、多种翻译服务和文字朗读（TTS），译文可直接显示在画面上。Open-source no-root Android real-time screen translator for games, visual novels, and manga. Supports on-devic
 
 ## login 
@@ -766,6 +796,7 @@
 
 ## macos 
 
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
@@ -799,6 +830,10 @@
 
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
+
+## mcp 
+
+- [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) - Autolith is a self-modifiable general purpose Lisp AI agent
 
 ## mobile 
 
@@ -875,6 +910,7 @@
 
 ## open-source 
 
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [FossifyOrg/Contacts](https://github.com/FossifyOrg/Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
@@ -886,16 +922,23 @@
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 
+## openai 
+
+- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
+
 ## opengl 
 
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 
 ## others 
 
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
+- [xenodium/emacs-skills](https://github.com/xenodium/emacs-skills) - Emacs skills for coding agents
 - [d4rken-org/porter](https://github.com/d4rken-org/porter) - ADB access for your apps. A minimal, maintained Shizuku fork.
 - [HmnDev-Tech/shevery](https://github.com/HmnDev-Tech/shevery) - Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.
 - [rushiranpise/Shizuku-Next](https://github.com/rushiranpise/Shizuku-Next) - A feature-rich Shizuku fork with improved setup, reliability, UI, and additional start methods.
-- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [abcdw/guile-ares-rs](https://github.com/abcdw/guile-ares-rs) - Asyncronous Extensible Reliable Scheme RPC Server for Guile. Mirror of https://git.sr.ht/~abcdw/guile-ares-rs
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
@@ -1208,6 +1251,7 @@
 
 ## rust 
 
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - Official tldr client written in Rust.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
@@ -1254,6 +1298,7 @@
 
 ## shell 
 
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [SqrtMinusOne/eshell-atuin](https://github.com/SqrtMinusOne/eshell-atuin) - eshell ❤️ atuin
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
@@ -1287,6 +1332,8 @@
 
 ## terminal 
 
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+- [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) - Autolith is a self-modifiable general purpose Lisp AI agent
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -1372,6 +1419,7 @@
 
 ## vue 
 
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## web 
@@ -1409,6 +1457,7 @@
 
 ## zsh 
 
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [abcdw/rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments. Mirror of https://sr.ht/~abcdw/rde/
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
