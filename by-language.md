@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
+- [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
@@ -151,6 +152,10 @@
 
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
+## Common Lisp 
+
+- [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) - Autolith is a self-modifiable general purpose Lisp AI agent
+
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -158,6 +163,8 @@
 
 ## Emacs Lisp 
 
+- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
+- [xenodium/emacs-skills](https://github.com/xenodium/emacs-skills) - Emacs skills for coding agents
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [mwolson/eglot-python-preset](https://github.com/mwolson/eglot-python-preset) - Configure Python LSP support for Emacs using Eglot
@@ -558,6 +565,8 @@
 
 ## Rust 
 
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - Official tldr client written in Rust.
 - [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
@@ -644,6 +653,9 @@
 
 ## TypeScript 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
 - [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) - Proof-of-origin token provider plugin for yt-dlp
