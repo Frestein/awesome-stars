@@ -430,6 +430,8 @@
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) - Autolith is a self-modifiable general purpose Lisp AI agent
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
+- [compilerla/conventional-pre-commit](https://github.com/compilerla/conventional-pre-commit) - A pre-commit hook that checks commit messages for Conventional Commits formatting
 
 <a name="yazi"></a>
 
