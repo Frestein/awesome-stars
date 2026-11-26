@@ -417,19 +417,18 @@
 
 ## Lua 
 
+- [Frestein/mediainfo.yazi](https://github.com/Frestein/mediainfo.yazi) - Preview media files
+- [Frestein/restore.yazi](https://github.com/Frestein/restore.yazi) - Undo/Recover trashed files/folders
+- [Frestein/save-clipboard-to-file.yazi](https://github.com/Frestein/save-clipboard-to-file.yazi) - Paste clipboard content to file
 - [Frestein/reload.mpv](https://github.com/Frestein/reload.mpv) - Automatic reloading of slow/stuck video streams
 - [Frestein/recent.mpv](https://github.com/Frestein/recent.mpv) - Recently played videos menu
 - [llanosrocas/githead.yazi](https://github.com/llanosrocas/githead.yazi) - Git status header for yazi inspired by powerlevel10k
 - [KKV9/compress.yazi](https://github.com/KKV9/compress.yazi) - A Yazi plugin that compresses selected files to an archive.
 - [nvim-mini/mini.hipatterns](https://github.com/nvim-mini/mini.hipatterns) - Highlight patterns in text. Part of 'mini.nvim' library.
 - [kirasok/epub-preview.yazi](https://github.com/kirasok/epub-preview.yazi) - yazi plugin to preview epub files
-- [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi) - The first Yazi plugin for customizing both header-line and status-line.
 - [Frestein/russian-layout.mpv](https://github.com/Frestein/russian-layout.mpv) - [mirror] Russian layout bindings for mpv
-- [macydnah/office.yazi](https://github.com/macydnah/office.yazi) - Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards
 - [Shallow-Seek/djvu-view.yazi](https://github.com/Shallow-Seek/djvu-view.yazi) - djvu preview for Yazi file browser
-- [boydaihungst/save-clipboard-to-file.yazi](https://github.com/boydaihungst/save-clipboard-to-file.yazi) - Yazi plugin to paste clipboard content to file.
 - [tasnimAlam/thumbnail.yazi](https://github.com/tasnimAlam/thumbnail.yazi) - A Yazi file manager plugin to open images in Swayimg gallery viewer
-- [boydaihungst/mediainfo.yazi](https://github.com/boydaihungst/mediainfo.yazi) - Yazi plugin for previewing media files
 - [yazi-rs/plugins](https://github.com/yazi-rs/plugins) - Place code snippets from docs into this monorepo, so that users can update more easily via package manager.
 - [ferreum/mpv-skipsilence](https://github.com/ferreum/mpv-skipsilence) - Increase playback speed during silence - a revolution in attention-deficit induction technology.
 - [bitingsock/ytdl-preload](https://github.com/bitingsock/ytdl-preload) - mpv script to precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. It will delete the directory on exit.
