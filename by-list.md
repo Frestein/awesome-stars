@@ -189,6 +189,7 @@
 - [emacsorphanage/evil-anzu](https://github.com/emacsorphanage/evil-anzu) - Anzu for Evil
 - [xenodium/emacs-skills](https://github.com/xenodium/emacs-skills) - Emacs skills for coding agents
 - [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
+- [Frestein/emacs-skills](https://github.com/Frestein/emacs-skills) - Emacs skills for coding agents
 
 <a name="inbox"></a>
 
