@@ -119,6 +119,7 @@
 - [security](#security)
 - [security-tools](#security-tools)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [statistics](#statistics)
 - [svelte](#svelte)
@@ -457,6 +458,7 @@
 
 ## emacs 
 
+- [Frestein/emacs-skills](https://github.com/Frestein/emacs-skills) - Emacs skills for coding agents
 - [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
@@ -1314,6 +1316,10 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+
+## skills 
+
+- [Frestein/emacs-skills](https://github.com/Frestein/emacs-skills) - Emacs skills for coding agents
 
 ## software 
 
