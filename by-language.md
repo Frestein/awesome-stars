@@ -476,6 +476,7 @@
 
 ## Markdown 
 
+- [Frestein/emacs-skills](https://github.com/Frestein/emacs-skills) - Emacs skills for coding agents
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
